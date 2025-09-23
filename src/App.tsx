@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState, type KeyboardEvent } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState, type KeyboardEvent } from 'react'
 import wordsData from './data/words.json'
 
 type WordItem = {
@@ -19,6 +19,9 @@ const App = () => {
   const [shownCounts, setShownCounts] = useState<Record<number, number>>({})
   const [error, setError] = useState<string | null>(null)
   const inputRef = useRef<HTMLInputElement | null>(null)
+  const [selectedSeconds, setSelectedSeconds] = useState<number>(10)
+  const [remainingSeconds, setRemainingSeconds] = useState<number>(10)
+  const timerRef = useRef<number | null>(null)
 
 
   useEffect(() => {
@@ -39,7 +42,31 @@ const App = () => {
     return words[currentIndex]
   }, [words, currentIndex])
 
-  const findNextIndex = (): number | null => {
+  // Countdown: reset and start when word or selection changes
+  useEffect(() => {
+    if (!currentWord) return
+    setRemainingSeconds(selectedSeconds)
+    if (timerRef.current) {
+      window.clearInterval(timerRef.current)
+    }
+    timerRef.current = window.setInterval(() => {
+      setRemainingSeconds((prev) => {
+        if (prev <= 1) {
+          // time's up → auto advance
+          window.clearInterval(timerRef.current || undefined)
+          goToNextRandomWord()
+          return selectedSeconds // will be reset by effect on index change
+        }
+        return prev - 1
+      })
+    }, 1000)
+
+    return () => {
+      if (timerRef.current) window.clearInterval(timerRef.current)
+    }
+  }, [currentIndex, selectedSeconds, currentWord])
+
+  const findNextIndex = useCallback((): number | null => {
     if (words.length === 0) return null
     const candidates = words
       .map((_, idx) => idx)
@@ -47,22 +74,25 @@ const App = () => {
 
     if (candidates.length === 0) return null
     return candidates[getRandomIndex(candidates.length)]
-  }
+  }, [words, shownCounts])
+
+  const goToNextRandomWord = useCallback(() => {
+    const next = findNextIndex()
+    if (next === null) {
+      setError('Hoàn thành! Không còn từ nào để luyện nữa.')
+      return
+    }
+    setCurrentIndex(next)
+    setShownCounts((prev) => ({ ...prev, [next]: (prev[next] ?? 0) + 1 }))
+    setInputValue('')
+  }, [findNextIndex])
 
   const handleSubmit = () => {
     if (!currentWord) return
     const isCorrect = inputValue.trim().toLowerCase() === currentWord.roma.toLowerCase()
     if (!isCorrect) return setError('Sai! Vui lòng thử lại.')
 
-    const next = findNextIndex()
-    if (next === null) {
-      setError('Hoàn thành! Không còn từ nào để luyện nữa.')
-      return
-    }
-
-    setCurrentIndex(next)
-    setShownCounts((prev) => ({ ...prev, [next]: (prev[next] ?? 0) + 1 }))
-    setInputValue('')
+    goToNextRandomWord()
   }
 
   const handleKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
@@ -78,10 +108,48 @@ const App = () => {
     )
   }
 
+  
+
   return (
     <main className="min-h-screen flex items-center justify-center bg-gray-50 p-4">
       <div className="w-full max-w-md bg-white rounded-xl shadow-sm border border-gray-200 p-6">
         <div className="flex flex-col items-center gap-4">
+          {/* Countdown selector */}
+          <div className="w-full">
+            <fieldset className="w-full" aria-label="Chọn thời gian tự chuyển">
+              <legend className="text-sm font-medium text-gray-700 mb-2">Tự chuyển sau</legend>
+              <div className="grid grid-cols-3 gap-2" role="radiogroup">
+                {[5, 10, 15].map((sec) => {
+                  const isActive = selectedSeconds === sec
+                  const base = 'w-full rounded-lg border px-3 py-2 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-offset-2'
+                  const active = 'border-blue-600 bg-blue-600 text-white focus:ring-blue-500'
+                  const inactive = 'border-gray-300 bg-white text-gray-700 hover:border-gray-400 focus:ring-gray-300'
+                  const className = `${base} ${isActive ? active : inactive}`
+                  return (
+                    <button
+                      key={sec}
+                      type="button"
+                      role="radio"
+                      aria-checked={isActive}
+                      aria-label={`${sec} giây`}
+                      tabIndex={0}
+                      className={className}
+                      onClick={() => setSelectedSeconds(sec)}
+                      onKeyDown={(e) => {
+                        if (e.key === 'Enter' || e.key === ' ') setSelectedSeconds(sec)
+                      }}
+                    >
+                      {sec}s
+                    </button>
+                  )
+                })}
+              </div>
+            </fieldset>
+            <div className="mt-2 text-xs text-gray-500" aria-live="polite">
+              Còn lại: {remainingSeconds}s
+            </div>
+          </div>
+
           <div
             role="heading"
             aria-level={1}
