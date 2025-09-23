@@ -17,7 +17,9 @@ const App = () => {
   const [currentIndex, setCurrentIndex] = useState<number>(0)
   const [inputValue, setInputValue] = useState<string>('')
   const [shownCounts, setShownCounts] = useState<Record<number, number>>({})
+  const [error, setError] = useState<string | null>(null)
   const inputRef = useRef<HTMLInputElement | null>(null)
+
 
   useEffect(() => {
     const data = (wordsData as WordItem[]) ?? []
@@ -50,11 +52,11 @@ const App = () => {
   const handleSubmit = () => {
     if (!currentWord) return
     const isCorrect = inputValue.trim().toLowerCase() === currentWord.roma.toLowerCase()
-    if (!isCorrect) return
+    if (!isCorrect) return setError('Sai! Vui lòng thử lại.')
 
     const next = findNextIndex()
     if (next === null) {
-      alert('Hoàn thành! Không còn từ nào để luyện nữa.')
+      setError('Hoàn thành! Không còn từ nào để luyện nữa.')
       return
     }
 
@@ -64,13 +66,14 @@ const App = () => {
   }
 
   const handleKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
-    if (e.key === 'Enter') handleSubmit()
+    setError(null)
+    if (e.key === 'Enter' || e.key === ' ') handleSubmit()
   }
 
   if (!currentWord) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-50">
-        <p className="text-gray-500">Không có dữ liệu.</p>
+        <p className="text-gray-500">{error || 'Không có dữ liệu.'}</p>
       </div>
     )
   }
@@ -100,6 +103,7 @@ const App = () => {
             tabIndex={0}
           />
 
+          {error && <p className="text-red-500">{error}</p>}
           <div className="w-full flex items-center justify-between text-sm text-gray-500">
             <span>
               Lượt đã hiển thị: {(shownCounts[currentIndex] ?? 1)} / 2
@@ -114,7 +118,7 @@ const App = () => {
             className="w-full mt-2 rounded-lg bg-blue-600 hover:bg-blue-700 text-white px-4 py-3 font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
             tabIndex={0}
           >
-            Kiểm tra & tiếp tục
+            Tiếp tục
           </button>
         </div>
       </div>
