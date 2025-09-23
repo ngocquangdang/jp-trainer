@@ -22,6 +22,8 @@ const App = () => {
   const [selectedSeconds, setSelectedSeconds] = useState<number>(10)
   const [remainingSeconds, setRemainingSeconds] = useState<number>(10)
   const timerRef = useRef<number | null>(null)
+  const [viewMode, setViewMode] = useState<'hiragana' | 'katakana'>('hiragana')
+  const handleSelectViewMode = (mode: 'hiragana' | 'katakana') => setViewMode(mode)
 
 
   useEffect(() => {
@@ -41,6 +43,57 @@ const App = () => {
     if (words.length === 0) return null
     return words[currentIndex]
   }, [words, currentIndex])
+
+  // removed: currentChar, panel renders the correct char per mode
+
+  const renderPanel = (mode: 'hiragana' | 'katakana') => {
+    if (!currentWord) return null
+    const char = mode === 'hiragana' ? currentWord.hiragana : currentWord.kana
+    return (
+      <>
+        <div
+          id={`panel-${mode}`}
+          role="heading"
+          aria-level={1}
+          className="text-7xl font-semibold tracking-wide text-gray-900 select-none w-full flex items-center justify-center"
+          aria-label={mode === 'hiragana' ? 'Ký tự hiragana' : 'Ký tự katakana'}
+        >
+          {char}
+        </div>
+
+        <input
+          ref={inputRef}
+          type="text"
+          inputMode="text"
+          aria-label="Nhập romaji"
+          placeholder="Nhập romaji và nhấn Enter"
+          value={inputValue}
+          onChange={(e) => setInputValue(e.target.value)}
+          onKeyDown={handleKeyDown}
+          className="w-full rounded-lg border border-gray-300 px-4 py-3 text-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent mt-4"
+          tabIndex={0}
+        />
+
+        {error && <p className="text-red-500 mt-2">{error}</p>}
+        <div className="w-full flex items-center justify-between text-sm text-gray-500 mt-2">
+          <span>
+            Lượt đã hiển thị: {(shownCounts[currentIndex] ?? 1)} / 2
+          </span>
+          <span>Từ vựng: {currentIndex + 1} / {words.length}</span>
+        </div>
+
+        <button
+          type="button"
+          onClick={handleSubmit}
+          aria-label="Xác nhận câu trả lời"
+          className="w-full mt-2 rounded-lg bg-blue-600 hover:bg-blue-700 text-white px-4 py-3 font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+          tabIndex={0}
+        >
+          Tiếp tục
+        </button>
+      </>
+    )
+  }
 
   // Countdown: reset and start when word or selection changes
   useEffect(() => {
@@ -150,44 +203,52 @@ const App = () => {
             </div>
           </div>
 
-          <div
-            role="heading"
-            aria-level={1}
-            className="text-7xl font-semibold tracking-wide text-gray-900 select-none"
-          >
-            {currentWord.hiragana}
+          {/* Tabs: Hiragana / Katakana */}
+          <div className="w-full">
+            <div role="tablist" aria-label="Chọn bảng chữ" className="grid grid-cols-2 gap-2">
+              {[
+                { key: 'hiragana', label: 'Hiragana' },
+                { key: 'katakana', label: 'Katakana' },
+              ].map((tab) => {
+                const isActive = viewMode === (tab.key as 'hiragana' | 'katakana')
+                const base = 'w-full rounded-lg border px-3 py-2 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-offset-2'
+                const active = 'border-purple-600 bg-purple-600 text-white focus:ring-purple-500'
+                const inactive = 'border-gray-300 bg-white text-gray-700 hover:border-gray-400 focus:ring-gray-300'
+                const className = `${base} ${isActive ? active : inactive}`
+                return (
+                  <button
+                    key={tab.key}
+                    type="button"
+                    role="tab"
+                    aria-selected={isActive}
+                    aria-controls={`panel-${tab.key}`}
+                    id={`tab-${tab.key}`}
+                    tabIndex={0}
+                    className={className}
+                    onClick={() => handleSelectViewMode(tab.key as 'hiragana' | 'katakana')}
+                    onKeyDown={(e) => {
+                      if (e.key === 'Enter' || e.key === ' ') handleSelectViewMode(tab.key as 'hiragana' | 'katakana')
+                    }}
+                  >
+                    {tab.label}
+                  </button>
+                )
+              })}
+            </div>
           </div>
 
-          <input
-            ref={inputRef}
-            type="text"
-            inputMode="text"
-            aria-label="Nhập romaji"
-            placeholder="Nhập romaji và nhấn Enter"
-            value={inputValue}
-            onChange={(e) => setInputValue(e.target.value)}
-            onKeyDown={handleKeyDown}
-            className="w-full rounded-lg border border-gray-300 px-4 py-3 text-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-            tabIndex={0}
-          />
+          {/* Active tab panel wrapping inner component */}
+          {viewMode === 'hiragana' ? (
+            <div role="tabpanel" id="panel-hiragana" aria-labelledby="tab-hiragana" className="w-full items-center justify-center">
+              {renderPanel('hiragana')}
+            </div>
+          ) : (
+            <div role="tabpanel" id="panel-katakana" aria-labelledby="tab-katakana" className="w-full items-center justify-center">
+              {renderPanel('katakana')}
+            </div>
+          )}
 
-          {error && <p className="text-red-500">{error}</p>}
-          <div className="w-full flex items-center justify-between text-sm text-gray-500">
-            <span>
-              Lượt đã hiển thị: {(shownCounts[currentIndex] ?? 1)} / 2
-            </span>
-            <span>Từ vựng: {currentIndex + 1} / {words.length}</span>
-          </div>
 
-          <button
-            type="button"
-            onClick={handleSubmit}
-            aria-label="Xác nhận câu trả lời"
-            className="w-full mt-2 rounded-lg bg-blue-600 hover:bg-blue-700 text-white px-4 py-3 font-medium focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
-            tabIndex={0}
-          >
-            Tiếp tục
-          </button>
         </div>
       </div>
     </main>
