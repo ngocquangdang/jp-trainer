@@ -1,0 +1,448 @@
+[
+  {
+    "hiragana": "あ",
+    "kana": "ア",
+    "roma": "a",
+    "kanji": "ア"
+  },
+  {
+    "hiragana": "い",
+    "kana": "イ",
+    "roma": "i",
+    "kanji": "イ"
+  },
+  
+  {
+    "hiragana": "う",
+    "kana": "ウ",
+    "roma": "u",
+    "kanji": "ウ"
+  },
+  
+  {
+    "hiragana": "え",
+    "kana": "エ",
+    "roma": "e",
+    "kanji": "エ"
+  },
+  
+  {
+    "hiragana": "お",
+    "kana": "オ",
+    "roma": "o",
+    "kanji": "オ"
+  },
+  
+  {
+    "hiragana": "か",
+    "kana": "カ",
+    "roma": "ka",
+    "kanji": "カ"
+  },
+  
+  {
+    "hiragana": "き",
+    "kana": "キ",
+    "roma": "ki",
+    "kanji": "キ"
+  },
+  {
+    "hiragana": "く",
+    "kana": "ク",
+    "roma": "ku",
+    "kanji": "ク"
+  },
+  
+  {
+    "hiragana": "け",
+    "kana": "ケ",
+    "roma": "ke",
+    "kanji": "ケ"
+  },
+  
+  {
+    "hiragana": "こ",
+    "kana": "コ",
+    "roma": "ko",
+    "kanji": "コ"
+  },
+  
+  {
+    "hiragana": "さ",
+    "kana": "サ",
+    "roma": "sa",
+    "kanji": "サ"
+  },
+  
+  {
+    "hiragana": "し",
+    "kana": "シ",
+    "roma": "shi",
+    "kanji": "シ"
+  },
+  
+  {
+    "hiragana": "す",
+    "kana": "ス",
+    "roma": "su",
+    "kanji": "ス"
+  },
+  {
+    "hiragana": "た",
+    "kana": "タ",
+    "roma": "ta",
+    "kanji": "タ"
+  },
+  
+  {
+    "hiragana": "ち",
+    "kana": "チ",
+    "roma": "chi",
+    "kanji": "チ"
+  },
+  
+  {
+    "hiragana": "つ",
+    "kana": "ツ",
+    "roma": "tsu",
+    "kanji": "ツ"
+  },
+  
+  {
+    "hiragana": "て",
+    "kana": "テ",
+    "roma": "te",
+    "kanji": "テ"
+  },
+  
+  {
+    "hiragana": "と",
+    "kana": "ト",
+    "roma": "to",
+    "kanji": "ト"
+  },
+  
+  {
+    "hiragana": "な",
+    "kana": "ナ",
+    "roma": "na",
+    "kanji": "ナ"
+  },
+  {
+    "hiragana": "や",
+    "kana": "ヤ",
+    "roma": "ya",
+    "kanji": "ヤ"
+  },
+  {
+    "hiragana": "よ",
+    "kana": "ヨ",
+    "roma": "yo",
+    "kanji": "ヨ"
+  },
+  {
+    "hiragana": "ら",
+    "kana": "ラ",
+    "roma": "ra",
+    "kanji": "ラ"
+  },
+  {
+    "hiragana": "り",
+    "kana": "リ",
+    "roma": "ri",
+    "kanji": "リ"
+  },
+  {
+    "hiragana": "る",
+    "kana": "ル",
+    "roma": "ru",
+    "kanji": "ル"
+  },
+  {
+    "hiragana": "れ",
+    "kana": "レ",
+    "roma": "re",
+    "kanji": "レ"
+  },
+  {
+    "hiragana": "ろ",
+    "kana": "ロ",
+    "roma": "ro",
+    "kanji": "ロ"
+  },
+  {
+    "hiragana": "わ",
+    "kana": "ワ",
+    "roma": "wa",
+    "kanji": "ワ"
+  },
+  
+  {
+    "hiragana": "ん",
+    "kana": "ン",
+    "roma": "n",
+    "kanji": "ン"
+  },
+  {
+    "hiragana": "が",
+    "kana": "ガ",
+    "roma": "ga",
+    "kanji": "ガ"
+  },
+  {
+    "hiragana": "ぎ",
+    "kana": "ギ",
+    "roma": "gi",
+    "kanji": "ギ"
+  },
+  {
+    "hiragana": "ぐ",
+    "kana": "グ",
+    "roma": "gu",
+    "kanji": "グ"
+  },
+  {
+    "hiragana": "げ",
+    "kana": "ゲ",
+    "roma": "ge",
+    "kanji": "ゲ"
+  },
+  {
+    "hiragana": "ご",
+    "kana": "ゴ",
+    "roma": "go",
+    "kanji": "ゴ"
+  },
+  {
+    "hiragana": "ざ",
+    "kana": "ザ",
+    "roma": "za",
+    "kanji": "ザ"
+  },
+  {
+    "hiragana": "じ",
+    "kana": "ジ",
+    "roma": "ji",
+    "kanji": "ジ"
+  },
+  {
+    "hiragana": "ず",
+    "kana": "ズ",
+    "roma": "zu",
+    "kanji": "ズ"
+  },
+  {
+    "hiragana": "ぜ",
+    "kana": "ゼ",
+    "roma": "ze",
+    "kanji": "ゼ"
+  },
+  {
+    "hiragana": "ぞ",
+    "kana": "ゾ",
+    "roma": "zo",
+    "kanji": "ゾ"
+  },
+  {
+    "hiragana": "だ",
+    "kana": "ダ",
+    "roma": "da",
+    "kanji": "ダ"
+  },
+  {
+    "hiragana": "ぢ",
+    "kana": "ヂ",
+    "roma": "di",
+    "kanji": "ヂ"
+  },
+  {
+    "hiragana": "づ",
+    "kana": "ヅ",
+    "roma": "du",
+    "kanji": "ヅ"
+  },
+  {
+    "hiragana": "で",
+    "kana": "デ",
+    "roma": "de",
+    "kanji": "デ"
+  },
+  {
+    "hiragana": "ど",
+    "kana": "ド",
+    "roma": "do",
+    "kanji": "ド"
+  },
+  {
+    "hiragana": "ば",
+    "kana": "バ",
+    "roma": "ba",
+    "kanji": "バ"
+  },
+  {
+    "hiragana": "び",
+    "kana": "ビ",
+    "roma": "bi",
+    "kanji": "ビ"
+  },
+  {
+    "hiragana": "ぶ",
+    "kana": "ブ",
+    "roma": "bu",
+    "kanji": "ブ"
+  },
+  {
+    "hiragana": "べ",
+    "kana": "ベ",
+    "roma": "be",
+    "kanji": "ベ"
+  },
+  {
+    "hiragana": "ぼ",
+    "kana": "ボ",
+    "roma": "bo",
+    "kanji": "ボ"
+  },
+  {
+    "hiragana": "ぱ",
+    "kana": "パ",
+    "roma": "pa",
+    "kanji": "パ"
+  },
+  {
+    "hiragana": "ぴ",
+    "kana": "ピ",
+    "roma": "pi",
+    "kanji": "ピ"
+  },
+  {
+    "hiragana": "ぷ",
+    "kana": "プ",
+    "roma": "pu",
+    "kanji": "プ"
+  },
+  {
+    "hiragana": "ぺ",
+    "kana": "ペ",
+    "roma": "pe",
+    "kanji": "ペ"
+  },
+  {
+    "hiragana": "ぽ",
+    "kana": "ポ",
+    "roma": "po",
+    "kanji": "ポ"
+  },
+  {
+    "hiragana": "きゃ",
+    "kana": "キャ",
+    "roma": "kya",
+    "kanji": "キャ"
+  },
+  {
+    "hiragana": "きゅ",
+    "kana": "キュ",
+    "roma": "kyu",
+    "kanji": "キュ"
+  },
+  {
+    "hiragana": "きょ",
+    "kana": "キョ",
+    "roma": "kyo",
+    "kanji": "キョ"
+  },
+  {
+    "hiragana": "ぎゃ",
+    "kana": "ギャ",
+    "roma": "gya",
+    "kanji": "ギャ"
+  },
+  
+  {
+    "hiragana": "ぎゅ",
+    "kana": "ギュ",
+    "roma": "gyu",
+    "kanji": "ギュ"
+  },
+  
+  {
+    "hiragana": "ぎょ",
+    "kana": "ギョ",
+    "roma": "gyo",
+    "kanji": "ギョ"
+  },
+  {
+    "hiragana": "じゃ",
+    "kana": "ジャ",
+    "roma": "ja",
+    "kanji": "ジャ"
+  },
+  
+  {
+    "hiragana": "じゅ",
+    "kana": "ジュ",
+    "roma": "ju",
+    "kanji": "ジュ"
+  },
+  
+  {
+    "hiragana": "じょ",
+    "kana": "ジョ",
+    "roma": "jo",
+    "kanji": "ジョ"
+  },
+  {
+    "hiragana": "びゃ",
+    "kana": "ビャ",
+    "roma": "bya",
+    "kanji": "ビャ"
+  },
+  {
+    "hiragana": "びゅ",
+    "kana": "ビュ",
+    "roma": "byu",
+    "kanji": "ビュ"
+  },
+  {
+    "hiragana": "びょ",
+    "kana": "ビョ",
+    "roma": "byo",
+    "kanji": "ビョ"
+  },
+  {
+    "hiragana": "ぴゃ",
+    "kana": "ピャ",
+    "roma": "pya",
+    "kanji": "ピャ"
+  },
+  {
+    "hiragana": "ぴゅ",
+    "kana": "ピュ",
+    "roma": "pyu",
+    "kanji": "ピュ"
+  },
+  {
+    "hiragana": "ぴょ",
+    "kana": "ピョ",
+    "roma": "pyo",
+    "kanji": "ピョ"
+  },
+  {
+    "hiragana": "ぴゃ",
+    "kana": "ピャ",
+    "roma": "pya",
+    "kanji": "ピャ"
+  },
+  {
+    "hiragana": "ぴゅ",
+    "kana": "ピュ",
+    "roma": "pyu",
+    "kanji": "ピュ"
+  },
+  {
+    "hiragana": "ぴょ",
+    "kana": "ピョ",
+    "roma": "pyo",
+    "kanji": "ピョ"
+  }
+]
