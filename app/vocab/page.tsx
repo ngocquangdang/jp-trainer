@@ -16,8 +16,9 @@ type VocabItem = {
   detail: VocabDetail
 }
 
-const toList = (data: any): VocabItem[] => {
-  const bucket = Array.isArray(data) ? data[0] : data
+const toList = (data: unknown): VocabItem[] => {
+  const source = data as unknown[] | Record<string, VocabDetail>
+  const bucket = Array.isArray(source) ? (source[0] as Record<string, VocabDetail>) : (source as Record<string, VocabDetail>)
   if (!bucket) return []
   return Object.keys(bucket).map((k) => ({ key: k, detail: bucket[k] as VocabDetail }))
 }
@@ -83,9 +84,9 @@ export default function VocabPage() {
           </div>
 
           <div className="flex items-baseline justify-center gap-3">
-            <div className="text-6xl font-semibold text-gray-900 select-none" aria-label="Kana">{item.key}</div>
+            <div className="text-6xl font-semibold text-gray-900" aria-label="Kana">{item.key}</div>
             {item.detail.kanji && (
-              <div className="text-3xl text-gray-700 select-none" aria-label="Kanji">{item.detail.kanji}</div>
+              <div className="text-3xl text-gray-700" aria-label="Kanji">{item.detail.kanji}</div>
             )}
           </div>
 

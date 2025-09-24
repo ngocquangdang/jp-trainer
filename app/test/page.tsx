@@ -10,8 +10,6 @@ type WordItem = {
   kanji: string
 }
 
-const getRandomIndex = (length: number): number => Math.floor(Math.random() * length)
-
 export default function TestPage() {
   const [words, setWords] = useState<WordItem[]>([])
   const [pool, setPool] = useState<number[]>([])
