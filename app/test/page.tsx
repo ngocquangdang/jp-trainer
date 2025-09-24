@@ -22,6 +22,8 @@ export default function TestPage() {
   const timerRef = useRef<number | null>(null)
   const [viewMode, setViewMode] = useState<'hiragana' | 'katakana'>('hiragana')
   const [finished, setFinished] = useState<boolean>(false)
+  type TestResult = { idx: number; kana: string; roma: string; kanji?: string; correct: boolean }
+  const [results, setResults] = useState<TestResult[]>([])
 
   useEffect(() => {
     const data = (wordsData as WordItem[]) ?? []
@@ -78,6 +80,7 @@ export default function TestPage() {
   const handleSubmit = () => {
     if (!currentWord || finished) return
     const isCorrect = inputValue.trim().toLowerCase() === currentWord.roma.toLowerCase()
+    setResults((prev) => [...prev, { idx: currentIndex, kana: currentWord.hiragana, roma: currentWord.roma, kanji: currentWord.kanji, correct: isCorrect }])
     if (isCorrect) setScore((s) => s + 1)
     advance()
   }
@@ -153,6 +156,26 @@ export default function TestPage() {
               <a href="/test" className="rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white px-3 py-2 text-sm">Làm lại</a>
               <a href="/" className="rounded-lg bg-gray-200 hover:bg-gray-300 text-gray-800 px-3 py-2 text-sm">Quay lại</a>
             </div>
+            {results.length > 0 && (
+              <div className="mt-6 text-left">
+                <div className="text-sm font-medium text-gray-800 mb-2">Đáp án của bạn</div>
+                <ul className="space-y-2 max-h-64 overflow-auto pr-1">
+                  {results.map((r, i) => (
+                    <li key={`${r.idx}-${i}`} className={`flex items-center justify-between rounded-md border px-3 py-2 text-sm ${r.correct ? 'border-emerald-200 bg-emerald-50' : 'border-rose-200 bg-rose-50'}`}>
+                      <div className="flex items-center gap-3">
+                        <span className="text-xl font-semibold text-gray-900">{words[r.idx]?.hiragana}</span>
+                        {words[r.idx]?.kana && <span className="text-gray-500">/ {words[r.idx]?.kana}</span>}
+                        {r.kanji && <span className="text-gray-700">· {r.kanji}</span>}
+                      </div>
+                      <div className="flex items-center gap-3">
+                        <span className="text-gray-700">Đáp án: {words[r.idx]?.roma}</span>
+                        <span className={`rounded px-2 py-0.5 text-xs ${r.correct ? 'bg-emerald-600 text-white' : 'bg-rose-600 text-white'}`}>{r.correct ? 'Đúng' : 'Sai'}</span>
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
           </div>
         )}
       </div>
