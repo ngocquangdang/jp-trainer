@@ -1,0 +1,3198 @@
+[
+  {
+    "あう": {
+      "kanji": "会う",
+      "eng": "to meet",
+      "vni": "gặp gỡ",
+      "example": "今日、会う。",
+      "example_vni": "Hôm nay, tôi gặp gỡ bạn."
+    },
+    "あお": {
+      "kanji": "青",
+      "eng": "blue",
+      "vni": "màu xanh da trời",
+      "example": "青い空。",
+      "example_vni": "Màu xanh da trời."
+    },
+    "あおい": {
+      "kanji": "青い",
+      "eng": "blue",
+      "vni": "màu xanh (xanh da trời, xanh lá)"
+    },
+    "あか": {
+      "kanji": "赤",
+      "eng": "red",
+      "vni": "màu đỏ"
+    },
+    "あかい": {
+      "kanji": "赤い",
+      "eng": "red",
+      "vni": "màu đỏ"
+    },
+    "あかるい": {
+      "kanji": "明い",
+      "eng": "bright",
+      "vni": "sáng sủa, tươi sáng"
+    },
+    "あき": {
+      "kanji": "秋",
+      "eng": "autumn",
+      "vni": "mùa thu"
+    },
+    "あく": {
+      "kanji": "開く",
+      "eng": "to open, to become open",
+      "vni": "mở, trở nên mở"
+    },
+    "あける": {
+      "kanji": "開ける",
+      "eng": "to open",
+      "vni": "mở (cái gì đó)"
+    },
+    "あげる": {
+      "kanji": "上げる",
+      "eng": "to give",
+      "vni": "cho, tặng"
+    },
+    "あさ": {
+      "kanji": "朝",
+      "eng": "morning",
+      "vni": "buổi sáng"
+    },
+    "あさごはん": {
+      "kanji": "朝御飯",
+      "eng": "breakfast",
+      "vni": "bữa sáng"
+    },
+    "あさって": {
+      "kanji": "",
+      "eng": "day after tomorrow",
+      "vni": "ngày kia"
+    },
+    "あし": {
+      "kanji": "足",
+      "eng": "foot, leg",
+      "vni": "chân"
+    },
+    "あした": {
+      "kanji": "明日",
+      "eng": "tomorrow",
+      "vni": "ngày mai"
+    },
+    "あそこ": {
+      "kanji": "",
+      "eng": "over there",
+      "vni": "ở đằng kia"
+    },
+    "あそぶ": {
+      "kanji": "遊ぶ",
+      "eng": "to play, to make a visit",
+      "vni": "chơi, đi thăm"
+    },
+    "あたたかい": {
+      "kanji": "暖かい",
+      "eng": "warm",
+      "vni": "ấm áp"
+    },
+    "あたま": {
+      "kanji": "頭",
+      "eng": "head",
+      "vni": "cái đầu"
+    },
+    "あたらしい": {
+      "kanji": "新しい",
+      "eng": "new",
+      "vni": "mới"
+    },
+    "あちら": {
+      "kanji": "",
+      "eng": "there",
+      "vni": "ở đó"
+    },
+    "あつい1": {
+      "kanji": "暑い",
+      "eng": "hot",
+      "vni": "nóng (thời tiết)"
+    },
+    "あつい2": {
+      "kanji": "熱い",
+      "eng": "hot to the touch",
+      "vni": "nóng (chạm vào)"
+    },
+    "あつい3": {
+      "kanji": "厚い",
+      "eng": "kind, deep, thick",
+      "vni": "dày, sâu, tử tế"
+    },
+    "あっち": {
+      "kanji": "",
+      "eng": "over there",
+      "vni": "ở đằng kia"
+    },
+    "あと": {
+      "kanji": "後",
+      "eng": "afterwards",
+      "vni": "sau đó"
+    },
+    "あなた": {
+      "kanji": "",
+      "eng": "you",
+      "vni": "bạn, anh, chị"
+    },
+    "あに": {
+      "kanji": "兄",
+      "eng": "(humble) older brother",
+      "vni": "anh trai (khiêm nhường)"
+    },
+    "あね": {
+      "kanji": "姉",
+      "eng": "(humble) older sister",
+      "vni": "chị gái (khiêm nhường)"
+    },
+    "あの1": {
+      "kanji": "",
+      "eng": "that over there",
+      "vni": "kia (cái kia ở xa)"
+    },
+    "あの2": {
+      "kanji": "",
+      "eng": "um...",
+      "vni": "ừm..."
+    },
+    "アパート": {
+      "kanji": "",
+      "eng": "apartment",
+      "vni": "căn hộ"
+    },
+    "あびる": {
+      "kanji": "",
+      "eng": "to bathe, to shower",
+      "vni": "tắm, dội nước"
+    },
+    "あぶない": {
+      "kanji": "危ない",
+      "eng": "dangerous",
+      "vni": "nguy hiểm"
+    },
+    "あまい": {
+      "kanji": "甘い",
+      "eng": "sweet",
+      "vni": "ngọt"
+    },
+    "あまり": {
+      "kanji": "",
+      "eng": "not very",
+      "vni": "không...lắm"
+    },
+    "あめ1": {
+      "kanji": "雨",
+      "eng": "rain",
+      "vni": "mưa"
+    },
+    "あめ2": {
+      "kanji": "飴",
+      "eng": "candy",
+      "vni": "kẹo"
+    },
+    "あらう": {
+      "kanji": "洗う",
+      "eng": "to wash",
+      "vni": "rửa, giặt"
+    },
+    "ある": {
+      "kanji": "",
+      "eng": "to be,to have (used for inanimate objects)",
+      "vni": "có, tồn tại (vật vô tri)"
+    },
+    "あるく": {
+      "kanji": "歩く",
+      "eng": "to walk",
+      "vni": "đi bộ"
+    },
+    "あれ": {
+      "kanji": "",
+      "eng": "that",
+      "vni": "cái kia"
+    },
+    "いい/よい": {
+      "kanji": "",
+      "eng": "good",
+      "vni": "tốt"
+    },
+    "いいえ": {
+      "kanji": "",
+      "eng": "no",
+      "vni": "không"
+    },
+    "いう": {
+      "kanji": "言う",
+      "eng": "to say",
+      "vni": "nói"
+    },
+    "いえ": {
+      "kanji": "家",
+      "eng": "house",
+      "vni": "ngôi nhà"
+    },
+    "いかが": {
+      "kanji": "",
+      "eng": "how",
+      "vni": "như thế nào"
+    },
+    "いく": {
+      "kanji": "行く / ゆく",
+      "eng": "to go",
+      "vni": "đi"
+    },
+    "いくつ": {
+      "kanji": "",
+      "eng": "how many?, how old?",
+      "vni": "bao nhiêu?, bao nhiêu tuổi?"
+    },
+    "いくら": {
+      "kanji": "",
+      "eng": "how much?",
+      "vni": "bao nhiêu tiền?"
+    },
+    "いけ": {
+      "kanji": "池",
+      "eng": "pond",
+      "vni": "cái ao"
+    },
+    "いしゃ": {
+      "kanji": "医者",
+      "eng": "medical doctor",
+      "vni": "bác sĩ"
+    },
+    "いす": {
+      "kanji": "",
+      "eng": "chair",
+      "vni": "cái ghế"
+    },
+    "いそがしい": {
+      "kanji": "忙しい",
+      "eng": "busy, irritated",
+      "vni": "bận rộn"
+    },
+    "いたい": {
+      "kanji": "痛い",
+      "eng": "painful",
+      "vni": "đau, bị đau"
+    },
+    "いち": {
+      "kanji": "一",
+      "eng": "one",
+      "vni": "một"
+    },
+    "いちにち": {
+      "kanji": "一日",
+      "eng": "first of the month",
+      "vni": "ngày mồng một"
+    },
+    "いちばん": {
+      "kanji": "",
+      "eng": "best, first",
+      "vni": "nhất, số một"
+    },
+    "いつ": {
+      "kanji": "",
+      "eng": "when",
+      "vni": "khi nào"
+    },
+    "いつか": {
+      "kanji": "五日",
+      "eng": "five days, fifth day",
+      "vni": "ngày mồng năm, năm ngày"
+    },
+    "いっしょ": {
+      "kanji": "一緒",
+      "eng": "together",
+      "vni": "cùng nhau"
+    },
+    "いつつ": {
+      "kanji": "五つ",
+      "eng": "five",
+      "vni": "năm (số đếm)"
+    },
+    "いつも": {
+      "kanji": "",
+      "eng": "always",
+      "vni": "luôn luôn"
+    },
+    "いぬ": {
+      "kanji": "犬",
+      "eng": "dog",
+      "vni": "chó"
+    },
+    "いま": {
+      "kanji": "今",
+      "eng": "now",
+      "vni": "bây giờ"
+    },
+    "いみ": {
+      "kanji": "意味",
+      "eng": "meaning",
+      "vni": "ý nghĩa"
+    },
+    "いもうと": {
+      "kanji": "妹",
+      "eng": "(humble) younger sister",
+      "vni": "em gái (khiêm nhường)"
+    },
+    "いや": {
+      "kanji": "嫌",
+      "eng": "unpleasant",
+      "vni": "khó chịu, ghét"
+    },
+    "いりぐち": {
+      "kanji": "入口",
+      "eng": "entrance",
+      "vni": "lối vào"
+    },
+    "いる1": {
+      "kanji": "居る",
+      "eng": "to be, to have (used for people and animals)",
+      "vni": "có, ở (người/động vật)"
+    },
+    "いる2": {
+      "kanji": "要る",
+      "eng": "to need",
+      "vni": "cần"
+    },
+    "いれる": {
+      "kanji": "入れる",
+      "eng": "to put in",
+      "vni": "cho vào"
+    },
+    "いろ": {
+      "kanji": "色",
+      "eng": "colour",
+      "vni": "màu sắc"
+    },
+    "いろいろ": {
+      "kanji": "",
+      "eng": "various",
+      "vni": "nhiều loại"
+    },
+    "うえ": {
+      "kanji": "上",
+      "eng": "on top of",
+      "vni": "ở trên"
+    },
+    "うしろ": {
+      "kanji": "後ろ",
+      "eng": "behind",
+      "vni": "đằng sau"
+    },
+    "うすい": {
+      "kanji": "薄い",
+      "eng": "thin, weak",
+      "vni": "mỏng, nhạt, yếu"
+    },
+    "うた": {
+      "kanji": "歌",
+      "eng": "song",
+      "vni": "bài hát"
+    },
+    "うたう": {
+      "kanji": "歌う",
+      "eng": "to sing",
+      "vni": "hát"
+    },
+    "うまれる": {
+      "kanji": "生まれる",
+      "eng": "to be born",
+      "vni": "sinh ra"
+    },
+    "うみ": {
+      "kanji": "海",
+      "eng": "sea",
+      "vni": "biển"
+    },
+    "うる": {
+      "kanji": "売る",
+      "eng": "to sell",
+      "vni": "bán"
+    },
+    "うるさい": {
+      "kanji": "煩い",
+      "eng": "noisy, annoying",
+      "vni": "ồn ào, phiền phức"
+    },
+    "うわぎ": {
+      "kanji": "上着",
+      "eng": "jacket",
+      "vni": "áo khoác"
+    },
+    "え": {
+      "kanji": "絵",
+      "eng": "picture",
+      "vni": "bức tranh"
+    },
+    "えいが": {
+      "kanji": "映画",
+      "eng": "movie",
+      "vni": "phim"
+    },
+    "えいがかん": {
+      "kanji": "映画館",
+      "eng": "cinema",
+      "vni": "rạp chiếu phim"
+    },
+    "えいご": {
+      "kanji": "英語",
+      "eng": "English language",
+      "vni": "tiếng Anh"
+    },
+    "ええ": {
+      "kanji": "",
+      "eng": "yes",
+      "vni": "vâng, ừ"
+    },
+    "えき": {
+      "kanji": "駅",
+      "eng": "station",
+      "vni": "nhà ga"
+    },
+    "エレベーター": {
+      "kanji": "",
+      "eng": "elevator",
+      "vni": "thang máy"
+    },
+    "えんぴつ": {
+      "kanji": "鉛筆",
+      "eng": "pencil",
+      "vni": "bút chì"
+    },
+    "おいしい": {
+      "kanji": "",
+      "eng": "delicious",
+      "vni": "ngon"
+    },
+    "おおい": {
+      "kanji": "多い",
+      "eng": "many",
+      "vni": "nhiều"
+    },
+    "おおきい": {
+      "kanji": "大きい",
+      "eng": "big",
+      "vni": "to, lớn"
+    },
+    "おおきな": {
+      "kanji": "大きな",
+      "eng": "big",
+      "vni": "to, lớn"
+    },
+    "おおぜい": {
+      "kanji": "大勢",
+      "eng": "great number of people",
+      "vni": "đông người"
+    },
+    "おかあさん": {
+      "kanji": "お母さん",
+      "eng": "(honorable) mother",
+      "vni": "mẹ (kính ngữ)"
+    },
+    "おかし": {
+      "kanji": "お菓子",
+      "eng": "sweets, candy",
+      "vni": "kẹo, bánh kẹo"
+    },
+    "おかね": {
+      "kanji": "お金",
+      "eng": "money",
+      "vni": "tiền"
+    },
+    "おきる": {
+      "kanji": "起きる",
+      "eng": "to get up",
+      "vni": "thức dậy"
+    },
+    "おく": {
+      "kanji": "置く",
+      "eng": "to put",
+      "vni": "đặt, để"
+    },
+    "おくさん": {
+      "kanji": "奥さん",
+      "eng": "(honorable) wife",
+      "vni": "vợ (kính ngữ)"
+    },
+    "おさけ": {
+      "kanji": "お酒",
+      "eng": "alcohol, rice wine",
+      "vni": "rượu, sake"
+    },
+    "おさら": {
+      "kanji": "お皿",
+      "eng": "plate, dish",
+      "vni": "cái đĩa"
+    },
+    "おじいさん": {
+      "kanji": "伯父/叔父",
+      "eng": "grandfather, male senior citizen",
+      "vni": "ông"
+    },
+    "おしえる": {
+      "kanji": "教える",
+      "eng": "to teach, to tell",
+      "vni": "dạy, chỉ bảo"
+    },
+    "おじさん": {
+      "kanji": "伯父/叔父",
+      "eng": "uncle, middle aged gentleman",
+      "vni": "chú, bác"
+    },
+    "おす": {
+      "kanji": "押す",
+      "eng": "to push, to stamp something",
+      "vni": "đẩy, đóng dấu"
+    },
+    "おそい": {
+      "kanji": "遅い",
+      "eng": "late, slow",
+      "vni": "chậm, muộn"
+    },
+    "おちゃ": {
+      "kanji": "お茶",
+      "eng": "green tea",
+      "vni": "trà xanh"
+    },
+    "おてあらい": {
+      "kanji": "お手洗い",
+      "eng": "bathroom",
+      "vni": "nhà vệ sinh"
+    },
+    "おとうさん": {
+      "kanji": "お父さん",
+      "eng": "(honorable) father",
+      "vni": "bố (kính ngữ)"
+    },
+    "おとうと": {
+      "kanji": "弟",
+      "eng": "younger brother",
+      "vni": "em trai"
+    },
+    "おとこ": {
+      "kanji": "男",
+      "eng": "man",
+      "vni": "đàn ông"
+    },
+    "おとこのこ": {
+      "kanji": "男の子",
+      "eng": "boy",
+      "vni": "cậu bé"
+    },
+    "おととい": {
+      "kanji": "一昨日",
+      "eng": "day before yesterday",
+      "vni": "hôm kia"
+    },
+    "おととし": {
+      "kanji": "一昨年",
+      "eng": "year before last",
+      "vni": "năm kia"
+    },
+    "おとな": {
+      "kanji": "大人",
+      "eng": "adult",
+      "vni": "người lớn"
+    },
+    "おなか": {
+      "kanji": "",
+      "eng": "stomach",
+      "vni": "bụng"
+    },
+    "おなじ": {
+      "kanji": "同じ",
+      "eng": "same",
+      "vni": "giống nhau"
+    },
+    "おにいさん": {
+      "kanji": "お兄さん",
+      "eng": "(honorable) older brother",
+      "vni": "anh trai (kính ngữ)"
+    },
+    "おねえさん": {
+      "kanji": "お姉さん",
+      "eng": "(honorable) older sister",
+      "vni": "chị gái (kính ngữ)"
+    },
+    "おばあさん": {
+      "kanji": "",
+      "eng": "grandmother, female senior-citizen",
+      "vni": "bà"
+    },
+    "おばさん": {
+      "kanji": "伯母さん/叔母さん",
+      "eng": "aunt",
+      "vni": "cô, dì, bác gái"
+    },
+    "おふろ": {
+      "kanji": "お風呂",
+      "eng": "bath",
+      "vni": "bồn tắm"
+    },
+    "おべんとう": {
+      "kanji": "お弁当",
+      "eng": "boxed lunch",
+      "vni": "cơm hộp"
+    },
+    "おぼえる": {
+      "kanji": "覚える",
+      "eng": "to remember",
+      "vni": "nhớ, học thuộc"
+    },
+    "おまわりさん": {
+      "kanji": "",
+      "eng": "friendly term for policeman",
+      "vni": "chú cảnh sát"
+    },
+    "おもい": {
+      "kanji": "重い",
+      "eng": "heavy",
+      "vni": "nặng"
+    },
+    "おもしろい": {
+      "kanji": "",
+      "eng": "interesting",
+      "vni": "thú vị"
+    },
+    "およぐ": {
+      "kanji": "泳ぐ",
+      "eng": "to swim",
+      "vni": "bơi"
+    },
+    "おりる": {
+      "kanji": "降りる",
+      "eng": "to get off, to descend",
+      "vni": "xuống (tàu, xe)"
+    },
+    "おわる": {
+      "kanji": "終る",
+      "eng": "to finish",
+      "vni": "kết thúc"
+    },
+    "おんがく": {
+      "kanji": "音楽",
+      "eng": "music",
+      "vni": "âm nhạc"
+    },
+    "おんな": {
+      "kanji": "女",
+      "eng": "woman",
+      "vni": "phụ nữ"
+    },
+    "おんなのこ": {
+      "kanji": "女の子",
+      "eng": "girl",
+      "vni": "bé gái"
+    },
+    "がいこく": {
+      "kanji": "外国",
+      "eng": "foreign country",
+      "vni": "nước ngoài"
+    },
+    "がいこくじん": {
+      "kanji": "外国人",
+      "eng": "foreigner",
+      "vni": "người nước ngoài"
+    },
+    "かいしゃ": {
+      "kanji": "会社",
+      "eng": "company",
+      "vni": "công ty"
+    },
+    "かいだん": {
+      "kanji": "階段",
+      "eng": "stairs",
+      "vni": "cầu thang"
+    },
+    "かいもの": {
+      "kanji": "買い物",
+      "eng": "shopping",
+      "vni": "mua sắm"
+    },
+    "かう": {
+      "kanji": "買う",
+      "eng": "to buy",
+      "vni": "mua"
+    },
+    "かえす": {
+      "kanji": "返す",
+      "eng": "to return something",
+      "vni": "trả lại"
+    },
+    "かえる": {
+      "kanji": "帰る",
+      "eng": "to go back",
+      "vni": "về, quay lại"
+    },
+    "かかる": {
+      "kanji": "",
+      "eng": "to take time or money",
+      "vni": "tốn (thời gian, tiền)"
+    },
+    "かぎ": {
+      "kanji": "",
+      "eng": "key",
+      "vni": "chìa khóa"
+    },
+    "かく": {
+      "kanji": "書く",
+      "eng": "to write",
+      "vni": "viết"
+    },
+    "がくせい": {
+      "kanji": "学生",
+      "eng": "student",
+      "vni": "học sinh, sinh viên"
+    },
+    "かける": {
+      "kanji": "",
+      "eng": "to call by phone",
+      "vni": "gọi điện thoại"
+    },
+    "かさ": {
+      "kanji": "傘",
+      "eng": "umbrella",
+      "vni": "cái ô, dù"
+    },
+    "かす": {
+      "kanji": "貸す",
+      "eng": "to lend",
+      "vni": "cho mượn"
+    },
+    "かぜ1": {
+      "kanji": "風",
+      "eng": "wind",
+      "vni": "gió"
+    },
+    "かぜ2": {
+      "kanji": "風邪",
+      "eng": "a cold",
+      "vni": "cảm lạnh"
+    },
+    "かぞく": {
+      "kanji": "家族",
+      "eng": "family",
+      "vni": "gia đình"
+    },
+    "かた": {
+      "kanji": "方",
+      "eng": "person, way of doing",
+      "vni": "vị, cách làm"
+    },
+    "がっこう": {
+      "kanji": "学校",
+      "eng": "school",
+      "vni": "trường học"
+    },
+    "カップ": {
+      "kanji": "",
+      "eng": "cup",
+      "vni": "cái cốc"
+    },
+    "かてい": {
+      "kanji": "家庭",
+      "eng": "household",
+      "vni": "gia đình, hộ gia đình"
+    },
+    "かど": {
+      "kanji": "角",
+      "eng": "a corner",
+      "vni": "góc"
+    },
+    "かばん": {
+      "kanji": "",
+      "eng": "bag, basket",
+      "vni": "cặp, túi"
+    },
+    "かびん": {
+      "kanji": "花瓶",
+      "eng": "a vase",
+      "vni": "lọ hoa"
+    },
+    "かみ": {
+      "kanji": "紙",
+      "eng": "paper",
+      "vni": "giấy"
+    },
+    "カメラ": {
+      "kanji": "",
+      "eng": "camera",
+      "vni": "máy ảnh"
+    },
+    "かようび": {
+      "kanji": "火曜日",
+      "eng": "Tuesday",
+      "vni": "thứ ba"
+    },
+    "からい": {
+      "kanji": "辛い",
+      "eng": "spicy",
+      "vni": "cay"
+    },
+    "からだ": {
+      "kanji": "体",
+      "eng": "body",
+      "vni": "cơ thể"
+    },
+    "かりる": {
+      "kanji": "借りる",
+      "eng": "to borrow",
+      "vni": "mượn"
+    },
+    "かるい": {
+      "kanji": "軽い",
+      "eng": "light",
+      "vni": "nhẹ"
+    },
+    "カレー": {
+      "kanji": "",
+      "eng": "curry",
+      "vni": "cà ri"
+    },
+    "カレンダー": {
+      "kanji": "",
+      "eng": "calendar",
+      "vni": "lịch"
+    },
+    "かわ": {
+      "kanji": "川/河",
+      "eng": "river",
+      "vni": "sông"
+    },
+    "かわいい": {
+      "kanji": "",
+      "eng": "cute",
+      "vni": "dễ thương"
+    },
+    "かんじ": {
+      "kanji": "漢字",
+      "eng": "Chinese character",
+      "vni": "chữ Hán, Kanji"
+    },
+    "き": {
+      "kanji": "木",
+      "eng": "tree, wood",
+      "vni": "cây, gỗ"
+    },
+    "きいろ": {
+      "kanji": "黄色",
+      "eng": "yellow",
+      "vni": "màu vàng"
+    },
+    "きいろい": {
+      "kanji": "黄色い",
+      "eng": "yellow",
+      "vni": "màu vàng"
+    },
+    "きえる": {
+      "kanji": "消える",
+      "eng": "to disappear",
+      "vni": "biến mất"
+    },
+    "きく": {
+      "kanji": "聞く",
+      "eng": "to hear, to listen to, to ask",
+      "vni": "nghe, hỏi"
+    },
+    "きた": {
+      "kanji": "北",
+      "eng": "north",
+      "vni": "phía bắc"
+    },
+    "ギター": {
+      "kanji": "",
+      "eng": "guitar",
+      "vni": "đàn ghi-ta"
+    },
+    "きたない": {
+      "kanji": "汚い",
+      "eng": "dirty",
+      "vni": "bẩn, dơ"
+    },
+    "きっさてん": {
+      "kanji": "喫茶店",
+      "eng": "coffee lounge",
+      "vni": "quán cà phê"
+    },
+    "きって": {
+      "kanji": "切手",
+      "eng": "postage stamp",
+      "vni": "tem thư"
+    },
+    "きっぷ": {
+      "kanji": "切符",
+      "eng": "ticket",
+      "vni": "vé"
+    },
+    "きのう": {
+      "kanji": "昨日",
+      "eng": "yesterday",
+      "vni": "hôm qua"
+    },
+    "きゅう": {
+      "kanji": "九",
+      "eng": "nine",
+      "vni": "chín"
+    },
+    "ぎゅうにく": {
+      "kanji": "牛肉",
+      "eng": "beef",
+      "vni": "thịt bò"
+    },
+    "ぎゅうにゅう": {
+      "kanji": "牛乳",
+      "eng": "milk",
+      "vni": "sữa"
+    },
+    "きょう": {
+      "kanji": "今日",
+      "eng": "today",
+      "vni": "hôm nay"
+    },
+    "きょうしつ": {
+      "kanji": "教室",
+      "eng": "classroom",
+      "vni": "phòng học"
+    },
+    "きょうだい": {
+      "kanji": "兄弟",
+      "eng": "(humble) siblings",
+      "vni": "anh chị em (khiêm nhường)"
+    },
+    "きょねん": {
+      "kanji": "去年",
+      "eng": "last year",
+      "vni": "năm ngoái"
+    },
+    "きらい": {
+      "kanji": "嫌い",
+      "eng": "hate",
+      "vni": "ghét"
+    },
+    "きる1": {
+      "kanji": "切る",
+      "eng": "to cut",
+      "vni": "cắt"
+    },
+    "きる2": {
+      "kanji": "着る",
+      "eng": "to put on from the shoulders down",
+      "vni": "mặc (áo, từ vai trở xuống)"
+    },
+    "きれい": {
+      "kanji": "",
+      "eng": "pretty, clean",
+      "vni": "đẹp, sạch"
+    },
+    "キロ": {
+      "kanji": "",
+      "eng": "kilogram/kilometer",
+      "vni": "ki-lô-gam / ki-lô-mét"
+    },
+    "ぎんこう": {
+      "kanji": "銀行",
+      "eng": "bank",
+      "vni": "ngân hàng"
+    },
+    "きんようび": {
+      "kanji": "金曜日",
+      "eng": "Friday",
+      "vni": "thứ sáu"
+    },
+    "くすり": {
+      "kanji": "薬",
+      "eng": "medicine",
+      "vni": "thuốc"
+    },
+    "ください": {
+      "kanji": "",
+      "eng": "please",
+      "vni": "làm ơn"
+    },
+    "くだもの": {
+      "kanji": "果物",
+      "eng": "fruit",
+      "vni": "hoa quả"
+    },
+    "くち": {
+      "kanji": "口",
+      "eng": "mouth, opening",
+      "vni": "miệng"
+    },
+    "くつ": {
+      "kanji": "靴",
+      "eng": "shoes",
+      "vni": "giày"
+    },
+    "くつした": {
+      "kanji": "靴下",
+      "eng": "socks",
+      "vni": "tất, vớ"
+    },
+    "くに": {
+      "kanji": "国",
+      "eng": "country",
+      "vni": "đất nước"
+    },
+    "くもり": {
+      "kanji": "曇り",
+      "eng": "cloudy weather",
+      "vni": "trời nhiều mây"
+    },
+    "くもる": {
+      "kanji": "曇る",
+      "eng": "to become cloudy, to become dim",
+      "vni": "trở nên nhiều mây"
+    },
+    "くらい": {
+      "kanji": "暗い",
+      "eng": "gloomy",
+      "vni": "tối, u ám"
+    },
+    "クラス": {
+      "kanji": "",
+      "eng": "class",
+      "vni": "lớp học"
+    },
+    "グラム": {
+      "kanji": "",
+      "eng": "gram",
+      "vni": "gam"
+    },
+    "くる": {
+      "kanji": "来る",
+      "eng": "to come",
+      "vni": "đến"
+    },
+    "くるま": {
+      "kanji": "車",
+      "eng": "car, vehicle",
+      "vni": "xe ô tô"
+    },
+    "くろ": {
+      "kanji": "黒",
+      "eng": "black",
+      "vni": "màu đen"
+    },
+    "くろい": {
+      "kanji": "黒い",
+      "eng": "black",
+      "vni": "đen"
+    },
+    "けいかん": {
+      "kanji": "警官",
+      "eng": "policeman",
+      "vni": "cảnh sát"
+    },
+    "けさ": {
+      "kanji": "今朝",
+      "eng": "this morning",
+      "vni": "sáng nay"
+    },
+    "けす": {
+      "kanji": "消す",
+      "eng": "to erase, to turn off power",
+      "vni": "tắt, xóa"
+    },
+    "けっこう": {
+      "kanji": "結構",
+      "eng": "splendid, enough",
+      "vni": "tuyệt, đủ rồi"
+    },
+    "けっこん": {
+      "kanji": "結婚",
+      "eng": "marriage",
+      "vni": "kết hôn"
+    },
+    "げつようび": {
+      "kanji": "月曜日",
+      "eng": "Monday",
+      "vni": "thứ hai"
+    },
+    "げんかん": {
+      "kanji": "玄関",
+      "eng": "entry hall",
+      "vni": "sảnh vào"
+    },
+    "げんき": {
+      "kanji": "元気",
+      "eng": "health, vitality",
+      "vni": "khỏe mạnh"
+    },
+    "こえ": {
+      "kanji": "声",
+      "eng": "voice",
+      "vni": "giọng nói"
+    },
+    "コート": {
+      "kanji": "",
+      "eng": "coat, tennis court",
+      "vni": "áo khoác / sân tennis"
+    },
+    "コーヒー": {
+      "kanji": "",
+      "eng": "coffee",
+      "vni": "cà phê"
+    },
+    "ここ": {
+      "kanji": "",
+      "eng": "here",
+      "vni": "ở đây"
+    },
+    "ごご": {
+      "kanji": "午後",
+      "eng": "afternoon",
+      "vni": "buổi chiều"
+    },
+    "ここのか": {
+      "kanji": "九日",
+      "eng": "nine days, ninth day",
+      "vni": "chín ngày, ngày mồng chín"
+    },
+    "ここのつ": {
+      "kanji": "九つ",
+      "eng": "nine",
+      "vni": "chín (số đếm)"
+    },
+    "ごぜん": {
+      "kanji": "午前",
+      "eng": "morning",
+      "vni": "buổi sáng"
+    },
+    "こたえる": {
+      "kanji": "答える",
+      "eng": "to answer",
+      "vni": "trả lời"
+    },
+    "こちら": {
+      "kanji": "",
+      "eng": "this person or way",
+      "vni": "người này / phía này"
+    },
+    "こっち": {
+      "kanji": "",
+      "eng": "this person or way",
+      "vni": "người này / hướng này"
+    },
+    "コップ": {
+      "kanji": "",
+      "eng": "a glass",
+      "vni": "cái cốc"
+    },
+    "ことし": {
+      "kanji": "今年",
+      "eng": "this year",
+      "vni": "năm nay"
+    },
+    "ことば": {
+      "kanji": "言葉",
+      "eng": "word, language",
+      "vni": "từ vựng, ngôn ngữ"
+    },
+    "こども": {
+      "kanji": "子供",
+      "eng": "child",
+      "vni": "trẻ em"
+    },
+    "この": {
+      "kanji": "",
+      "eng": "this",
+      "vni": "này"
+    },
+    "ごはん": {
+      "kanji": "御飯",
+      "eng": "cooked rice, meal",
+      "vni": "cơm, bữa ăn"
+    },
+    "コピーする": {
+      "kanji": "",
+      "eng": "to copy",
+      "vni": "sao chép"
+    },
+    "こまる": {
+      "kanji": "困る",
+      "eng": "to be worried",
+      "vni": "gặp khó khăn, lo lắng"
+    },
+    "これ": {
+      "kanji": "",
+      "eng": "this",
+      "vni": "cái này"
+    },
+    "こんげつ": {
+      "kanji": "今月",
+      "eng": "this month",
+      "vni": "tháng này"
+    },
+    "こんしゅう": {
+      "kanji": "今週",
+      "eng": "this week",
+      "vni": "tuần này"
+    },
+    "こんな": {
+      "kanji": "",
+      "eng": "such",
+      "vni": "như thế"
+    },
+    "こんばん": {
+      "kanji": "今晩",
+      "eng": "this evening",
+      "vni": "tối nay"
+    },
+    "さあ": {
+      "kanji": "",
+      "eng": "well…",
+      "vni": "à, ừ thì..."
+    },
+    "さいふ": {
+      "kanji": "財布",
+      "eng": "wallet",
+      "vni": "ví tiền"
+    },
+    "さかな": {
+      "kanji": "魚",
+      "eng": "fish",
+      "vni": "cá"
+    },
+    "さき": {
+      "kanji": "先",
+      "eng": "the future, previous",
+      "vni": "trước, tương lai"
+    },
+    "さく": {
+      "kanji": "咲く",
+      "eng": "to bloom",
+      "vni": "nở hoa"
+    },
+    "さくぶん": {
+      "kanji": "作文",
+      "eng": "composition, writing",
+      "vni": "bài văn"
+    },
+    "さす": {
+      "kanji": "差す",
+      "eng": "to stretch out hands, to raise an umbrella",
+      "vni": "giơ tay, che ô"
+    },
+    "ざっし": {
+      "kanji": "雑誌",
+      "eng": "magazine",
+      "vni": "tạp chí"
+    },
+    "さとう": {
+      "kanji": "砂糖",
+      "eng": "sugar",
+      "vni": "đường"
+    },
+    "さむい": {
+      "kanji": "寒い",
+      "eng": "cold",
+      "vni": "lạnh"
+    },
+    "さらいねん": {
+      "kanji": "さ来年",
+      "eng": "year after next",
+      "vni": "năm sau nữa"
+    },
+    "さん": {
+      "kanji": "三",
+      "eng": "three",
+      "vni": "ba"
+    },
+    "さんぽする": {
+      "kanji": "散歩",
+      "eng": "to stroll",
+      "vni": "đi dạo"
+    },
+    "し": {
+      "kanji": "四",
+      "eng": "four",
+      "vni": "bốn"
+    },
+    "しお": {
+      "kanji": "塩",
+      "eng": "salt",
+      "vni": "muối"
+    },
+    "しかし": {
+      "kanji": "",
+      "eng": "however",
+      "vni": "tuy nhiên"
+    },
+    "じかん": {
+      "kanji": "時間",
+      "eng": "time",
+      "vni": "thời gian"
+    },
+    "しごと": {
+      "kanji": "仕事",
+      "eng": "job",
+      "vni": "công việc"
+    },
+    "じしょ": {
+      "kanji": "辞書",
+      "eng": "dictionary",
+      "vni": "từ điển"
+    },
+    "しずか": {
+      "kanji": "静か",
+      "eng": "quiet",
+      "vni": "yên tĩnh"
+    },
+    "した": {
+      "kanji": "下",
+      "eng": "below",
+      "vni": "bên dưới"
+    },
+    "しち": {
+      "kanji": "七",
+      "eng": "seven",
+      "vni": "bảy"
+    },
+    "しつもん": {
+      "kanji": "質問",
+      "eng": "question",
+      "vni": "câu hỏi"
+    },
+    "じてんしゃ": {
+      "kanji": "自転車",
+      "eng": "bicycle",
+      "vni": "xe đạp"
+    },
+    "じどうしゃ": {
+      "kanji": "自動車",
+      "eng": "automobile",
+      "vni": "xe hơi"
+    },
+    "しぬ": {
+      "kanji": "死ぬ",
+      "eng": "to die",
+      "vni": "chết"
+    },
+    "じびき": {
+      "kanji": "字引",
+      "eng": "dictionary",
+      "vni": "từ điển"
+    },
+    "じぶん": {
+      "kanji": "自分",
+      "eng": "oneself",
+      "vni": "bản thân"
+    },
+    "しまる": {
+      "kanji": "閉まる",
+      "eng": "to close, to be closed",
+      "vni": "đóng lại"
+    },
+    "しめる1": {
+      "kanji": "閉める",
+      "eng": "to close something",
+      "vni": "đóng (cửa)"
+    },
+    "しめる2": {
+      "kanji": "締める",
+      "eng": "to tie",
+      "vni": "thắt, buộc"
+    },
+    "じゃ/じゃあ": {
+      "kanji": "",
+      "eng": "well then…",
+      "vni": "thế thì…"
+    },
+    "しゃしん": {
+      "kanji": "写真",
+      "eng": "photograph",
+      "vni": "ảnh chụp"
+    },
+    "シャツ": {
+      "kanji": "",
+      "eng": "shirt",
+      "vni": "áo sơ mi"
+    },
+    "シャワー": {
+      "kanji": "",
+      "eng": "shower",
+      "vni": "vòi sen"
+    },
+    "じゅう": {
+      "kanji": "十",
+      "eng": "ten",
+      "vni": "mười"
+    },
+    "じゅぎょう": {
+      "kanji": "授業",
+      "eng": "lesson, class work",
+      "vni": "giờ học"
+    },
+    "しゅくだい": {
+      "kanji": "宿題",
+      "eng": "homework",
+      "vni": "bài tập về nhà"
+    },
+    "じょうず": {
+      "kanji": "上手",
+      "eng": "skillful",
+      "vni": "khéo léo"
+    },
+    "じょうぶ": {
+      "kanji": "丈夫",
+      "eng": "strong, durable",
+      "vni": "chắc chắn, khỏe mạnh"
+    },
+    "しょうゆ": {
+      "kanji": "",
+      "eng": "soy sauce",
+      "vni": "xì dầu"
+    },
+    "しょくどう": {
+      "kanji": "食堂",
+      "eng": "dining hall",
+      "vni": "nhà ăn"
+    },
+    "しる": {
+      "kanji": "知る",
+      "eng": "to know",
+      "vni": "biết"
+    },
+    "しろ": {
+      "kanji": "白",
+      "eng": "white",
+      "vni": "màu trắng"
+    },
+    "しろい": {
+      "kanji": "白い",
+      "eng": "white",
+      "vni": "trắng"
+    },
+    "しんぶん": {
+      "kanji": "新聞",
+      "eng": "newspaper",
+      "vni": "báo"
+    },
+    "すいようび": {
+      "kanji": "水曜日",
+      "eng": "Wednesday",
+      "vni": "thứ tư"
+    },
+    "すう": {
+      "kanji": "吸う",
+      "eng": "to smoke, to suck",
+      "vni": "hút, hít"
+    },
+    "スカート": {
+      "kanji": "",
+      "eng": "skirt",
+      "vni": "váy"
+    },
+    "すき": {
+      "kanji": "好き",
+      "eng": "likeable",
+      "vni": "thích"
+    },
+    "すくない": {
+      "kanji": "少ない",
+      "eng": "a few",
+      "vni": "ít"
+    },
+    "すぐに": {
+      "kanji": "",
+      "eng": "instantly",
+      "vni": "ngay lập tức"
+    },
+    "すこし": {
+      "kanji": "少し",
+      "eng": "few",
+      "vni": "một chút"
+    },
+    "すずしい": {
+      "kanji": "涼しい",
+      "eng": "refreshing",
+      "vni": "mát mẻ"
+    },
+    "ストーブ": {
+      "kanji": "",
+      "eng": "heater",
+      "vni": "lò sưởi"
+    },
+    "スプーン": {
+      "kanji": "",
+      "eng": "spoon",
+      "vni": "muỗng"
+    },
+    "スポーツ": {
+      "kanji": "",
+      "eng": "sport",
+      "vni": "thể thao"
+    },
+    "ズボン": {
+      "kanji": "",
+      "eng": "trousers",
+      "vni": "quần dài"
+    },
+    "すむ": {
+      "kanji": "住む",
+      "eng": "to live in",
+      "vni": "sống, cư trú"
+    },
+    "スリッパ": {
+      "kanji": "",
+      "eng": "slippers",
+      "vni": "dép đi trong nhà"
+    },
+    "する": {
+      "kanji": "",
+      "eng": "to do",
+      "vni": "làm"
+    },
+    "すわる": {
+      "kanji": "座る",
+      "eng": "to sit",
+      "vni": "ngồi"
+    },
+    "せ": {
+      "kanji": "背",
+      "eng": "height, stature",
+      "vni": "chiều cao"
+    },
+    "せいと": {
+      "kanji": "生徒",
+      "eng": "pupil",
+      "vni": "học sinh"
+    },
+    "セーター": {
+      "kanji": "",
+      "eng": "sweater, jumper",
+      "vni": "áo len"
+    },
+    "せっけん": {
+      "kanji": "",
+      "eng": "soap",
+      "vni": "xà phòng"
+    },
+    "せびろ": {
+      "kanji": "背広",
+      "eng": "business suit",
+      "vni": "com-lê"
+    },
+    "せまい": {
+      "kanji": "狭い",
+      "eng": "narrow",
+      "vni": "chật hẹp"
+    },
+    "ゼロ": {
+      "kanji": "",
+      "eng": "zero",
+      "vni": "số không"
+    },
+    "せん": {
+      "kanji": "千",
+      "eng": "thousand",
+      "vni": "một nghìn"
+    },
+    "せんげつ": {
+      "kanji": "先月",
+      "eng": "last month",
+      "vni": "tháng trước"
+    },
+    "せんしゅう": {
+      "kanji": "先週",
+      "eng": "last week",
+      "vni": "tuần trước"
+    },
+    "せんせい": {
+      "kanji": "先生",
+      "eng": "teacher, doctor",
+      "vni": "thầy/cô, bác sĩ"
+    },
+    "せんたく": {
+      "kanji": "洗濯",
+      "eng": "washing",
+      "vni": "giặt giũ"
+    },
+    "ぜんぶ": {
+      "kanji": "全部",
+      "eng": "all",
+      "vni": "tất cả"
+    },
+    "そうじする": {
+      "kanji": "掃除",
+      "eng": "to clean, to sweep",
+      "vni": "dọn dẹp"
+    },
+    "そうして/そして": {
+      "kanji": "",
+      "eng": "and",
+      "vni": "và"
+    },
+    "そこ": {
+      "kanji": "",
+      "eng": "that place",
+      "vni": "chỗ đó"
+    },
+    "そちら": {
+      "kanji": "",
+      "eng": "over there",
+      "vni": "đằng kia"
+    },
+    "そっち": {
+      "kanji": "",
+      "eng": "over there",
+      "vni": "ở phía kia"
+    },
+    "そと": {
+      "kanji": "外",
+      "eng": "outside",
+      "vni": "bên ngoài"
+    },
+    "その": {
+      "kanji": "",
+      "eng": "that",
+      "vni": "đó"
+    },
+    "そば": {
+      "kanji": "",
+      "eng": "near, beside",
+      "vni": "gần, bên cạnh"
+    },
+    "そら": {
+      "kanji": "空",
+      "eng": "sky",
+      "vni": "bầu trời"
+    },
+    "それ": {
+      "kanji": "",
+      "eng": "that",
+      "vni": "cái đó"
+    },
+    "それから": {
+      "kanji": "",
+      "eng": "after that",
+      "vni": "sau đó"
+    },
+    "それでは": {
+      "kanji": "",
+      "eng": "in that situation",
+      "vni": "vậy thì"
+    },
+    "だいがく": {
+      "kanji": "大学",
+      "eng": "university",
+      "vni": "trường đại học"
+    },
+    "たいしかん": {
+      "kanji": "大使館",
+      "eng": "embassy",
+      "vni": "đại sứ quán"
+    },
+    "だいじょうぶ": {
+      "kanji": "大丈夫",
+      "eng": "all right",
+      "vni": "ổn, không sao"
+    },
+    "だいすき": {
+      "kanji": "大好き",
+      "eng": "to be very likeable",
+      "vni": "rất thích"
+    },
+    "たいせつ": {
+      "kanji": "大切",
+      "eng": "important",
+      "vni": "quan trọng"
+    },
+    "だいどころ": {
+      "kanji": "台所",
+      "eng": "kitchen",
+      "vni": "nhà bếp"
+    },
+    "たいへん1": {
+      "kanji": "",
+      "eng": "very",
+      "vni": "rất"
+    },
+    "たいへん2": {
+      "kanji": "",
+      "eng": "difficult situation",
+      "vni": "vất vả, khổ sở"
+    },
+    "たかい": {
+      "kanji": "高い",
+      "eng": "tall, expensive",
+      "vni": "cao, đắt"
+    },
+    "たくさん": {
+      "kanji": "",
+      "eng": "many",
+      "vni": "nhiều"
+    },
+    "タクシー": {
+      "kanji": "",
+      "eng": "taxi",
+      "vni": "xe taxi"
+    },
+    "だす": {
+      "kanji": "出す",
+      "eng": "to put out",
+      "vni": "lấy ra, nộp"
+    },
+    "たつ": {
+      "kanji": "立つ",
+      "eng": "to stand",
+      "vni": "đứng"
+    },
+    "たて": {
+      "kanji": "縦",
+      "eng": "length, height",
+      "vni": "chiều dọc, chiều cao"
+    },
+    "たてもの": {
+      "kanji": "建物",
+      "eng": "building",
+      "vni": "tòa nhà"
+    },
+    "たのしい": {
+      "kanji": "楽しい",
+      "eng": "enjoyable",
+      "vni": "vui vẻ"
+    },
+    "たのむ": {
+      "kanji": "頼む",
+      "eng": "to ask",
+      "vni": "nhờ, yêu cầu"
+    },
+    "たばこ": {
+      "kanji": "",
+      "eng": "tobacco, cigarettes",
+      "vni": "thuốc lá"
+    },
+    "たぶん": {
+      "kanji": "",
+      "eng": "probably",
+      "vni": "có lẽ"
+    },
+    "たべもの": {
+      "kanji": "食べ物",
+      "eng": "food",
+      "vni": "thức ăn"
+    },
+    "たべる": {
+      "kanji": "食べる",
+      "eng": "to eat",
+      "vni": "ăn"
+    },
+    "たまご": {
+      "kanji": "卵",
+      "eng": "egg",
+      "vni": "trứng"
+    },
+    "だれ": {
+      "kanji": "誰",
+      "eng": "who",
+      "vni": "ai"
+    },
+    "だれか": {
+      "kanji": "誰か",
+      "eng": "somebody",
+      "vni": "ai đó"
+    },
+    "たんじょうび": {
+      "kanji": "誕生日",
+      "eng": "birthday",
+      "vni": "sinh nhật"
+    },
+    "だんだん": {
+      "kanji": "",
+      "eng": "gradually",
+      "vni": "dần dần"
+    },
+    "ちいさい": {
+      "kanji": "小さい",
+      "eng": "little",
+      "vni": "nhỏ"
+    },
+    "ちいさな": {
+      "kanji": "小さな",
+      "eng": "little",
+      "vni": "bé nhỏ"
+    },
+    "ちかい": {
+      "kanji": "近い",
+      "eng": "near",
+      "vni": "gần"
+    },
+    "ちがう": {
+      "kanji": "違う",
+      "eng": "to differ",
+      "vni": "khác, sai"
+    },
+    "ちかく": {
+      "kanji": "近く",
+      "eng": "near",
+      "vni": "gần"
+    },
+    "ちかてつ": {
+      "kanji": "地下鉄",
+      "eng": "underground train",
+      "vni": "tàu điện ngầm"
+    },
+    "ちず": {
+      "kanji": "地図",
+      "eng": "map",
+      "vni": "bản đồ"
+    },
+    "ちゃいろ": {
+      "kanji": "茶色",
+      "eng": "brown",
+      "vni": "màu nâu"
+    },
+    "ちゃわん": {
+      "kanji": "",
+      "eng": "rice bowl",
+      "vni": "bát cơm"
+    },
+    "ちょうど": {
+      "kanji": "",
+      "eng": "exactly",
+      "vni": "vừa đúng"
+    },
+    "ちょっと": {
+      "kanji": "",
+      "eng": "somewhat",
+      "vni": "một chút"
+    },
+    "ついたち": {
+      "kanji": "一日",
+      "eng": "first of month",
+      "vni": "mùng một"
+    },
+    "つかう": {
+      "kanji": "使う",
+      "eng": "to use",
+      "vni": "sử dụng"
+    },
+    "つかれる": {
+      "kanji": "疲れる",
+      "eng": "to get tired",
+      "vni": "mệt mỏi"
+    },
+    "つぎ": {
+      "kanji": "次",
+      "eng": "next",
+      "vni": "tiếp theo"
+    },
+    "つく": {
+      "kanji": "着く",
+      "eng": "to arrive at",
+      "vni": "đến nơi"
+    },
+    "つくえ": {
+      "kanji": "机",
+      "eng": "desk",
+      "vni": "cái bàn"
+    },
+    "つくる": {
+      "kanji": "作る",
+      "eng": "to make",
+      "vni": "làm, chế tạo"
+    },
+    "つける": {
+      "kanji": "",
+      "eng": "to turn on",
+      "vni": "bật"
+    },
+    "つとめる": {
+      "kanji": "勤める",
+      "eng": "to work for someone",
+      "vni": "làm việc cho"
+    },
+    "つまらない": {
+      "kanji": "",
+      "eng": "boring",
+      "vni": "nhàm chán"
+    },
+    "つめたい": {
+      "kanji": "冷たい",
+      "eng": "cold to the touch",
+      "vni": "lạnh (chạm vào)"
+    },
+    "つよい": {
+      "kanji": "強い",
+      "eng": "powerful",
+      "vni": "mạnh mẽ"
+    },
+    "て": {
+      "kanji": "手",
+      "eng": "hand",
+      "vni": "bàn tay"
+    },
+    "テープ": {
+      "kanji": "",
+      "eng": "tape",
+      "vni": "băng dính / băng nhạc"
+    },
+    "テーブル": {
+      "kanji": "",
+      "eng": "table",
+      "vni": "cái bàn"
+    },
+    "テープレコーダー": {
+      "kanji": "",
+      "eng": "tape recorder",
+      "vni": "máy ghi băng"
+    },
+    "でかける": {
+      "kanji": "出かける",
+      "eng": "to go out",
+      "vni": "ra ngoài"
+    },
+    "てがみ": {
+      "kanji": "手紙",
+      "eng": "letter",
+      "vni": "bức thư"
+    },
+    "できる": {
+      "kanji": "",
+      "eng": "to be able to",
+      "vni": "có thể"
+    },
+    "でぐち": {
+      "kanji": "出口",
+      "eng": "exit",
+      "vni": "lối ra"
+    },
+    "テスト": {
+      "kanji": "",
+      "eng": "test",
+      "vni": "bài kiểm tra"
+    },
+    "では": {
+      "kanji": "",
+      "eng": "with that...",
+      "vni": "vậy thì..."
+    },
+    "デパート": {
+      "kanji": "",
+      "eng": "department store",
+      "vni": "cửa hàng bách hóa"
+    },
+    "でも": {
+      "kanji": "",
+      "eng": "but",
+      "vni": "nhưng"
+    },
+    "でる": {
+      "kanji": "出る",
+      "eng": "to appear, to leave",
+      "vni": "xuất hiện, ra ngoài"
+    },
+    "テレビ": {
+      "kanji": "",
+      "eng": "television",
+      "vni": "tivi"
+    },
+    "てんき": {
+      "kanji": "天気",
+      "eng": "weather",
+      "vni": "thời tiết"
+    },
+    "でんき": {
+      "kanji": "電気",
+      "eng": "electricity, electric light",
+      "vni": "điện, đèn"
+    },
+    "でんしゃ": {
+      "kanji": "電車",
+      "eng": "electric train",
+      "vni": "tàu điện"
+    },
+    "でんわ": {
+      "kanji": "電話",
+      "eng": "telephone",
+      "vni": "điện thoại"
+    },
+    "と": {
+      "kanji": "戸",
+      "eng": "Japanese style door",
+      "vni": "cửa kiểu Nhật"
+    },
+    "ドア": {
+      "kanji": "",
+      "eng": "Western style door",
+      "vni": "cửa"
+    },
+    "トイレ": {
+      "kanji": "",
+      "eng": "toilet",
+      "vni": "nhà vệ sinh"
+    },
+    "どう": {
+      "kanji": "",
+      "eng": "how, in what way",
+      "vni": "như thế nào"
+    },
+    "どうして": {
+      "kanji": "",
+      "eng": "for what reason",
+      "vni": "tại sao"
+    },
+    "どうぞ": {
+      "kanji": "",
+      "eng": "please",
+      "vni": "xin mời"
+    },
+    "どうぶつ": {
+      "kanji": "動物",
+      "eng": "animal",
+      "vni": "động vật"
+    },
+    "どうも": {
+      "kanji": "",
+      "eng": "thanks",
+      "vni": "cảm ơn"
+    },
+    "とおい": {
+      "kanji": "遠い",
+      "eng": "far",
+      "vni": "xa"
+    },
+    "とおか": {
+      "kanji": "十日",
+      "eng": "ten days, the tenth day",
+      "vni": "mười ngày, ngày mồng mười"
+    },
+    "ときどき": {
+      "kanji": "時々",
+      "eng": "sometimes",
+      "vni": "thỉnh thoảng"
+    },
+    "とけい": {
+      "kanji": "時計",
+      "eng": "watch, clock",
+      "vni": "đồng hồ"
+    },
+    "どこ": {
+      "kanji": "",
+      "eng": "where",
+      "vni": "ở đâu"
+    },
+    "ところ": {
+      "kanji": "所",
+      "eng": "place",
+      "vni": "nơi chốn"
+    },
+    "とし": {
+      "kanji": "年",
+      "eng": "year",
+      "vni": "năm"
+    },
+    "としょかん": {
+      "kanji": "図書館",
+      "eng": "library",
+      "vni": "thư viện"
+    },
+    "どちら": {
+      "kanji": "",
+      "eng": "which of two",
+      "vni": "cái nào (trong hai)"
+    },
+    "どっち": {
+      "kanji": "",
+      "eng": "which",
+      "vni": "cái nào"
+    },
+    "とても": {
+      "kanji": "",
+      "eng": "very",
+      "vni": "rất"
+    },
+    "どなた": {
+      "kanji": "",
+      "eng": "who",
+      "vni": "ai (kính ngữ)"
+    },
+    "となり": {
+      "kanji": "隣",
+      "eng": "next door to",
+      "vni": "bên cạnh"
+    },
+    "どの": {
+      "kanji": "",
+      "eng": "which",
+      "vni": "nào"
+    },
+    "とぶ": {
+      "kanji": "飛ぶ",
+      "eng": "to fly, to hop",
+      "vni": "bay, nhảy"
+    },
+    "とまる": {
+      "kanji": "止まる",
+      "eng": "to come to a halt",
+      "vni": "dừng lại"
+    },
+    "ともだち": {
+      "kanji": "友達",
+      "eng": "friend",
+      "vni": "bạn bè"
+    },
+    "どようび": {
+      "kanji": "土曜日",
+      "eng": "Saturday",
+      "vni": "thứ bảy"
+    },
+    "とり": {
+      "kanji": "鳥",
+      "eng": "bird",
+      "vni": "chim"
+    },
+    "とりにく": {
+      "kanji": "とり肉",
+      "eng": "chicken meat",
+      "vni": "thịt gà"
+    },
+    "とる1": {
+      "kanji": "取る",
+      "eng": "to take something",
+      "vni": "lấy"
+    },
+    "とる2": {
+      "kanji": "撮る",
+      "eng": "to take a photo or record a film",
+      "vni": "chụp ảnh, quay phim"
+    },
+    "どれ": {
+      "kanji": "",
+      "eng": "which (of three or more)",
+      "vni": "cái nào (trong nhiều cái)"
+    },
+    "なか": {
+      "kanji": "中",
+      "eng": "inside",
+      "vni": "bên trong"
+    },
+    "ながい": {
+      "kanji": "長い",
+      "eng": "long",
+      "vni": "dài"
+    },
+    "なつ": {
+      "kanji": "夏",
+      "eng": "summer",
+      "vni": "mùa hè"
+    },
+    "なつやすみ": {
+      "kanji": "夏休み",
+      "eng": "summer holiday",
+      "vni": "kỳ nghỉ hè"
+    },
+    "ななつ": {
+      "kanji": "七つ",
+      "eng": "seven",
+      "vni": "bảy (số đếm)"
+    },
+    "なん/なに": {
+      "kanji": "何",
+      "eng": "what",
+      "vni": "cái gì"
+    },
+    "なのか": {
+      "kanji": "七日",
+      "eng": "seven days, seventh day",
+      "vni": "bảy ngày, ngày mồng bảy"
+    },
+    "なまえ": {
+      "kanji": "名前",
+      "eng": "name",
+      "vni": "tên"
+    },
+    "ならう": {
+      "kanji": "習う",
+      "eng": "to learn",
+      "vni": "học"
+    },
+    "ならぶ": {
+      "kanji": "並ぶ",
+      "eng": "to line up, stand in a line",
+      "vni": "xếp hàng"
+    },
+    "に": {
+      "kanji": "二",
+      "eng": "two",
+      "vni": "hai"
+    },
+    "にぎやか": {
+      "kanji": "",
+      "eng": "lively",
+      "vni": "náo nhiệt"
+    },
+    "にく": {
+      "kanji": "肉",
+      "eng": "meat",
+      "vni": "thịt"
+    },
+    "にし": {
+      "kanji": "西",
+      "eng": "west",
+      "vni": "phía tây"
+    },
+    "にちようび": {
+      "kanji": "日曜日",
+      "eng": "Sunday",
+      "vni": "chủ nhật"
+    },
+    "にもつ": {
+      "kanji": "荷物",
+      "eng": "luggage",
+      "vni": "hành lý"
+    },
+    "ニュース": {
+      "kanji": "",
+      "eng": "news",
+      "vni": "tin tức"
+    },
+    "にわ": {
+      "kanji": "庭",
+      "eng": "garden",
+      "vni": "khu vườn"
+    },
+    "ぬぐ": {
+      "kanji": "脱ぐ",
+      "eng": "to take off clothes",
+      "vni": "cởi (quần áo)"
+    },
+    "ぬるい": {
+      "kanji": "温い",
+      "eng": "lukewarm",
+      "vni": "ấm ấm, nguội"
+    },
+    "ねこ": {
+      "kanji": "猫",
+      "eng": "cat",
+      "vni": "mèo"
+    },
+    "ねる": {
+      "kanji": "寝る",
+      "eng": "to go to bed, to sleep",
+      "vni": "ngủ"
+    },
+    "ねん": {
+      "kanji": "年",
+      "eng": "year",
+      "vni": "năm"
+    },
+    "ノート": {
+      "kanji": "",
+      "eng": "notebook, exercise book",
+      "vni": "vở"
+    },
+    "のぼる": {
+      "kanji": "登る",
+      "eng": "to climb",
+      "vni": "leo, trèo"
+    },
+    "のみもの": {
+      "kanji": "飲み物",
+      "eng": "a drink",
+      "vni": "đồ uống"
+    },
+    "のむ": {
+      "kanji": "飲む",
+      "eng": "to drink",
+      "vni": "uống"
+    },
+    "のる": {
+      "kanji": "乗る",
+      "eng": "to get on",
+      "vni": "lên xe, đi (phương tiện)"
+    },
+    "はい": {
+      "kanji": "",
+      "eng": "yes",
+      "vni": "vâng, đúng"
+    },
+    "はいざら": {
+      "kanji": "灰皿",
+      "eng": "ashtray",
+      "vni": "gạt tàn"
+    },
+    "はいる": {
+      "kanji": "入る",
+      "eng": "to enter",
+      "vni": "vào"
+    },
+    "はがき": {
+      "kanji": "葉書",
+      "eng": "postcard",
+      "vni": "bưu thiếp"
+    },
+    "はく": {
+      "kanji": "",
+      "eng": "to wear, to put on trousers",
+      "vni": "mặc (quần, giày)"
+    },
+    "はこ": {
+      "kanji": "箱",
+      "eng": "box",
+      "vni": "cái hộp"
+    },
+    "はし": {
+      "kanji": "橋",
+      "eng": "bridge",
+      "vni": "cây cầu"
+    },
+    "はし2": {
+      "kanji": "箸",
+      "eng": "chopsticks",
+      "vni": "đũa"
+    },
+    "はじまる": {
+      "kanji": "始まる",
+      "eng": "to begin",
+      "vni": "bắt đầu"
+    },
+    "はじめ": {
+      "kanji": "初め",
+      "eng": "beginning",
+      "vni": "sự bắt đầu"
+    },
+    "はじめて": {
+      "kanji": "",
+      "eng": "for the first time",
+      "vni": "lần đầu tiên"
+    },
+    "はしる": {
+      "kanji": "走る",
+      "eng": "to run",
+      "vni": "chạy"
+    },
+    "バス": {
+      "kanji": "",
+      "eng": "bus",
+      "vni": "xe buýt"
+    },
+    "バター": {
+      "kanji": "",
+      "eng": "butter",
+      "vni": "bơ"
+    },
+    "はたち": {
+      "kanji": "二十歳",
+      "eng": "20 years old, 20th year",
+      "vni": "20 tuổi"
+    },
+    "はたらく": {
+      "kanji": "働く",
+      "eng": "to work",
+      "vni": "làm việc"
+    },
+    "はち": {
+      "kanji": "八",
+      "eng": "eight",
+      "vni": "tám"
+    },
+    "はつか": {
+      "kanji": "二十日",
+      "eng": "20 days, 20th day",
+      "vni": "20 ngày, ngày 20"
+    },
+    "はな": {
+      "kanji": "花",
+      "eng": "flower",
+      "vni": "hoa"
+    },
+    "はな2": {
+      "kanji": "鼻",
+      "eng": "nose",
+      "vni": "mũi"
+    },
+    "はなし": {
+      "kanji": "話",
+      "eng": "talk, story",
+      "vni": "câu chuyện, lời nói"
+    },
+    "はなす": {
+      "kanji": "話す",
+      "eng": "to speak",
+      "vni": "nói chuyện"
+    },
+    "はやい1": {
+      "kanji": "早い",
+      "eng": "early",
+      "vni": "sớm"
+    },
+    "はやい2": {
+      "kanji": "速い",
+      "eng": "quick",
+      "vni": "nhanh"
+    },
+    "はる": {
+      "kanji": "春",
+      "eng": "spring",
+      "vni": "mùa xuân"
+    },
+    "はる2": {
+      "kanji": "貼る",
+      "eng": "to stick",
+      "vni": "dán, dính"
+    },
+    "はれ": {
+      "kanji": "晴れ",
+      "eng": "clear weather",
+      "vni": "trời quang"
+    },
+    "はれる": {
+      "kanji": "晴れる",
+      "eng": "to be sunny",
+      "vni": "trời nắng"
+    },
+    "ばん": {
+      "kanji": "晩",
+      "eng": "evening",
+      "vni": "buổi tối"
+    },
+    "パン": {
+      "kanji": "",
+      "eng": "bread",
+      "vni": "bánh mì"
+    },
+    "はん": {
+      "kanji": "半",
+      "eng": "half",
+      "vni": "một nửa"
+    },
+    "ばんごう": {
+      "kanji": "番号",
+      "eng": "number",
+      "vni": "số"
+    },
+    "ばんごはん": {
+      "kanji": "晩御飯",
+      "eng": "dinner",
+      "vni": "bữa tối"
+    },
+    "はんぶん": {
+      "kanji": "半分",
+      "eng": "half",
+      "vni": "một nửa"
+    },
+    "ひがし": {
+      "kanji": "東",
+      "eng": "east",
+      "vni": "phía đông"
+    },
+    "ひく": {
+      "kanji": "引く",
+      "eng": "to pull",
+      "vni": "kéo"
+    },
+    "ひく2": {
+      "kanji": "弾く",
+      "eng": "to play an instrument",
+      "vni": "chơi (nhạc cụ)"
+    },
+    "ひくい": {
+      "kanji": "低い",
+      "eng": "short, low",
+      "vni": "thấp"
+    },
+    "ひこうき": {
+      "kanji": "飛行機",
+      "eng": "airplane",
+      "vni": "máy bay"
+    },
+    "ひだり": {
+      "kanji": "左",
+      "eng": "left side",
+      "vni": "bên trái"
+    },
+    "ひと": {
+      "kanji": "人",
+      "eng": "person",
+      "vni": "người"
+    },
+    "ひとつ": {
+      "kanji": "一つ",
+      "eng": "one",
+      "vni": "một (số đếm)"
+    },
+    "ひとつき": {
+      "kanji": "一月",
+      "eng": "one month",
+      "vni": "một tháng"
+    },
+    "ひとり": {
+      "kanji": "一人",
+      "eng": "one person",
+      "vni": "một người"
+    },
+    "ひま": {
+      "kanji": "",
+      "eng": "free time",
+      "vni": "rảnh rỗi"
+    },
+    "ひゃく": {
+      "kanji": "百",
+      "eng": "hundred",
+      "vni": "một trăm"
+    },
+    "びょういん": {
+      "kanji": "病院",
+      "eng": "hospital",
+      "vni": "bệnh viện"
+    },
+    "びょうき": {
+      "kanji": "病気",
+      "eng": "illness",
+      "vni": "bệnh tật"
+    },
+    "ひらがな": {
+      "kanji": "",
+      "eng": "hiragana",
+      "vni": "chữ hiragana"
+    },
+    "ひる": {
+      "kanji": "昼",
+      "eng": "noon, daytime",
+      "vni": "buổi trưa, ban ngày"
+    },
+    "ひるごはん": {
+      "kanji": "昼ご飯",
+      "eng": "midday meal",
+      "vni": "bữa trưa"
+    },
+    "ひろい": {
+      "kanji": "広い",
+      "eng": "spacious",
+      "vni": "rộng"
+    },
+    "フィルム": {
+      "kanji": "",
+      "eng": "film",
+      "vni": "cuộn phim"
+    },
+    "ふうとう": {
+      "kanji": "封筒",
+      "eng": "envelope",
+      "vni": "phong bì"
+    },
+    "プール": {
+      "kanji": "",
+      "eng": "swimming pool",
+      "vni": "hồ bơi"
+    },
+    "フォーク": {
+      "kanji": "",
+      "eng": "fork",
+      "vni": "nĩa"
+    },
+    "ふく": {
+      "kanji": "服",
+      "eng": "clothes",
+      "vni": "quần áo"
+    },
+    "ふたつ": {
+      "kanji": "二つ",
+      "eng": "two",
+      "vni": "hai (số đếm)"
+    },
+    "ぶたにく": {
+      "kanji": "ぶた肉",
+      "eng": "pork",
+      "vni": "thịt lợn"
+    },
+    "ふたり": {
+      "kanji": "二人",
+      "eng": "two people",
+      "vni": "hai người"
+    },
+    "ぶっか": {
+      "kanji": "物価",
+      "eng": "prices",
+      "vni": "vật giá"
+    },
+    "ぶん": {
+      "kanji": "文",
+      "eng": "sentence",
+      "vni": "câu văn"
+    },
+    "ぶんしょう": {
+      "kanji": "文章",
+      "eng": "sentence, text",
+      "vni": "văn bản"
+    },
+    "ページ": {
+      "kanji": "",
+      "eng": "page",
+      "vni": "trang"
+    },
+    "へた": {
+      "kanji": "下手",
+      "eng": "unskillful",
+      "vni": "kém, vụng về"
+    },
+    "ベッド": {
+      "kanji": "",
+      "eng": "bed",
+      "vni": "giường"
+    },
+    "へや": {
+      "kanji": "部屋",
+      "eng": "room",
+      "vni": "căn phòng"
+    },
+    "へん": {
+      "kanji": "辺",
+      "eng": "area, vicinity",
+      "vni": "khu vực"
+    },
+    "ペン": {
+      "kanji": "",
+      "eng": "pen",
+      "vni": "bút"
+    },
+    "ぼうし": {
+      "kanji": "帽子",
+      "eng": "hat",
+      "vni": "mũ"
+    },
+    "ほか": {
+      "kanji": "他",
+      "eng": "other",
+      "vni": "khác"
+    },
+    "ポケット": {
+      "kanji": "",
+      "eng": "pocket",
+      "vni": "túi (quần/áo)"
+    },
+    "ほしい": {
+      "kanji": "",
+      "eng": "to want",
+      "vni": "muốn"
+    },
+    "ポスト": {
+      "kanji": "",
+      "eng": "post",
+      "vni": "hòm thư"
+    },
+    "ほそい": {
+      "kanji": "細い",
+      "eng": "thin",
+      "vni": "mảnh, thon"
+    },
+    "ホテル": {
+      "kanji": "",
+      "eng": "hotel",
+      "vni": "khách sạn"
+    },
+    "ほん": {
+      "kanji": "本",
+      "eng": "book",
+      "vni": "sách"
+    },
+    "ぼんさい": {
+      "kanji": "盆栽",
+      "eng": "miniature tree",
+      "vni": "cây cảnh bonsai"
+    },
+    "ほんだな": {
+      "kanji": "本棚",
+      "eng": "bookshelf",
+      "vni": "giá sách"
+    },
+    "ほんとう": {
+      "kanji": "本当",
+      "eng": "truth, reality",
+      "vni": "thật, đúng"
+    },
+    "ほんや": {
+      "kanji": "本屋",
+      "eng": "bookshop",
+      "vni": "hiệu sách"
+    },
+    "まいあさ": {
+      "kanji": "毎朝",
+      "eng": "every morning",
+      "vni": "mỗi sáng"
+    },
+    "まいしゅう": {
+      "kanji": "毎週",
+      "eng": "every week",
+      "vni": "mỗi tuần"
+    },
+    "まいつき/まいげつ": {
+      "kanji": "毎月",
+      "eng": "every month",
+      "vni": "mỗi tháng"
+    },
+    "まいとし/まいねん": {
+      "kanji": "毎年",
+      "eng": "every year",
+      "vni": "mỗi năm"
+    },
+    "まいにち": {
+      "kanji": "毎日",
+      "eng": "every day",
+      "vni": "mỗi ngày"
+    },
+    "まいばん": {
+      "kanji": "毎晩",
+      "eng": "every night",
+      "vni": "mỗi tối"
+    },
+    "まえ": {
+      "kanji": "前",
+      "eng": "before, in front",
+      "vni": "trước, phía trước"
+    },
+    "まがる": {
+      "kanji": "曲がる",
+      "eng": "to turn, to bend",
+      "vni": "rẽ, quẹo"
+    },
+    "まずい": {
+      "kanji": "",
+      "eng": "unpleasant",
+      "vni": "dở, khó chịu"
+    },
+    "また": {
+      "kanji": "",
+      "eng": "again, and",
+      "vni": "lại, và"
+    },
+    "まだ": {
+      "kanji": "",
+      "eng": "yet, still",
+      "vni": "vẫn, chưa"
+    },
+    "まち": {
+      "kanji": "町",
+      "eng": "town, city",
+      "vni": "thị trấn, thành phố"
+    },
+    "まつ": {
+      "kanji": "待つ",
+      "eng": "to wait",
+      "vni": "chờ đợi"
+    },
+    "まど": {
+      "kanji": "窓",
+      "eng": "window",
+      "vni": "cửa sổ"
+    },
+    "まるい": {
+      "kanji": "丸い",
+      "eng": "round, circular",
+      "vni": "tròn"
+    },
+    "まん": {
+      "kanji": "万",
+      "eng": "ten thousand",
+      "vni": "mười nghìn, vạn"
+    },
+    "まんねんひつ": {
+      "kanji": "万年筆",
+      "eng": "fountain pen",
+      "vni": "bút máy"
+    },
+    "みがく": {
+      "kanji": "磨く",
+      "eng": "to brush (teeth), to polish",
+      "vni": "đánh (răng), mài"
+    },
+    "みぎ": {
+      "kanji": "右",
+      "eng": "right side",
+      "vni": "bên phải"
+    },
+    "みじかい": {
+      "kanji": "短い",
+      "eng": "short",
+      "vni": "ngắn"
+    },
+    "みず": {
+      "kanji": "水",
+      "eng": "water",
+      "vni": "nước"
+    },
+    "みせ": {
+      "kanji": "店",
+      "eng": "shop",
+      "vni": "cửa hàng"
+    },
+    "みせる": {
+      "kanji": "見せる",
+      "eng": "to show",
+      "vni": "cho xem"
+    },
+    "みち": {
+      "kanji": "道",
+      "eng": "street",
+      "vni": "đường đi"
+    },
+    "みっか": {
+      "kanji": "三日",
+      "eng": "third day of month, three days",
+      "vni": "ngày mùng 3, ba ngày"
+    },
+    "みっつ": {
+      "kanji": "三つ",
+      "eng": "three",
+      "vni": "ba (số đếm)"
+    },
+    "みどり": {
+      "kanji": "緑",
+      "eng": "green",
+      "vni": "màu xanh lá"
+    },
+    "みなさん": {
+      "kanji": "皆さん",
+      "eng": "everyone",
+      "vni": "mọi người"
+    },
+    "みなみ": {
+      "kanji": "南",
+      "eng": "south",
+      "vni": "phía nam"
+    },
+    "みみ": {
+      "kanji": "耳",
+      "eng": "ear",
+      "vni": "tai"
+    },
+    "みる": {
+      "kanji": "見る",
+      "eng": "to see",
+      "vni": "nhìn, xem"
+    },
+    "むいか": {
+      "kanji": "六日",
+      "eng": "six days, sixth day",
+      "vni": "sáu ngày, ngày mùng sáu"
+    },
+    "むこう": {
+      "kanji": "向こう",
+      "eng": "over there",
+      "vni": "bên kia, phía đối diện"
+    },
+    "むずかしい": {
+      "kanji": "難しい",
+      "eng": "difficult",
+      "vni": "khó"
+    },
+    "むっつ": {
+      "kanji": "六つ",
+      "eng": "six",
+      "vni": "sáu (số đếm)"
+    },
+    "むら": {
+      "kanji": "村",
+      "eng": "village",
+      "vni": "làng"
+    },
+    "め": {
+      "kanji": "目",
+      "eng": "eye",
+      "vni": "mắt"
+    },
+    "メートル": {
+      "kanji": "",
+      "eng": "metre",
+      "vni": "mét"
+    },
+    "めがね": {
+      "kanji": "眼鏡",
+      "eng": "glasses",
+      "vni": "kính mắt"
+    },
+    "めっちゃ": {
+      "kanji": "",
+      "eng": "very (slang)",
+      "vni": "rất (tiếng lóng)"
+    },
+    "もう": {
+      "kanji": "",
+      "eng": "already",
+      "vni": "đã, rồi"
+    },
+    "もういちど": {
+      "kanji": "もう一度",
+      "eng": "once more",
+      "vni": "một lần nữa"
+    },
+    "もくようび": {
+      "kanji": "木曜日",
+      "eng": "Thursday",
+      "vni": "thứ năm"
+    },
+    "もしもし": {
+      "kanji": "",
+      "eng": "hello (on phone)",
+      "vni": "a lô"
+    },
+    "もちつき": {
+      "kanji": "餅つき",
+      "eng": "rice-cake pounding",
+      "vni": "giã bánh dày"
+    },
+    "もつ": {
+      "kanji": "持つ",
+      "eng": "to hold",
+      "vni": "cầm, mang"
+    },
+    "もっと": {
+      "kanji": "",
+      "eng": "more",
+      "vni": "nhiều hơn"
+    },
+    "もの": {
+      "kanji": "物",
+      "eng": "thing",
+      "vni": "đồ vật"
+    },
+    "もん": {
+      "kanji": "門",
+      "eng": "gate",
+      "vni": "cổng"
+    },
+    "もんだい": {
+      "kanji": "問題",
+      "eng": "problem, question",
+      "vni": "vấn đề, câu hỏi"
+    },
+    "やおや": {
+      "kanji": "八百屋",
+      "eng": "greengrocer",
+      "vni": "cửa hàng rau"
+    },
+    "やさい": {
+      "kanji": "野菜",
+      "eng": "vegetable",
+      "vni": "rau"
+    },
+    "やさしい": {
+      "kanji": "易しい",
+      "eng": "easy, simple",
+      "vni": "dễ dàng"
+    },
+    "やすい": {
+      "kanji": "安い",
+      "eng": "cheap",
+      "vni": "rẻ"
+    },
+    "やすみ": {
+      "kanji": "休み",
+      "eng": "rest, holiday",
+      "vni": "nghỉ ngơi, ngày nghỉ"
+    },
+    "やすむ": {
+      "kanji": "休む",
+      "eng": "to rest",
+      "vni": "nghỉ"
+    },
+    "やま": {
+      "kanji": "山",
+      "eng": "mountain",
+      "vni": "núi"
+    },
+    "やる": {
+      "kanji": "",
+      "eng": "to do",
+      "vni": "làm"
+    },
+    "ゆうがた": {
+      "kanji": "夕方",
+      "eng": "evening",
+      "vni": "chiều tối"
+    },
+    "ゆうべ": {
+      "kanji": "夕べ",
+      "eng": "last night",
+      "vni": "tối qua"
+    },
+    "ゆうめい": {
+      "kanji": "有名",
+      "eng": "famous",
+      "vni": "nổi tiếng"
+    },
+    "ゆき": {
+      "kanji": "雪",
+      "eng": "snow",
+      "vni": "tuyết"
+    },
+    "ゆっくり": {
+      "kanji": "",
+      "eng": "slowly",
+      "vni": "chậm rãi"
+    },
+    "よっか": {
+      "kanji": "四日",
+      "eng": "four days, fourth day",
+      "vni": "bốn ngày, ngày mùng bốn"
+    },
+    "よっつ": {
+      "kanji": "四つ",
+      "eng": "four",
+      "vni": "bốn (số đếm)"
+    },
+    "よぶ": {
+      "kanji": "呼ぶ",
+      "eng": "to call",
+      "vni": "gọi"
+    },
+    "よむ": {
+      "kanji": "読む",
+      "eng": "to read",
+      "vni": "đọc"
+    },
+    "よる": {
+      "kanji": "夜",
+      "eng": "night",
+      "vni": "ban đêm"
+    },
+    "よわい": {
+      "kanji": "弱い",
+      "eng": "weak",
+      "vni": "yếu"
+    },
+    "らいげつ": {
+      "kanji": "来月",
+      "eng": "next month",
+      "vni": "tháng sau"
+    },
+    "らいしゅう": {
+      "kanji": "来週",
+      "eng": "next week",
+      "vni": "tuần sau"
+    },
+    "らいねん": {
+      "kanji": "来年",
+      "eng": "next year",
+      "vni": "năm sau"
+    },
+    "りっぱ": {
+      "kanji": "立派",
+      "eng": "splendid",
+      "vni": "tuyệt vời"
+    },
+    "りゅうがくせい": {
+      "kanji": "留学生",
+      "eng": "overseas student",
+      "vni": "du học sinh"
+    },
+    "りょうしん": {
+      "kanji": "両親",
+      "eng": "parents",
+      "vni": "bố mẹ"
+    },
+    "りょうり": {
+      "kanji": "料理",
+      "eng": "cooking, cuisine",
+      "vni": "nấu ăn, món ăn"
+    },
+    "りょこう": {
+      "kanji": "旅行",
+      "eng": "travel",
+      "vni": "du lịch"
+    },
+    "りんご": {
+      "kanji": "",
+      "eng": "apple",
+      "vni": "táo"
+    },
+    "るす": {
+      "kanji": "留守",
+      "eng": "absence",
+      "vni": "vắng nhà"
+    },
+    "れい": {
+      "kanji": "零",
+      "eng": "zero",
+      "vni": "số không"
+    },
+    "れいぞうこ": {
+      "kanji": "冷蔵庫",
+      "eng": "refrigerator",
+      "vni": "tủ lạnh"
+    },
+    "レコード": {
+      "kanji": "",
+      "eng": "record",
+      "vni": "đĩa hát"
+    },
+    "レストラン": {
+      "kanji": "",
+      "eng": "restaurant",
+      "vni": "nhà hàng"
+    },
+    "れんしゅう": {
+      "kanji": "練習",
+      "eng": "practice",
+      "vni": "luyện tập"
+    },
+    "ろうか": {
+      "kanji": "廊下",
+      "eng": "corridor",
+      "vni": "hành lang"
+    },
+    "ろく": {
+      "kanji": "六",
+      "eng": "six",
+      "vni": "sáu"
+    },
+    "ワイシャツ": {
+      "kanji": "",
+      "eng": "shirt (white)",
+      "vni": "áo sơ mi"
+    },
+    "わかい": {
+      "kanji": "若い",
+      "eng": "young",
+      "vni": "trẻ"
+    },
+    "わかる": {
+      "kanji": "",
+      "eng": "to understand",
+      "vni": "hiểu"
+    },
+    "わすれる": {
+      "kanji": "忘れる",
+      "eng": "to forget",
+      "vni": "quên"
+    },
+    "わたくし": {
+      "kanji": "",
+      "eng": "I (formal)",
+      "vni": "tôi (lịch sự)"
+    },
+    "わたし": {
+      "kanji": "",
+      "eng": "I",
+      "vni": "tôi"
+    },
+    "わたる": {
+      "kanji": "渡る",
+      "eng": "to cross",
+      "vni": "băng qua"
+    },
+    "わるい": {
+      "kanji": "悪い",
+      "eng": "bad",
+      "vni": "xấu, tệ"
+    },
+    "を": {
+      "kanji": "",
+      "eng": "(particle) object marker",
+      "vni": "trợ từ chỉ tân ngữ"
+    },
+    "ん": {
+      "kanji": "",
+      "eng": "syllabic n",
+      "vni": "âm ん"
+    }
+  }
+]

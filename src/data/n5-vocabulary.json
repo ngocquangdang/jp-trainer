@@ -1,0 +1,4468 @@
+[
+  {
+    "hiragana": "あう",
+    "kana": "アウ",
+    "roma": "au",
+    "kanji": "会う",
+    "example": "to meet - gặp gỡ"
+  },
+  {
+    "hiragana": "あお",
+    "kana": "アオ",
+    "roma": "ao",
+    "kanji": "青",
+    "example": "blue - màu xanh da trời"
+  },
+  {
+    "hiragana": "あおい",
+    "kana": "アオイ",
+    "roma": "aoi",
+    "kanji": "青い",
+    "example": "blue - màu xanh (xanh da trời, xanh lá)"
+  },
+  {
+    "hiragana": "あか",
+    "kana": "アカ",
+    "roma": "aka",
+    "kanji": "赤",
+    "example": "red - màu đỏ"
+  },
+  {
+    "hiragana": "あかい",
+    "kana": "アカイ",
+    "roma": "akai",
+    "kanji": "赤い",
+    "example": "red - màu đỏ"
+  },
+  {
+    "hiragana": "あかるい",
+    "kana": "アカルイ",
+    "roma": "akarui",
+    "kanji": "明い",
+    "example": "bright - sáng sủa, tươi sáng"
+  },
+  {
+    "hiragana": "あき",
+    "kana": "アキ",
+    "roma": "aki",
+    "kanji": "秋",
+    "example": "autumn - mùa thu"
+  },
+  {
+    "hiragana": "あく",
+    "kana": "アク",
+    "roma": "aku",
+    "kanji": "開く",
+    "example": "to open, to become open - mở, trở nên mở"
+  },
+  {
+    "hiragana": "あける",
+    "kana": "アケル",
+    "roma": "akeru",
+    "kanji": "開ける",
+    "example": "to open - mở (cái gì đó)"
+  },
+  {
+    "hiragana": "あげる",
+    "kana": "アゲル",
+    "roma": "ageru",
+    "kanji": "上げる",
+    "example": "to give - cho, tặng"
+  },
+  {
+    "hiragana": "あさ",
+    "kana": "アサ",
+    "roma": "asa",
+    "kanji": "朝",
+    "example": "morning - buổi sáng"
+  },
+  {
+    "hiragana": "あさごはん",
+    "kana": "アサゴハン",
+    "roma": "asagohan",
+    "kanji": "朝御飯",
+    "example": "breakfast - bữa sáng"
+  },
+  {
+    "hiragana": "あさって",
+    "kana": "アサッテ",
+    "roma": "asaっte",
+    "kanji": "",
+    "example": "day after tomorrow - ngày kia"
+  },
+  {
+    "hiragana": "あし",
+    "kana": "アシ",
+    "roma": "ashi",
+    "kanji": "足",
+    "example": "foot, leg - chân"
+  },
+  {
+    "hiragana": "あした",
+    "kana": "アシタ",
+    "roma": "ashita",
+    "kanji": "明日",
+    "example": "tomorrow - ngày mai"
+  },
+  {
+    "hiragana": "あそこ",
+    "kana": "アソコ",
+    "roma": "asoko",
+    "kanji": "",
+    "example": "over there - ở đằng kia"
+  },
+  {
+    "hiragana": "あそぶ",
+    "kana": "アソブ",
+    "roma": "asobu",
+    "kanji": "遊ぶ",
+    "example": "to play, to make a visit - chơi, đi thăm"
+  },
+  {
+    "hiragana": "あたたかい",
+    "kana": "アタタカイ",
+    "roma": "atatakai",
+    "kanji": "暖かい",
+    "example": "warm - ấm áp"
+  },
+  {
+    "hiragana": "あたま",
+    "kana": "アタマ",
+    "roma": "atama",
+    "kanji": "頭",
+    "example": "head - cái đầu"
+  },
+  {
+    "hiragana": "あたらしい",
+    "kana": "アタラシイ",
+    "roma": "atarashii",
+    "kanji": "新しい",
+    "example": "new - mới"
+  },
+  {
+    "hiragana": "あちら",
+    "kana": "アチラ",
+    "roma": "achira",
+    "kanji": "",
+    "example": "there - ở đó"
+  },
+  {
+    "hiragana": "あつい1",
+    "kana": "アツイ1",
+    "roma": "atsui1",
+    "kanji": "暑い",
+    "example": "hot - nóng (thời tiết)"
+  },
+  {
+    "hiragana": "あつい2",
+    "kana": "アツイ2",
+    "roma": "atsui2",
+    "kanji": "熱い",
+    "example": "hot to the touch - nóng (chạm vào)"
+  },
+  {
+    "hiragana": "あつい3",
+    "kana": "アツイ3",
+    "roma": "atsui3",
+    "kanji": "厚い",
+    "example": "kind, deep, thick - dày, sâu, tử tế"
+  },
+  {
+    "hiragana": "あっち",
+    "kana": "アッチ",
+    "roma": "aっchi",
+    "kanji": "",
+    "example": "over there - ở đằng kia"
+  },
+  {
+    "hiragana": "あと",
+    "kana": "アト",
+    "roma": "ato",
+    "kanji": "後",
+    "example": "afterwards - sau đó"
+  },
+  {
+    "hiragana": "あなた",
+    "kana": "アナタ",
+    "roma": "anata",
+    "kanji": "",
+    "example": "you - bạn, anh, chị"
+  },
+  {
+    "hiragana": "あに",
+    "kana": "アニ",
+    "roma": "ani",
+    "kanji": "兄",
+    "example": "(humble) older brother - anh trai (khiêm nhường)"
+  },
+  {
+    "hiragana": "あね",
+    "kana": "アネ",
+    "roma": "ane",
+    "kanji": "姉",
+    "example": "(humble) older sister - chị gái (khiêm nhường)"
+  },
+  {
+    "hiragana": "あの1",
+    "kana": "アノ1",
+    "roma": "ano1",
+    "kanji": "",
+    "example": "that over there - kia (cái kia ở xa)"
+  },
+  {
+    "hiragana": "あの2",
+    "kana": "アノ2",
+    "roma": "ano2",
+    "kanji": "",
+    "example": "um... - ừm..."
+  },
+  {
+    "hiragana": "アパート",
+    "kana": "アパート",
+    "roma": "アパート",
+    "kanji": "",
+    "example": "apartment - căn hộ"
+  },
+  {
+    "hiragana": "あびる",
+    "kana": "アビル",
+    "roma": "abiru",
+    "kanji": "",
+    "example": "to bathe, to shower - tắm, dội nước"
+  },
+  {
+    "hiragana": "あぶない",
+    "kana": "アブナイ",
+    "roma": "abunai",
+    "kanji": "危ない",
+    "example": "dangerous - nguy hiểm"
+  },
+  {
+    "hiragana": "あまい",
+    "kana": "アマイ",
+    "roma": "amai",
+    "kanji": "甘い",
+    "example": "sweet - ngọt"
+  },
+  {
+    "hiragana": "あまり",
+    "kana": "アマリ",
+    "roma": "amari",
+    "kanji": "",
+    "example": "not very - không...lắm"
+  },
+  {
+    "hiragana": "あめ1",
+    "kana": "アメ1",
+    "roma": "ame1",
+    "kanji": "雨",
+    "example": "rain - mưa"
+  },
+  {
+    "hiragana": "あめ2",
+    "kana": "アメ2",
+    "roma": "ame2",
+    "kanji": "飴",
+    "example": "candy - kẹo"
+  },
+  {
+    "hiragana": "あらう",
+    "kana": "アラウ",
+    "roma": "arau",
+    "kanji": "洗う",
+    "example": "to wash - rửa, giặt"
+  },
+  {
+    "hiragana": "ある",
+    "kana": "アル",
+    "roma": "aru",
+    "kanji": "",
+    "example": "to be,to have (used for inanimate objects) - có, tồn tại (vật vô tri)"
+  },
+  {
+    "hiragana": "あるく",
+    "kana": "アルク",
+    "roma": "aruku",
+    "kanji": "歩く",
+    "example": "to walk - đi bộ"
+  },
+  {
+    "hiragana": "あれ",
+    "kana": "アレ",
+    "roma": "are",
+    "kanji": "",
+    "example": "that - cái kia"
+  },
+  {
+    "hiragana": "いい/よい",
+    "kana": "イイ/ヨイ",
+    "roma": "ii/yoi",
+    "kanji": "",
+    "example": "good - tốt"
+  },
+  {
+    "hiragana": "いいえ",
+    "kana": "イイエ",
+    "roma": "iie",
+    "kanji": "",
+    "example": "no - không"
+  },
+  {
+    "hiragana": "いう",
+    "kana": "イウ",
+    "roma": "iu",
+    "kanji": "言う",
+    "example": "to say - nói"
+  },
+  {
+    "hiragana": "いえ",
+    "kana": "イエ",
+    "roma": "ie",
+    "kanji": "家",
+    "example": "house - ngôi nhà"
+  },
+  {
+    "hiragana": "いかが",
+    "kana": "イカガ",
+    "roma": "ikaga",
+    "kanji": "",
+    "example": "how - như thế nào"
+  },
+  {
+    "hiragana": "いく",
+    "kana": "イク",
+    "roma": "iku",
+    "kanji": "行く / ゆく",
+    "example": "to go - đi"
+  },
+  {
+    "hiragana": "いくつ",
+    "kana": "イクツ",
+    "roma": "ikutsu",
+    "kanji": "",
+    "example": "how many?, how old? - bao nhiêu?, bao nhiêu tuổi?"
+  },
+  {
+    "hiragana": "いくら",
+    "kana": "イクラ",
+    "roma": "ikura",
+    "kanji": "",
+    "example": "how much? - bao nhiêu tiền?"
+  },
+  {
+    "hiragana": "いけ",
+    "kana": "イケ",
+    "roma": "ike",
+    "kanji": "池",
+    "example": "pond - cái ao"
+  },
+  {
+    "hiragana": "いしゃ",
+    "kana": "イシャ",
+    "roma": "ishiゃ",
+    "kanji": "医者",
+    "example": "medical doctor - bác sĩ"
+  },
+  {
+    "hiragana": "いす",
+    "kana": "イス",
+    "roma": "isu",
+    "kanji": "",
+    "example": "chair - cái ghế"
+  },
+  {
+    "hiragana": "いそがしい",
+    "kana": "イソガシイ",
+    "roma": "isogashii",
+    "kanji": "忙しい",
+    "example": "busy, irritated - bận rộn"
+  },
+  {
+    "hiragana": "いたい",
+    "kana": "イタイ",
+    "roma": "itai",
+    "kanji": "痛い",
+    "example": "painful - đau, bị đau"
+  },
+  {
+    "hiragana": "いち",
+    "kana": "イチ",
+    "roma": "ichi",
+    "kanji": "一",
+    "example": "one - một"
+  },
+  {
+    "hiragana": "いちにち",
+    "kana": "イチニチ",
+    "roma": "ichinichi",
+    "kanji": "一日",
+    "example": "first of the month - ngày mồng một"
+  },
+  {
+    "hiragana": "いちばん",
+    "kana": "イチバン",
+    "roma": "ichiban",
+    "kanji": "",
+    "example": "best, first - nhất, số một"
+  },
+  {
+    "hiragana": "いつ",
+    "kana": "イツ",
+    "roma": "itsu",
+    "kanji": "",
+    "example": "when - khi nào"
+  },
+  {
+    "hiragana": "いつか",
+    "kana": "イツカ",
+    "roma": "itsuka",
+    "kanji": "五日",
+    "example": "five days, fifth day - ngày mồng năm, năm ngày"
+  },
+  {
+    "hiragana": "いっしょ",
+    "kana": "イッショ",
+    "roma": "iっshiょ",
+    "kanji": "一緒",
+    "example": "together - cùng nhau"
+  },
+  {
+    "hiragana": "いつつ",
+    "kana": "イツツ",
+    "roma": "itsutsu",
+    "kanji": "五つ",
+    "example": "five - năm (số đếm)"
+  },
+  {
+    "hiragana": "いつも",
+    "kana": "イツモ",
+    "roma": "itsumo",
+    "kanji": "",
+    "example": "always - luôn luôn"
+  },
+  {
+    "hiragana": "いぬ",
+    "kana": "イヌ",
+    "roma": "inu",
+    "kanji": "犬",
+    "example": "dog - chó"
+  },
+  {
+    "hiragana": "いま",
+    "kana": "イマ",
+    "roma": "ima",
+    "kanji": "今",
+    "example": "now - bây giờ"
+  },
+  {
+    "hiragana": "いみ",
+    "kana": "イミ",
+    "roma": "imi",
+    "kanji": "意味",
+    "example": "meaning - ý nghĩa"
+  },
+  {
+    "hiragana": "いもうと",
+    "kana": "イモウト",
+    "roma": "imouto",
+    "kanji": "妹",
+    "example": "(humble) younger sister - em gái (khiêm nhường)"
+  },
+  {
+    "hiragana": "いや",
+    "kana": "イヤ",
+    "roma": "iya",
+    "kanji": "嫌",
+    "example": "unpleasant - khó chịu, ghét"
+  },
+  {
+    "hiragana": "いりぐち",
+    "kana": "イリグチ",
+    "roma": "iriguchi",
+    "kanji": "入口",
+    "example": "entrance - lối vào"
+  },
+  {
+    "hiragana": "いる1",
+    "kana": "イル1",
+    "roma": "iru1",
+    "kanji": "居る",
+    "example": "to be, to have (used for people and animals) - có, ở (người/động vật)"
+  },
+  {
+    "hiragana": "いる2",
+    "kana": "イル2",
+    "roma": "iru2",
+    "kanji": "要る",
+    "example": "to need - cần"
+  },
+  {
+    "hiragana": "いれる",
+    "kana": "イレル",
+    "roma": "ireru",
+    "kanji": "入れる",
+    "example": "to put in - cho vào"
+  },
+  {
+    "hiragana": "いろ",
+    "kana": "イロ",
+    "roma": "iro",
+    "kanji": "色",
+    "example": "colour - màu sắc"
+  },
+  {
+    "hiragana": "いろいろ",
+    "kana": "イロイロ",
+    "roma": "iroiro",
+    "kanji": "",
+    "example": "various - nhiều loại"
+  },
+  {
+    "hiragana": "うえ",
+    "kana": "ウエ",
+    "roma": "ue",
+    "kanji": "上",
+    "example": "on top of - ở trên"
+  },
+  {
+    "hiragana": "うしろ",
+    "kana": "ウシロ",
+    "roma": "ushiro",
+    "kanji": "後ろ",
+    "example": "behind - đằng sau"
+  },
+  {
+    "hiragana": "うすい",
+    "kana": "ウスイ",
+    "roma": "usui",
+    "kanji": "薄い",
+    "example": "thin, weak - mỏng, nhạt, yếu"
+  },
+  {
+    "hiragana": "うた",
+    "kana": "ウタ",
+    "roma": "uta",
+    "kanji": "歌",
+    "example": "song - bài hát"
+  },
+  {
+    "hiragana": "うたう",
+    "kana": "ウタウ",
+    "roma": "utau",
+    "kanji": "歌う",
+    "example": "to sing - hát"
+  },
+  {
+    "hiragana": "うまれる",
+    "kana": "ウマレル",
+    "roma": "umareru",
+    "kanji": "生まれる",
+    "example": "to be born - sinh ra"
+  },
+  {
+    "hiragana": "うみ",
+    "kana": "ウミ",
+    "roma": "umi",
+    "kanji": "海",
+    "example": "sea - biển"
+  },
+  {
+    "hiragana": "うる",
+    "kana": "ウル",
+    "roma": "uru",
+    "kanji": "売る",
+    "example": "to sell - bán"
+  },
+  {
+    "hiragana": "うるさい",
+    "kana": "ウルサイ",
+    "roma": "urusai",
+    "kanji": "煩い",
+    "example": "noisy, annoying - ồn ào, phiền phức"
+  },
+  {
+    "hiragana": "うわぎ",
+    "kana": "ウワギ",
+    "roma": "uwagi",
+    "kanji": "上着",
+    "example": "jacket - áo khoác"
+  },
+  {
+    "hiragana": "え",
+    "kana": "エ",
+    "roma": "e",
+    "kanji": "絵",
+    "example": "picture - bức tranh"
+  },
+  {
+    "hiragana": "えいが",
+    "kana": "エイガ",
+    "roma": "eiga",
+    "kanji": "映画",
+    "example": "movie - phim"
+  },
+  {
+    "hiragana": "えいがかん",
+    "kana": "エイガカン",
+    "roma": "eigakan",
+    "kanji": "映画館",
+    "example": "cinema - rạp chiếu phim"
+  },
+  {
+    "hiragana": "えいご",
+    "kana": "エイゴ",
+    "roma": "eigo",
+    "kanji": "英語",
+    "example": "English language - tiếng Anh"
+  },
+  {
+    "hiragana": "ええ",
+    "kana": "エエ",
+    "roma": "ee",
+    "kanji": "",
+    "example": "yes - vâng, ừ"
+  },
+  {
+    "hiragana": "えき",
+    "kana": "エキ",
+    "roma": "eki",
+    "kanji": "駅",
+    "example": "station - nhà ga"
+  },
+  {
+    "hiragana": "エレベーター",
+    "kana": "エレベーター",
+    "roma": "エレベーター",
+    "kanji": "",
+    "example": "elevator - thang máy"
+  },
+  {
+    "hiragana": "えんぴつ",
+    "kana": "エンピツ",
+    "roma": "enpitsu",
+    "kanji": "鉛筆",
+    "example": "pencil - bút chì"
+  },
+  {
+    "hiragana": "おいしい",
+    "kana": "オイシイ",
+    "roma": "oishii",
+    "kanji": "",
+    "example": "delicious - ngon"
+  },
+  {
+    "hiragana": "おおい",
+    "kana": "オオイ",
+    "roma": "ooi",
+    "kanji": "多い",
+    "example": "many - nhiều"
+  },
+  {
+    "hiragana": "おおきい",
+    "kana": "オオキイ",
+    "roma": "ookii",
+    "kanji": "大きい",
+    "example": "big - to, lớn"
+  },
+  {
+    "hiragana": "おおきな",
+    "kana": "オオキナ",
+    "roma": "ookina",
+    "kanji": "大きな",
+    "example": "big - to, lớn"
+  },
+  {
+    "hiragana": "おおぜい",
+    "kana": "オオゼイ",
+    "roma": "oozei",
+    "kanji": "大勢",
+    "example": "great number of people - đông người"
+  },
+  {
+    "hiragana": "おかあさん",
+    "kana": "オカアサン",
+    "roma": "okaasan",
+    "kanji": "お母さん",
+    "example": "(honorable) mother - mẹ (kính ngữ)"
+  },
+  {
+    "hiragana": "おかし",
+    "kana": "オカシ",
+    "roma": "okashi",
+    "kanji": "お菓子",
+    "example": "sweets, candy - kẹo, bánh kẹo"
+  },
+  {
+    "hiragana": "おかね",
+    "kana": "オカネ",
+    "roma": "okane",
+    "kanji": "お金",
+    "example": "money - tiền"
+  },
+  {
+    "hiragana": "おきる",
+    "kana": "オキル",
+    "roma": "okiru",
+    "kanji": "起きる",
+    "example": "to get up - thức dậy"
+  },
+  {
+    "hiragana": "おく",
+    "kana": "オク",
+    "roma": "oku",
+    "kanji": "置く",
+    "example": "to put - đặt, để"
+  },
+  {
+    "hiragana": "おくさん",
+    "kana": "オクサン",
+    "roma": "okusan",
+    "kanji": "奥さん",
+    "example": "(honorable) wife - vợ (kính ngữ)"
+  },
+  {
+    "hiragana": "おさけ",
+    "kana": "オサケ",
+    "roma": "osake",
+    "kanji": "お酒",
+    "example": "alcohol, rice wine - rượu, sake"
+  },
+  {
+    "hiragana": "おさら",
+    "kana": "オサラ",
+    "roma": "osara",
+    "kanji": "お皿",
+    "example": "plate, dish - cái đĩa"
+  },
+  {
+    "hiragana": "おじいさん",
+    "kana": "オジイサン",
+    "roma": "ojiisan",
+    "kanji": "伯父/叔父",
+    "example": "grandfather, male senior citizen - ông"
+  },
+  {
+    "hiragana": "おしえる",
+    "kana": "オシエル",
+    "roma": "oshieru",
+    "kanji": "教える",
+    "example": "to teach, to tell - dạy, chỉ bảo"
+  },
+  {
+    "hiragana": "おじさん",
+    "kana": "オジサン",
+    "roma": "ojisan",
+    "kanji": "伯父/叔父",
+    "example": "uncle, middle aged gentleman - chú, bác"
+  },
+  {
+    "hiragana": "おす",
+    "kana": "オス",
+    "roma": "osu",
+    "kanji": "押す",
+    "example": "to push, to stamp something - đẩy, đóng dấu"
+  },
+  {
+    "hiragana": "おそい",
+    "kana": "オソイ",
+    "roma": "osoi",
+    "kanji": "遅い",
+    "example": "late, slow - chậm, muộn"
+  },
+  {
+    "hiragana": "おちゃ",
+    "kana": "オチャ",
+    "roma": "ochiゃ",
+    "kanji": "お茶",
+    "example": "green tea - trà xanh"
+  },
+  {
+    "hiragana": "おてあらい",
+    "kana": "オテアライ",
+    "roma": "otearai",
+    "kanji": "お手洗い",
+    "example": "bathroom - nhà vệ sinh"
+  },
+  {
+    "hiragana": "おとうさん",
+    "kana": "オトウサン",
+    "roma": "otousan",
+    "kanji": "お父さん",
+    "example": "(honorable) father - bố (kính ngữ)"
+  },
+  {
+    "hiragana": "おとうと",
+    "kana": "オトウト",
+    "roma": "otouto",
+    "kanji": "弟",
+    "example": "younger brother - em trai"
+  },
+  {
+    "hiragana": "おとこ",
+    "kana": "オトコ",
+    "roma": "otoko",
+    "kanji": "男",
+    "example": "man - đàn ông"
+  },
+  {
+    "hiragana": "おとこのこ",
+    "kana": "オトコノコ",
+    "roma": "otokonoko",
+    "kanji": "男の子",
+    "example": "boy - cậu bé"
+  },
+  {
+    "hiragana": "おととい",
+    "kana": "オトトイ",
+    "roma": "ototoi",
+    "kanji": "一昨日",
+    "example": "day before yesterday - hôm kia"
+  },
+  {
+    "hiragana": "おととし",
+    "kana": "オトトシ",
+    "roma": "ototoshi",
+    "kanji": "一昨年",
+    "example": "year before last - năm kia"
+  },
+  {
+    "hiragana": "おとな",
+    "kana": "オトナ",
+    "roma": "otona",
+    "kanji": "大人",
+    "example": "adult - người lớn"
+  },
+  {
+    "hiragana": "おなか",
+    "kana": "オナカ",
+    "roma": "onaka",
+    "kanji": "",
+    "example": "stomach - bụng"
+  },
+  {
+    "hiragana": "おなじ",
+    "kana": "オナジ",
+    "roma": "onaji",
+    "kanji": "同じ",
+    "example": "same - giống nhau"
+  },
+  {
+    "hiragana": "おにいさん",
+    "kana": "オニイサン",
+    "roma": "oniisan",
+    "kanji": "お兄さん",
+    "example": "(honorable) older brother - anh trai (kính ngữ)"
+  },
+  {
+    "hiragana": "おねえさん",
+    "kana": "オネエサン",
+    "roma": "oneesan",
+    "kanji": "お姉さん",
+    "example": "(honorable) older sister - chị gái (kính ngữ)"
+  },
+  {
+    "hiragana": "おばあさん",
+    "kana": "オバアサン",
+    "roma": "obaasan",
+    "kanji": "",
+    "example": "grandmother, female senior-citizen - bà"
+  },
+  {
+    "hiragana": "おばさん",
+    "kana": "オバサン",
+    "roma": "obasan",
+    "kanji": "伯母さん/叔母さん",
+    "example": "aunt - cô, dì, bác gái"
+  },
+  {
+    "hiragana": "おふろ",
+    "kana": "オフロ",
+    "roma": "ofuro",
+    "kanji": "お風呂",
+    "example": "bath - bồn tắm"
+  },
+  {
+    "hiragana": "おべんとう",
+    "kana": "オベントウ",
+    "roma": "obentou",
+    "kanji": "お弁当",
+    "example": "boxed lunch - cơm hộp"
+  },
+  {
+    "hiragana": "おぼえる",
+    "kana": "オボエル",
+    "roma": "oboeru",
+    "kanji": "覚える",
+    "example": "to remember - nhớ, học thuộc"
+  },
+  {
+    "hiragana": "おまわりさん",
+    "kana": "オマワリサン",
+    "roma": "omawarisan",
+    "kanji": "",
+    "example": "friendly term for policeman - chú cảnh sát"
+  },
+  {
+    "hiragana": "おもい",
+    "kana": "オモイ",
+    "roma": "omoi",
+    "kanji": "重い",
+    "example": "heavy - nặng"
+  },
+  {
+    "hiragana": "おもしろい",
+    "kana": "オモシロイ",
+    "roma": "omoshiroi",
+    "kanji": "",
+    "example": "interesting - thú vị"
+  },
+  {
+    "hiragana": "およぐ",
+    "kana": "オヨグ",
+    "roma": "oyogu",
+    "kanji": "泳ぐ",
+    "example": "to swim - bơi"
+  },
+  {
+    "hiragana": "おりる",
+    "kana": "オリル",
+    "roma": "oriru",
+    "kanji": "降りる",
+    "example": "to get off, to descend - xuống (tàu, xe)"
+  },
+  {
+    "hiragana": "おわる",
+    "kana": "オワル",
+    "roma": "owaru",
+    "kanji": "終る",
+    "example": "to finish - kết thúc"
+  },
+  {
+    "hiragana": "おんがく",
+    "kana": "オンガク",
+    "roma": "ongaku",
+    "kanji": "音楽",
+    "example": "music - âm nhạc"
+  },
+  {
+    "hiragana": "おんな",
+    "kana": "オンナ",
+    "roma": "onna",
+    "kanji": "女",
+    "example": "woman - phụ nữ"
+  },
+  {
+    "hiragana": "おんなのこ",
+    "kana": "オンナノコ",
+    "roma": "onnanoko",
+    "kanji": "女の子",
+    "example": "girl - bé gái"
+  },
+  {
+    "hiragana": "がいこく",
+    "kana": "ガイコク",
+    "roma": "gaikoku",
+    "kanji": "外国",
+    "example": "foreign country - nước ngoài"
+  },
+  {
+    "hiragana": "がいこくじん",
+    "kana": "ガイコクジン",
+    "roma": "gaikokujin",
+    "kanji": "外国人",
+    "example": "foreigner - người nước ngoài"
+  },
+  {
+    "hiragana": "かいしゃ",
+    "kana": "カイシャ",
+    "roma": "kaishiゃ",
+    "kanji": "会社",
+    "example": "company - công ty"
+  },
+  {
+    "hiragana": "かいだん",
+    "kana": "カイダン",
+    "roma": "kaidan",
+    "kanji": "階段",
+    "example": "stairs - cầu thang"
+  },
+  {
+    "hiragana": "かいもの",
+    "kana": "カイモノ",
+    "roma": "kaimono",
+    "kanji": "買い物",
+    "example": "shopping - mua sắm"
+  },
+  {
+    "hiragana": "かう",
+    "kana": "カウ",
+    "roma": "kau",
+    "kanji": "買う",
+    "example": "to buy - mua"
+  },
+  {
+    "hiragana": "かえす",
+    "kana": "カエス",
+    "roma": "kaesu",
+    "kanji": "返す",
+    "example": "to return something - trả lại"
+  },
+  {
+    "hiragana": "かえる",
+    "kana": "カエル",
+    "roma": "kaeru",
+    "kanji": "帰る",
+    "example": "to go back - về, quay lại"
+  },
+  {
+    "hiragana": "かかる",
+    "kana": "カカル",
+    "roma": "kakaru",
+    "kanji": "",
+    "example": "to take time or money - tốn (thời gian, tiền)"
+  },
+  {
+    "hiragana": "かぎ",
+    "kana": "カギ",
+    "roma": "kagi",
+    "kanji": "",
+    "example": "key - chìa khóa"
+  },
+  {
+    "hiragana": "かく",
+    "kana": "カク",
+    "roma": "kaku",
+    "kanji": "書く",
+    "example": "to write - viết"
+  },
+  {
+    "hiragana": "がくせい",
+    "kana": "ガクセイ",
+    "roma": "gakusei",
+    "kanji": "学生",
+    "example": "student - học sinh, sinh viên"
+  },
+  {
+    "hiragana": "かける",
+    "kana": "カケル",
+    "roma": "kakeru",
+    "kanji": "",
+    "example": "to call by phone - gọi điện thoại"
+  },
+  {
+    "hiragana": "かさ",
+    "kana": "カサ",
+    "roma": "kasa",
+    "kanji": "傘",
+    "example": "umbrella - cái ô, dù"
+  },
+  {
+    "hiragana": "かす",
+    "kana": "カス",
+    "roma": "kasu",
+    "kanji": "貸す",
+    "example": "to lend - cho mượn"
+  },
+  {
+    "hiragana": "かぜ1",
+    "kana": "カゼ1",
+    "roma": "kaze1",
+    "kanji": "風",
+    "example": "wind - gió"
+  },
+  {
+    "hiragana": "かぜ2",
+    "kana": "カゼ2",
+    "roma": "kaze2",
+    "kanji": "風邪",
+    "example": "a cold - cảm lạnh"
+  },
+  {
+    "hiragana": "かぞく",
+    "kana": "カゾク",
+    "roma": "kazoku",
+    "kanji": "家族",
+    "example": "family - gia đình"
+  },
+  {
+    "hiragana": "かた",
+    "kana": "カタ",
+    "roma": "kata",
+    "kanji": "方",
+    "example": "person, way of doing - vị, cách làm"
+  },
+  {
+    "hiragana": "がっこう",
+    "kana": "ガッコウ",
+    "roma": "gaっkou",
+    "kanji": "学校",
+    "example": "school - trường học"
+  },
+  {
+    "hiragana": "カップ",
+    "kana": "カップ",
+    "roma": "カップ",
+    "kanji": "",
+    "example": "cup - cái cốc"
+  },
+  {
+    "hiragana": "かてい",
+    "kana": "カテイ",
+    "roma": "katei",
+    "kanji": "家庭",
+    "example": "household - gia đình, hộ gia đình"
+  },
+  {
+    "hiragana": "かど",
+    "kana": "カド",
+    "roma": "kado",
+    "kanji": "角",
+    "example": "a corner - góc"
+  },
+  {
+    "hiragana": "かばん",
+    "kana": "カバン",
+    "roma": "kaban",
+    "kanji": "",
+    "example": "bag, basket - cặp, túi"
+  },
+  {
+    "hiragana": "かびん",
+    "kana": "カビン",
+    "roma": "kabin",
+    "kanji": "花瓶",
+    "example": "a vase - lọ hoa"
+  },
+  {
+    "hiragana": "かみ",
+    "kana": "カミ",
+    "roma": "kami",
+    "kanji": "紙",
+    "example": "paper - giấy"
+  },
+  {
+    "hiragana": "カメラ",
+    "kana": "カメラ",
+    "roma": "カメラ",
+    "kanji": "",
+    "example": "camera - máy ảnh"
+  },
+  {
+    "hiragana": "かようび",
+    "kana": "カヨウビ",
+    "roma": "kayoubi",
+    "kanji": "火曜日",
+    "example": "Tuesday - thứ ba"
+  },
+  {
+    "hiragana": "からい",
+    "kana": "カライ",
+    "roma": "karai",
+    "kanji": "辛い",
+    "example": "spicy - cay"
+  },
+  {
+    "hiragana": "からだ",
+    "kana": "カラダ",
+    "roma": "karada",
+    "kanji": "体",
+    "example": "body - cơ thể"
+  },
+  {
+    "hiragana": "かりる",
+    "kana": "カリル",
+    "roma": "kariru",
+    "kanji": "借りる",
+    "example": "to borrow - mượn"
+  },
+  {
+    "hiragana": "かるい",
+    "kana": "カルイ",
+    "roma": "karui",
+    "kanji": "軽い",
+    "example": "light - nhẹ"
+  },
+  {
+    "hiragana": "カレー",
+    "kana": "カレー",
+    "roma": "カレー",
+    "kanji": "",
+    "example": "curry - cà ri"
+  },
+  {
+    "hiragana": "カレンダー",
+    "kana": "カレンダー",
+    "roma": "カレンダー",
+    "kanji": "",
+    "example": "calendar - lịch"
+  },
+  {
+    "hiragana": "かわ",
+    "kana": "カワ",
+    "roma": "kawa",
+    "kanji": "川/河",
+    "example": "river - sông"
+  },
+  {
+    "hiragana": "かわいい",
+    "kana": "カワイイ",
+    "roma": "kawaii",
+    "kanji": "",
+    "example": "cute - dễ thương"
+  },
+  {
+    "hiragana": "かんじ",
+    "kana": "カンジ",
+    "roma": "kanji",
+    "kanji": "漢字",
+    "example": "Chinese character - chữ Hán, Kanji"
+  },
+  {
+    "hiragana": "き",
+    "kana": "キ",
+    "roma": "ki",
+    "kanji": "木",
+    "example": "tree, wood - cây, gỗ"
+  },
+  {
+    "hiragana": "きいろ",
+    "kana": "キイロ",
+    "roma": "kiiro",
+    "kanji": "黄色",
+    "example": "yellow - màu vàng"
+  },
+  {
+    "hiragana": "きいろい",
+    "kana": "キイロイ",
+    "roma": "kiiroi",
+    "kanji": "黄色い",
+    "example": "yellow - màu vàng"
+  },
+  {
+    "hiragana": "きえる",
+    "kana": "キエル",
+    "roma": "kieru",
+    "kanji": "消える",
+    "example": "to disappear - biến mất"
+  },
+  {
+    "hiragana": "きく",
+    "kana": "キク",
+    "roma": "kiku",
+    "kanji": "聞く",
+    "example": "to hear, to listen to, to ask - nghe, hỏi"
+  },
+  {
+    "hiragana": "きた",
+    "kana": "キタ",
+    "roma": "kita",
+    "kanji": "北",
+    "example": "north - phía bắc"
+  },
+  {
+    "hiragana": "ギター",
+    "kana": "ギター",
+    "roma": "ギター",
+    "kanji": "",
+    "example": "guitar - đàn ghi-ta"
+  },
+  {
+    "hiragana": "きたない",
+    "kana": "キタナイ",
+    "roma": "kitanai",
+    "kanji": "汚い",
+    "example": "dirty - bẩn, dơ"
+  },
+  {
+    "hiragana": "きっさてん",
+    "kana": "キッサテン",
+    "roma": "kiっsaten",
+    "kanji": "喫茶店",
+    "example": "coffee lounge - quán cà phê"
+  },
+  {
+    "hiragana": "きって",
+    "kana": "キッテ",
+    "roma": "kiっte",
+    "kanji": "切手",
+    "example": "postage stamp - tem thư"
+  },
+  {
+    "hiragana": "きっぷ",
+    "kana": "キップ",
+    "roma": "kiっpu",
+    "kanji": "切符",
+    "example": "ticket - vé"
+  },
+  {
+    "hiragana": "きのう",
+    "kana": "キノウ",
+    "roma": "kinou",
+    "kanji": "昨日",
+    "example": "yesterday - hôm qua"
+  },
+  {
+    "hiragana": "きゅう",
+    "kana": "キュウ",
+    "roma": "kiゅu",
+    "kanji": "九",
+    "example": "nine - chín"
+  },
+  {
+    "hiragana": "ぎゅうにく",
+    "kana": "ギュウニク",
+    "roma": "giゅuniku",
+    "kanji": "牛肉",
+    "example": "beef - thịt bò"
+  },
+  {
+    "hiragana": "ぎゅうにゅう",
+    "kana": "ギュウニュウ",
+    "roma": "giゅuniゅu",
+    "kanji": "牛乳",
+    "example": "milk - sữa"
+  },
+  {
+    "hiragana": "きょう",
+    "kana": "キョウ",
+    "roma": "kiょu",
+    "kanji": "今日",
+    "example": "today - hôm nay"
+  },
+  {
+    "hiragana": "きょうしつ",
+    "kana": "キョウシツ",
+    "roma": "kiょushitsu",
+    "kanji": "教室",
+    "example": "classroom - phòng học"
+  },
+  {
+    "hiragana": "きょうだい",
+    "kana": "キョウダイ",
+    "roma": "kiょudai",
+    "kanji": "兄弟",
+    "example": "(humble) siblings - anh chị em (khiêm nhường)"
+  },
+  {
+    "hiragana": "きょねん",
+    "kana": "キョネン",
+    "roma": "kiょnen",
+    "kanji": "去年",
+    "example": "last year - năm ngoái"
+  },
+  {
+    "hiragana": "きらい",
+    "kana": "キライ",
+    "roma": "kirai",
+    "kanji": "嫌い",
+    "example": "hate - ghét"
+  },
+  {
+    "hiragana": "きる1",
+    "kana": "キル1",
+    "roma": "kiru1",
+    "kanji": "切る",
+    "example": "to cut - cắt"
+  },
+  {
+    "hiragana": "きる2",
+    "kana": "キル2",
+    "roma": "kiru2",
+    "kanji": "着る",
+    "example": "to put on from the shoulders down - mặc (áo, từ vai trở xuống)"
+  },
+  {
+    "hiragana": "きれい",
+    "kana": "キレイ",
+    "roma": "kirei",
+    "kanji": "",
+    "example": "pretty, clean - đẹp, sạch"
+  },
+  {
+    "hiragana": "キロ",
+    "kana": "キロ",
+    "roma": "キロ",
+    "kanji": "",
+    "example": "kilogram/kilometer - ki-lô-gam / ki-lô-mét"
+  },
+  {
+    "hiragana": "ぎんこう",
+    "kana": "ギンコウ",
+    "roma": "ginkou",
+    "kanji": "銀行",
+    "example": "bank - ngân hàng"
+  },
+  {
+    "hiragana": "きんようび",
+    "kana": "キンヨウビ",
+    "roma": "kinyoubi",
+    "kanji": "金曜日",
+    "example": "Friday - thứ sáu"
+  },
+  {
+    "hiragana": "くすり",
+    "kana": "クスリ",
+    "roma": "kusuri",
+    "kanji": "薬",
+    "example": "medicine - thuốc"
+  },
+  {
+    "hiragana": "ください",
+    "kana": "クダサイ",
+    "roma": "kudasai",
+    "kanji": "",
+    "example": "please - làm ơn"
+  },
+  {
+    "hiragana": "くだもの",
+    "kana": "クダモノ",
+    "roma": "kudamono",
+    "kanji": "果物",
+    "example": "fruit - hoa quả"
+  },
+  {
+    "hiragana": "くち",
+    "kana": "クチ",
+    "roma": "kuchi",
+    "kanji": "口",
+    "example": "mouth, opening - miệng"
+  },
+  {
+    "hiragana": "くつ",
+    "kana": "クツ",
+    "roma": "kutsu",
+    "kanji": "靴",
+    "example": "shoes - giày"
+  },
+  {
+    "hiragana": "くつした",
+    "kana": "クツシタ",
+    "roma": "kutsushita",
+    "kanji": "靴下",
+    "example": "socks - tất, vớ"
+  },
+  {
+    "hiragana": "くに",
+    "kana": "クニ",
+    "roma": "kuni",
+    "kanji": "国",
+    "example": "country - đất nước"
+  },
+  {
+    "hiragana": "くもり",
+    "kana": "クモリ",
+    "roma": "kumori",
+    "kanji": "曇り",
+    "example": "cloudy weather - trời nhiều mây"
+  },
+  {
+    "hiragana": "くもる",
+    "kana": "クモル",
+    "roma": "kumoru",
+    "kanji": "曇る",
+    "example": "to become cloudy, to become dim - trở nên nhiều mây"
+  },
+  {
+    "hiragana": "くらい",
+    "kana": "クライ",
+    "roma": "kurai",
+    "kanji": "暗い",
+    "example": "gloomy - tối, u ám"
+  },
+  {
+    "hiragana": "クラス",
+    "kana": "クラス",
+    "roma": "クラス",
+    "kanji": "",
+    "example": "class - lớp học"
+  },
+  {
+    "hiragana": "グラム",
+    "kana": "グラム",
+    "roma": "グラム",
+    "kanji": "",
+    "example": "gram - gam"
+  },
+  {
+    "hiragana": "くる",
+    "kana": "クル",
+    "roma": "kuru",
+    "kanji": "来る",
+    "example": "to come - đến"
+  },
+  {
+    "hiragana": "くるま",
+    "kana": "クルマ",
+    "roma": "kuruma",
+    "kanji": "車",
+    "example": "car, vehicle - xe ô tô"
+  },
+  {
+    "hiragana": "くろ",
+    "kana": "クロ",
+    "roma": "kuro",
+    "kanji": "黒",
+    "example": "black - màu đen"
+  },
+  {
+    "hiragana": "くろい",
+    "kana": "クロイ",
+    "roma": "kuroi",
+    "kanji": "黒い",
+    "example": "black - đen"
+  },
+  {
+    "hiragana": "けいかん",
+    "kana": "ケイカン",
+    "roma": "keikan",
+    "kanji": "警官",
+    "example": "policeman - cảnh sát"
+  },
+  {
+    "hiragana": "けさ",
+    "kana": "ケサ",
+    "roma": "kesa",
+    "kanji": "今朝",
+    "example": "this morning - sáng nay"
+  },
+  {
+    "hiragana": "けす",
+    "kana": "ケス",
+    "roma": "kesu",
+    "kanji": "消す",
+    "example": "to erase, to turn off power - tắt, xóa"
+  },
+  {
+    "hiragana": "けっこう",
+    "kana": "ケッコウ",
+    "roma": "keっkou",
+    "kanji": "結構",
+    "example": "splendid, enough - tuyệt, đủ rồi"
+  },
+  {
+    "hiragana": "けっこん",
+    "kana": "ケッコン",
+    "roma": "keっkon",
+    "kanji": "結婚",
+    "example": "marriage - kết hôn"
+  },
+  {
+    "hiragana": "げつようび",
+    "kana": "ゲツヨウビ",
+    "roma": "getsuyoubi",
+    "kanji": "月曜日",
+    "example": "Monday - thứ hai"
+  },
+  {
+    "hiragana": "げんかん",
+    "kana": "ゲンカン",
+    "roma": "genkan",
+    "kanji": "玄関",
+    "example": "entry hall - sảnh vào"
+  },
+  {
+    "hiragana": "げんき",
+    "kana": "ゲンキ",
+    "roma": "genki",
+    "kanji": "元気",
+    "example": "health, vitality - khỏe mạnh"
+  },
+  {
+    "hiragana": "こえ",
+    "kana": "コエ",
+    "roma": "koe",
+    "kanji": "声",
+    "example": "voice - giọng nói"
+  },
+  {
+    "hiragana": "コート",
+    "kana": "コート",
+    "roma": "コート",
+    "kanji": "",
+    "example": "coat, tennis court - áo khoác / sân tennis"
+  },
+  {
+    "hiragana": "コーヒー",
+    "kana": "コーヒー",
+    "roma": "コーヒー",
+    "kanji": "",
+    "example": "coffee - cà phê"
+  },
+  {
+    "hiragana": "ここ",
+    "kana": "ココ",
+    "roma": "koko",
+    "kanji": "",
+    "example": "here - ở đây"
+  },
+  {
+    "hiragana": "ごご",
+    "kana": "ゴゴ",
+    "roma": "gogo",
+    "kanji": "午後",
+    "example": "afternoon - buổi chiều"
+  },
+  {
+    "hiragana": "ここのか",
+    "kana": "ココノカ",
+    "roma": "kokonoka",
+    "kanji": "九日",
+    "example": "nine days, ninth day - chín ngày, ngày mồng chín"
+  },
+  {
+    "hiragana": "ここのつ",
+    "kana": "ココノツ",
+    "roma": "kokonotsu",
+    "kanji": "九つ",
+    "example": "nine - chín (số đếm)"
+  },
+  {
+    "hiragana": "ごぜん",
+    "kana": "ゴゼン",
+    "roma": "gozen",
+    "kanji": "午前",
+    "example": "morning - buổi sáng"
+  },
+  {
+    "hiragana": "こたえる",
+    "kana": "コタエル",
+    "roma": "kotaeru",
+    "kanji": "答える",
+    "example": "to answer - trả lời"
+  },
+  {
+    "hiragana": "こちら",
+    "kana": "コチラ",
+    "roma": "kochira",
+    "kanji": "",
+    "example": "this person or way - người này / phía này"
+  },
+  {
+    "hiragana": "こっち",
+    "kana": "コッチ",
+    "roma": "koっchi",
+    "kanji": "",
+    "example": "this person or way - người này / hướng này"
+  },
+  {
+    "hiragana": "コップ",
+    "kana": "コップ",
+    "roma": "コップ",
+    "kanji": "",
+    "example": "a glass - cái cốc"
+  },
+  {
+    "hiragana": "ことし",
+    "kana": "コトシ",
+    "roma": "kotoshi",
+    "kanji": "今年",
+    "example": "this year - năm nay"
+  },
+  {
+    "hiragana": "ことば",
+    "kana": "コトバ",
+    "roma": "kotoba",
+    "kanji": "言葉",
+    "example": "word, language - từ vựng, ngôn ngữ"
+  },
+  {
+    "hiragana": "こども",
+    "kana": "コドモ",
+    "roma": "kodomo",
+    "kanji": "子供",
+    "example": "child - trẻ em"
+  },
+  {
+    "hiragana": "この",
+    "kana": "コノ",
+    "roma": "kono",
+    "kanji": "",
+    "example": "this - này"
+  },
+  {
+    "hiragana": "ごはん",
+    "kana": "ゴハン",
+    "roma": "gohan",
+    "kanji": "御飯",
+    "example": "cooked rice, meal - cơm, bữa ăn"
+  },
+  {
+    "hiragana": "コピーする",
+    "kana": "コピースル",
+    "roma": "コピーsuru",
+    "kanji": "",
+    "example": "to copy - sao chép"
+  },
+  {
+    "hiragana": "こまる",
+    "kana": "コマル",
+    "roma": "komaru",
+    "kanji": "困る",
+    "example": "to be worried - gặp khó khăn, lo lắng"
+  },
+  {
+    "hiragana": "これ",
+    "kana": "コレ",
+    "roma": "kore",
+    "kanji": "",
+    "example": "this - cái này"
+  },
+  {
+    "hiragana": "こんげつ",
+    "kana": "コンゲツ",
+    "roma": "kongetsu",
+    "kanji": "今月",
+    "example": "this month - tháng này"
+  },
+  {
+    "hiragana": "こんしゅう",
+    "kana": "コンシュウ",
+    "roma": "konshiゅu",
+    "kanji": "今週",
+    "example": "this week - tuần này"
+  },
+  {
+    "hiragana": "こんな",
+    "kana": "コンナ",
+    "roma": "konna",
+    "kanji": "",
+    "example": "such - như thế"
+  },
+  {
+    "hiragana": "こんばん",
+    "kana": "コンバン",
+    "roma": "konban",
+    "kanji": "今晩",
+    "example": "this evening - tối nay"
+  },
+  {
+    "hiragana": "さあ",
+    "kana": "サア",
+    "roma": "saa",
+    "kanji": "",
+    "example": "well… - à, ừ thì..."
+  },
+  {
+    "hiragana": "さいふ",
+    "kana": "サイフ",
+    "roma": "saifu",
+    "kanji": "財布",
+    "example": "wallet - ví tiền"
+  },
+  {
+    "hiragana": "さかな",
+    "kana": "サカナ",
+    "roma": "sakana",
+    "kanji": "魚",
+    "example": "fish - cá"
+  },
+  {
+    "hiragana": "さき",
+    "kana": "サキ",
+    "roma": "saki",
+    "kanji": "先",
+    "example": "the future, previous - trước, tương lai"
+  },
+  {
+    "hiragana": "さく",
+    "kana": "サク",
+    "roma": "saku",
+    "kanji": "咲く",
+    "example": "to bloom - nở hoa"
+  },
+  {
+    "hiragana": "さくぶん",
+    "kana": "サクブン",
+    "roma": "sakubun",
+    "kanji": "作文",
+    "example": "composition, writing - bài văn"
+  },
+  {
+    "hiragana": "さす",
+    "kana": "サス",
+    "roma": "sasu",
+    "kanji": "差す",
+    "example": "to stretch out hands, to raise an umbrella - giơ tay, che ô"
+  },
+  {
+    "hiragana": "ざっし",
+    "kana": "ザッシ",
+    "roma": "zaっshi",
+    "kanji": "雑誌",
+    "example": "magazine - tạp chí"
+  },
+  {
+    "hiragana": "さとう",
+    "kana": "サトウ",
+    "roma": "satou",
+    "kanji": "砂糖",
+    "example": "sugar - đường"
+  },
+  {
+    "hiragana": "さむい",
+    "kana": "サムイ",
+    "roma": "samui",
+    "kanji": "寒い",
+    "example": "cold - lạnh"
+  },
+  {
+    "hiragana": "さらいねん",
+    "kana": "サライネン",
+    "roma": "sarainen",
+    "kanji": "さ来年",
+    "example": "year after next - năm sau nữa"
+  },
+  {
+    "hiragana": "さん",
+    "kana": "サン",
+    "roma": "san",
+    "kanji": "三",
+    "example": "three - ba"
+  },
+  {
+    "hiragana": "さんぽする",
+    "kana": "サンポスル",
+    "roma": "sanposuru",
+    "kanji": "散歩",
+    "example": "to stroll - đi dạo"
+  },
+  {
+    "hiragana": "し",
+    "kana": "シ",
+    "roma": "shi",
+    "kanji": "四",
+    "example": "four - bốn"
+  },
+  {
+    "hiragana": "しお",
+    "kana": "シオ",
+    "roma": "shio",
+    "kanji": "塩",
+    "example": "salt - muối"
+  },
+  {
+    "hiragana": "しかし",
+    "kana": "シカシ",
+    "roma": "shikashi",
+    "kanji": "",
+    "example": "however - tuy nhiên"
+  },
+  {
+    "hiragana": "じかん",
+    "kana": "ジカン",
+    "roma": "jikan",
+    "kanji": "時間",
+    "example": "time - thời gian"
+  },
+  {
+    "hiragana": "しごと",
+    "kana": "シゴト",
+    "roma": "shigoto",
+    "kanji": "仕事",
+    "example": "job - công việc"
+  },
+  {
+    "hiragana": "じしょ",
+    "kana": "ジショ",
+    "roma": "jishiょ",
+    "kanji": "辞書",
+    "example": "dictionary - từ điển"
+  },
+  {
+    "hiragana": "しずか",
+    "kana": "シズカ",
+    "roma": "shizuka",
+    "kanji": "静か",
+    "example": "quiet - yên tĩnh"
+  },
+  {
+    "hiragana": "した",
+    "kana": "シタ",
+    "roma": "shita",
+    "kanji": "下",
+    "example": "below - bên dưới"
+  },
+  {
+    "hiragana": "しち",
+    "kana": "シチ",
+    "roma": "shichi",
+    "kanji": "七",
+    "example": "seven - bảy"
+  },
+  {
+    "hiragana": "しつもん",
+    "kana": "シツモン",
+    "roma": "shitsumon",
+    "kanji": "質問",
+    "example": "question - câu hỏi"
+  },
+  {
+    "hiragana": "じてんしゃ",
+    "kana": "ジテンシャ",
+    "roma": "jitenshiゃ",
+    "kanji": "自転車",
+    "example": "bicycle - xe đạp"
+  },
+  {
+    "hiragana": "じどうしゃ",
+    "kana": "ジドウシャ",
+    "roma": "jidoushiゃ",
+    "kanji": "自動車",
+    "example": "automobile - xe hơi"
+  },
+  {
+    "hiragana": "しぬ",
+    "kana": "シヌ",
+    "roma": "shinu",
+    "kanji": "死ぬ",
+    "example": "to die - chết"
+  },
+  {
+    "hiragana": "じびき",
+    "kana": "ジビキ",
+    "roma": "jibiki",
+    "kanji": "字引",
+    "example": "dictionary - từ điển"
+  },
+  {
+    "hiragana": "じぶん",
+    "kana": "ジブン",
+    "roma": "jibun",
+    "kanji": "自分",
+    "example": "oneself - bản thân"
+  },
+  {
+    "hiragana": "しまる",
+    "kana": "シマル",
+    "roma": "shimaru",
+    "kanji": "閉まる",
+    "example": "to close, to be closed - đóng lại"
+  },
+  {
+    "hiragana": "しめる1",
+    "kana": "シメル1",
+    "roma": "shimeru1",
+    "kanji": "閉める",
+    "example": "to close something - đóng (cửa)"
+  },
+  {
+    "hiragana": "しめる2",
+    "kana": "シメル2",
+    "roma": "shimeru2",
+    "kanji": "締める",
+    "example": "to tie - thắt, buộc"
+  },
+  {
+    "hiragana": "じゃ/じゃあ",
+    "kana": "ジャ/ジャア",
+    "roma": "jiゃ/jiゃa",
+    "kanji": "",
+    "example": "well then… - thế thì…"
+  },
+  {
+    "hiragana": "しゃしん",
+    "kana": "シャシン",
+    "roma": "shiゃshin",
+    "kanji": "写真",
+    "example": "photograph - ảnh chụp"
+  },
+  {
+    "hiragana": "シャツ",
+    "kana": "シャツ",
+    "roma": "シャツ",
+    "kanji": "",
+    "example": "shirt - áo sơ mi"
+  },
+  {
+    "hiragana": "シャワー",
+    "kana": "シャワー",
+    "roma": "シャワー",
+    "kanji": "",
+    "example": "shower - vòi sen"
+  },
+  {
+    "hiragana": "じゅう",
+    "kana": "ジュウ",
+    "roma": "jiゅu",
+    "kanji": "十",
+    "example": "ten - mười"
+  },
+  {
+    "hiragana": "じゅぎょう",
+    "kana": "ジュギョウ",
+    "roma": "jiゅgiょu",
+    "kanji": "授業",
+    "example": "lesson, class work - giờ học"
+  },
+  {
+    "hiragana": "しゅくだい",
+    "kana": "シュクダイ",
+    "roma": "shiゅkudai",
+    "kanji": "宿題",
+    "example": "homework - bài tập về nhà"
+  },
+  {
+    "hiragana": "じょうず",
+    "kana": "ジョウズ",
+    "roma": "jiょuzu",
+    "kanji": "上手",
+    "example": "skillful - khéo léo"
+  },
+  {
+    "hiragana": "じょうぶ",
+    "kana": "ジョウブ",
+    "roma": "jiょubu",
+    "kanji": "丈夫",
+    "example": "strong, durable - chắc chắn, khỏe mạnh"
+  },
+  {
+    "hiragana": "しょうゆ",
+    "kana": "ショウユ",
+    "roma": "shiょuyu",
+    "kanji": "",
+    "example": "soy sauce - xì dầu"
+  },
+  {
+    "hiragana": "しょくどう",
+    "kana": "ショクドウ",
+    "roma": "shiょkudou",
+    "kanji": "食堂",
+    "example": "dining hall - nhà ăn"
+  },
+  {
+    "hiragana": "しる",
+    "kana": "シル",
+    "roma": "shiru",
+    "kanji": "知る",
+    "example": "to know - biết"
+  },
+  {
+    "hiragana": "しろ",
+    "kana": "シロ",
+    "roma": "shiro",
+    "kanji": "白",
+    "example": "white - màu trắng"
+  },
+  {
+    "hiragana": "しろい",
+    "kana": "シロイ",
+    "roma": "shiroi",
+    "kanji": "白い",
+    "example": "white - trắng"
+  },
+  {
+    "hiragana": "しんぶん",
+    "kana": "シンブン",
+    "roma": "shinbun",
+    "kanji": "新聞",
+    "example": "newspaper - báo"
+  },
+  {
+    "hiragana": "すいようび",
+    "kana": "スイヨウビ",
+    "roma": "suiyoubi",
+    "kanji": "水曜日",
+    "example": "Wednesday - thứ tư"
+  },
+  {
+    "hiragana": "すう",
+    "kana": "スウ",
+    "roma": "suu",
+    "kanji": "吸う",
+    "example": "to smoke, to suck - hút, hít"
+  },
+  {
+    "hiragana": "スカート",
+    "kana": "スカート",
+    "roma": "スカート",
+    "kanji": "",
+    "example": "skirt - váy"
+  },
+  {
+    "hiragana": "すき",
+    "kana": "スキ",
+    "roma": "suki",
+    "kanji": "好き",
+    "example": "likeable - thích"
+  },
+  {
+    "hiragana": "すくない",
+    "kana": "スクナイ",
+    "roma": "sukunai",
+    "kanji": "少ない",
+    "example": "a few - ít"
+  },
+  {
+    "hiragana": "すぐに",
+    "kana": "スグニ",
+    "roma": "suguni",
+    "kanji": "",
+    "example": "instantly - ngay lập tức"
+  },
+  {
+    "hiragana": "すこし",
+    "kana": "スコシ",
+    "roma": "sukoshi",
+    "kanji": "少し",
+    "example": "few - một chút"
+  },
+  {
+    "hiragana": "すずしい",
+    "kana": "スズシイ",
+    "roma": "suzushii",
+    "kanji": "涼しい",
+    "example": "refreshing - mát mẻ"
+  },
+  {
+    "hiragana": "ストーブ",
+    "kana": "ストーブ",
+    "roma": "ストーブ",
+    "kanji": "",
+    "example": "heater - lò sưởi"
+  },
+  {
+    "hiragana": "スプーン",
+    "kana": "スプーン",
+    "roma": "スプーン",
+    "kanji": "",
+    "example": "spoon - muỗng"
+  },
+  {
+    "hiragana": "スポーツ",
+    "kana": "スポーツ",
+    "roma": "スポーツ",
+    "kanji": "",
+    "example": "sport - thể thao"
+  },
+  {
+    "hiragana": "ズボン",
+    "kana": "ズボン",
+    "roma": "ズボン",
+    "kanji": "",
+    "example": "trousers - quần dài"
+  },
+  {
+    "hiragana": "すむ",
+    "kana": "スム",
+    "roma": "sumu",
+    "kanji": "住む",
+    "example": "to live in - sống, cư trú"
+  },
+  {
+    "hiragana": "スリッパ",
+    "kana": "スリッパ",
+    "roma": "スリッパ",
+    "kanji": "",
+    "example": "slippers - dép đi trong nhà"
+  },
+  {
+    "hiragana": "する",
+    "kana": "スル",
+    "roma": "suru",
+    "kanji": "",
+    "example": "to do - làm"
+  },
+  {
+    "hiragana": "すわる",
+    "kana": "スワル",
+    "roma": "suwaru",
+    "kanji": "座る",
+    "example": "to sit - ngồi"
+  },
+  {
+    "hiragana": "せ",
+    "kana": "セ",
+    "roma": "se",
+    "kanji": "背",
+    "example": "height, stature - chiều cao"
+  },
+  {
+    "hiragana": "せいと",
+    "kana": "セイト",
+    "roma": "seito",
+    "kanji": "生徒",
+    "example": "pupil - học sinh"
+  },
+  {
+    "hiragana": "セーター",
+    "kana": "セーター",
+    "roma": "セーター",
+    "kanji": "",
+    "example": "sweater, jumper - áo len"
+  },
+  {
+    "hiragana": "せっけん",
+    "kana": "セッケン",
+    "roma": "seっken",
+    "kanji": "",
+    "example": "soap - xà phòng"
+  },
+  {
+    "hiragana": "せびろ",
+    "kana": "セビロ",
+    "roma": "sebiro",
+    "kanji": "背広",
+    "example": "business suit - com-lê"
+  },
+  {
+    "hiragana": "せまい",
+    "kana": "セマイ",
+    "roma": "semai",
+    "kanji": "狭い",
+    "example": "narrow - chật hẹp"
+  },
+  {
+    "hiragana": "ゼロ",
+    "kana": "ゼロ",
+    "roma": "ゼロ",
+    "kanji": "",
+    "example": "zero - số không"
+  },
+  {
+    "hiragana": "せん",
+    "kana": "セン",
+    "roma": "sen",
+    "kanji": "千",
+    "example": "thousand - một nghìn"
+  },
+  {
+    "hiragana": "せんげつ",
+    "kana": "センゲツ",
+    "roma": "sengetsu",
+    "kanji": "先月",
+    "example": "last month - tháng trước"
+  },
+  {
+    "hiragana": "せんしゅう",
+    "kana": "センシュウ",
+    "roma": "senshiゅu",
+    "kanji": "先週",
+    "example": "last week - tuần trước"
+  },
+  {
+    "hiragana": "せんせい",
+    "kana": "センセイ",
+    "roma": "sensei",
+    "kanji": "先生",
+    "example": "teacher, doctor - thầy/cô, bác sĩ"
+  },
+  {
+    "hiragana": "せんたく",
+    "kana": "センタク",
+    "roma": "sentaku",
+    "kanji": "洗濯",
+    "example": "washing - giặt giũ"
+  },
+  {
+    "hiragana": "ぜんぶ",
+    "kana": "ゼンブ",
+    "roma": "zenbu",
+    "kanji": "全部",
+    "example": "all - tất cả"
+  },
+  {
+    "hiragana": "そうじする",
+    "kana": "ソウジスル",
+    "roma": "soujisuru",
+    "kanji": "掃除",
+    "example": "to clean, to sweep - dọn dẹp"
+  },
+  {
+    "hiragana": "そうして/そして",
+    "kana": "ソウシテ/ソシテ",
+    "roma": "soushite/soshite",
+    "kanji": "",
+    "example": "and - và"
+  },
+  {
+    "hiragana": "そこ",
+    "kana": "ソコ",
+    "roma": "soko",
+    "kanji": "",
+    "example": "that place - chỗ đó"
+  },
+  {
+    "hiragana": "そちら",
+    "kana": "ソチラ",
+    "roma": "sochira",
+    "kanji": "",
+    "example": "over there - đằng kia"
+  },
+  {
+    "hiragana": "そっち",
+    "kana": "ソッチ",
+    "roma": "soっchi",
+    "kanji": "",
+    "example": "over there - ở phía kia"
+  },
+  {
+    "hiragana": "そと",
+    "kana": "ソト",
+    "roma": "soto",
+    "kanji": "外",
+    "example": "outside - bên ngoài"
+  },
+  {
+    "hiragana": "その",
+    "kana": "ソノ",
+    "roma": "sono",
+    "kanji": "",
+    "example": "that - đó"
+  },
+  {
+    "hiragana": "そば",
+    "kana": "ソバ",
+    "roma": "soba",
+    "kanji": "",
+    "example": "near, beside - gần, bên cạnh"
+  },
+  {
+    "hiragana": "そら",
+    "kana": "ソラ",
+    "roma": "sora",
+    "kanji": "空",
+    "example": "sky - bầu trời"
+  },
+  {
+    "hiragana": "それ",
+    "kana": "ソレ",
+    "roma": "sore",
+    "kanji": "",
+    "example": "that - cái đó"
+  },
+  {
+    "hiragana": "それから",
+    "kana": "ソレカラ",
+    "roma": "sorekara",
+    "kanji": "",
+    "example": "after that - sau đó"
+  },
+  {
+    "hiragana": "それでは",
+    "kana": "ソレデハ",
+    "roma": "soredeha",
+    "kanji": "",
+    "example": "in that situation - vậy thì"
+  },
+  {
+    "hiragana": "だいがく",
+    "kana": "ダイガク",
+    "roma": "daigaku",
+    "kanji": "大学",
+    "example": "university - trường đại học"
+  },
+  {
+    "hiragana": "たいしかん",
+    "kana": "タイシカン",
+    "roma": "taishikan",
+    "kanji": "大使館",
+    "example": "embassy - đại sứ quán"
+  },
+  {
+    "hiragana": "だいじょうぶ",
+    "kana": "ダイジョウブ",
+    "roma": "daijiょubu",
+    "kanji": "大丈夫",
+    "example": "all right - ổn, không sao"
+  },
+  {
+    "hiragana": "だいすき",
+    "kana": "ダイスキ",
+    "roma": "daisuki",
+    "kanji": "大好き",
+    "example": "to be very likeable - rất thích"
+  },
+  {
+    "hiragana": "たいせつ",
+    "kana": "タイセツ",
+    "roma": "taisetsu",
+    "kanji": "大切",
+    "example": "important - quan trọng"
+  },
+  {
+    "hiragana": "だいどころ",
+    "kana": "ダイドコロ",
+    "roma": "daidokoro",
+    "kanji": "台所",
+    "example": "kitchen - nhà bếp"
+  },
+  {
+    "hiragana": "たいへん1",
+    "kana": "タイヘン1",
+    "roma": "taihen1",
+    "kanji": "",
+    "example": "very - rất"
+  },
+  {
+    "hiragana": "たいへん2",
+    "kana": "タイヘン2",
+    "roma": "taihen2",
+    "kanji": "",
+    "example": "difficult situation - vất vả, khổ sở"
+  },
+  {
+    "hiragana": "たかい",
+    "kana": "タカイ",
+    "roma": "takai",
+    "kanji": "高い",
+    "example": "tall, expensive - cao, đắt"
+  },
+  {
+    "hiragana": "たくさん",
+    "kana": "タクサン",
+    "roma": "takusan",
+    "kanji": "",
+    "example": "many - nhiều"
+  },
+  {
+    "hiragana": "タクシー",
+    "kana": "タクシー",
+    "roma": "タクシー",
+    "kanji": "",
+    "example": "taxi - xe taxi"
+  },
+  {
+    "hiragana": "だす",
+    "kana": "ダス",
+    "roma": "dasu",
+    "kanji": "出す",
+    "example": "to put out - lấy ra, nộp"
+  },
+  {
+    "hiragana": "たつ",
+    "kana": "タツ",
+    "roma": "tatsu",
+    "kanji": "立つ",
+    "example": "to stand - đứng"
+  },
+  {
+    "hiragana": "たて",
+    "kana": "タテ",
+    "roma": "tate",
+    "kanji": "縦",
+    "example": "length, height - chiều dọc, chiều cao"
+  },
+  {
+    "hiragana": "たてもの",
+    "kana": "タテモノ",
+    "roma": "tatemono",
+    "kanji": "建物",
+    "example": "building - tòa nhà"
+  },
+  {
+    "hiragana": "たのしい",
+    "kana": "タノシイ",
+    "roma": "tanoshii",
+    "kanji": "楽しい",
+    "example": "enjoyable - vui vẻ"
+  },
+  {
+    "hiragana": "たのむ",
+    "kana": "タノム",
+    "roma": "tanomu",
+    "kanji": "頼む",
+    "example": "to ask - nhờ, yêu cầu"
+  },
+  {
+    "hiragana": "たばこ",
+    "kana": "タバコ",
+    "roma": "tabako",
+    "kanji": "",
+    "example": "tobacco, cigarettes - thuốc lá"
+  },
+  {
+    "hiragana": "たぶん",
+    "kana": "タブン",
+    "roma": "tabun",
+    "kanji": "",
+    "example": "probably - có lẽ"
+  },
+  {
+    "hiragana": "たべもの",
+    "kana": "タベモノ",
+    "roma": "tabemono",
+    "kanji": "食べ物",
+    "example": "food - thức ăn"
+  },
+  {
+    "hiragana": "たべる",
+    "kana": "タベル",
+    "roma": "taberu",
+    "kanji": "食べる",
+    "example": "to eat - ăn"
+  },
+  {
+    "hiragana": "たまご",
+    "kana": "タマゴ",
+    "roma": "tamago",
+    "kanji": "卵",
+    "example": "egg - trứng"
+  },
+  {
+    "hiragana": "だれ",
+    "kana": "ダレ",
+    "roma": "dare",
+    "kanji": "誰",
+    "example": "who - ai"
+  },
+  {
+    "hiragana": "だれか",
+    "kana": "ダレカ",
+    "roma": "dareka",
+    "kanji": "誰か",
+    "example": "somebody - ai đó"
+  },
+  {
+    "hiragana": "たんじょうび",
+    "kana": "タンジョウビ",
+    "roma": "tanjiょubi",
+    "kanji": "誕生日",
+    "example": "birthday - sinh nhật"
+  },
+  {
+    "hiragana": "だんだん",
+    "kana": "ダンダン",
+    "roma": "dandan",
+    "kanji": "",
+    "example": "gradually - dần dần"
+  },
+  {
+    "hiragana": "ちいさい",
+    "kana": "チイサイ",
+    "roma": "chiisai",
+    "kanji": "小さい",
+    "example": "little - nhỏ"
+  },
+  {
+    "hiragana": "ちいさな",
+    "kana": "チイサナ",
+    "roma": "chiisana",
+    "kanji": "小さな",
+    "example": "little - bé nhỏ"
+  },
+  {
+    "hiragana": "ちかい",
+    "kana": "チカイ",
+    "roma": "chikai",
+    "kanji": "近い",
+    "example": "near - gần"
+  },
+  {
+    "hiragana": "ちがう",
+    "kana": "チガウ",
+    "roma": "chigau",
+    "kanji": "違う",
+    "example": "to differ - khác, sai"
+  },
+  {
+    "hiragana": "ちかく",
+    "kana": "チカク",
+    "roma": "chikaku",
+    "kanji": "近く",
+    "example": "near - gần"
+  },
+  {
+    "hiragana": "ちかてつ",
+    "kana": "チカテツ",
+    "roma": "chikatetsu",
+    "kanji": "地下鉄",
+    "example": "underground train - tàu điện ngầm"
+  },
+  {
+    "hiragana": "ちず",
+    "kana": "チズ",
+    "roma": "chizu",
+    "kanji": "地図",
+    "example": "map - bản đồ"
+  },
+  {
+    "hiragana": "ちゃいろ",
+    "kana": "チャイロ",
+    "roma": "chiゃiro",
+    "kanji": "茶色",
+    "example": "brown - màu nâu"
+  },
+  {
+    "hiragana": "ちゃわん",
+    "kana": "チャワン",
+    "roma": "chiゃwan",
+    "kanji": "",
+    "example": "rice bowl - bát cơm"
+  },
+  {
+    "hiragana": "ちょうど",
+    "kana": "チョウド",
+    "roma": "chiょudo",
+    "kanji": "",
+    "example": "exactly - vừa đúng"
+  },
+  {
+    "hiragana": "ちょっと",
+    "kana": "チョット",
+    "roma": "chiょっto",
+    "kanji": "",
+    "example": "somewhat - một chút"
+  },
+  {
+    "hiragana": "ついたち",
+    "kana": "ツイタチ",
+    "roma": "tsuitachi",
+    "kanji": "一日",
+    "example": "first of month - mùng một"
+  },
+  {
+    "hiragana": "つかう",
+    "kana": "ツカウ",
+    "roma": "tsukau",
+    "kanji": "使う",
+    "example": "to use - sử dụng"
+  },
+  {
+    "hiragana": "つかれる",
+    "kana": "ツカレル",
+    "roma": "tsukareru",
+    "kanji": "疲れる",
+    "example": "to get tired - mệt mỏi"
+  },
+  {
+    "hiragana": "つぎ",
+    "kana": "ツギ",
+    "roma": "tsugi",
+    "kanji": "次",
+    "example": "next - tiếp theo"
+  },
+  {
+    "hiragana": "つく",
+    "kana": "ツク",
+    "roma": "tsuku",
+    "kanji": "着く",
+    "example": "to arrive at - đến nơi"
+  },
+  {
+    "hiragana": "つくえ",
+    "kana": "ツクエ",
+    "roma": "tsukue",
+    "kanji": "机",
+    "example": "desk - cái bàn"
+  },
+  {
+    "hiragana": "つくる",
+    "kana": "ツクル",
+    "roma": "tsukuru",
+    "kanji": "作る",
+    "example": "to make - làm, chế tạo"
+  },
+  {
+    "hiragana": "つける",
+    "kana": "ツケル",
+    "roma": "tsukeru",
+    "kanji": "",
+    "example": "to turn on - bật"
+  },
+  {
+    "hiragana": "つとめる",
+    "kana": "ツトメル",
+    "roma": "tsutomeru",
+    "kanji": "勤める",
+    "example": "to work for someone - làm việc cho"
+  },
+  {
+    "hiragana": "つまらない",
+    "kana": "ツマラナイ",
+    "roma": "tsumaranai",
+    "kanji": "",
+    "example": "boring - nhàm chán"
+  },
+  {
+    "hiragana": "つめたい",
+    "kana": "ツメタイ",
+    "roma": "tsumetai",
+    "kanji": "冷たい",
+    "example": "cold to the touch - lạnh (chạm vào)"
+  },
+  {
+    "hiragana": "つよい",
+    "kana": "ツヨイ",
+    "roma": "tsuyoi",
+    "kanji": "強い",
+    "example": "powerful - mạnh mẽ"
+  },
+  {
+    "hiragana": "て",
+    "kana": "テ",
+    "roma": "te",
+    "kanji": "手",
+    "example": "hand - bàn tay"
+  },
+  {
+    "hiragana": "テープ",
+    "kana": "テープ",
+    "roma": "テープ",
+    "kanji": "",
+    "example": "tape - băng dính / băng nhạc"
+  },
+  {
+    "hiragana": "テーブル",
+    "kana": "テーブル",
+    "roma": "テーブル",
+    "kanji": "",
+    "example": "table - cái bàn"
+  },
+  {
+    "hiragana": "テープレコーダー",
+    "kana": "テープレコーダー",
+    "roma": "テープレコーダー",
+    "kanji": "",
+    "example": "tape recorder - máy ghi băng"
+  },
+  {
+    "hiragana": "でかける",
+    "kana": "デカケル",
+    "roma": "dekakeru",
+    "kanji": "出かける",
+    "example": "to go out - ra ngoài"
+  },
+  {
+    "hiragana": "てがみ",
+    "kana": "テガミ",
+    "roma": "tegami",
+    "kanji": "手紙",
+    "example": "letter - bức thư"
+  },
+  {
+    "hiragana": "できる",
+    "kana": "デキル",
+    "roma": "dekiru",
+    "kanji": "",
+    "example": "to be able to - có thể"
+  },
+  {
+    "hiragana": "でぐち",
+    "kana": "デグチ",
+    "roma": "deguchi",
+    "kanji": "出口",
+    "example": "exit - lối ra"
+  },
+  {
+    "hiragana": "テスト",
+    "kana": "テスト",
+    "roma": "テスト",
+    "kanji": "",
+    "example": "test - bài kiểm tra"
+  },
+  {
+    "hiragana": "では",
+    "kana": "デハ",
+    "roma": "deha",
+    "kanji": "",
+    "example": "with that... - vậy thì..."
+  },
+  {
+    "hiragana": "デパート",
+    "kana": "デパート",
+    "roma": "デパート",
+    "kanji": "",
+    "example": "department store - cửa hàng bách hóa"
+  },
+  {
+    "hiragana": "でも",
+    "kana": "デモ",
+    "roma": "demo",
+    "kanji": "",
+    "example": "but - nhưng"
+  },
+  {
+    "hiragana": "でる",
+    "kana": "デル",
+    "roma": "deru",
+    "kanji": "出る",
+    "example": "to appear, to leave - xuất hiện, ra ngoài"
+  },
+  {
+    "hiragana": "テレビ",
+    "kana": "テレビ",
+    "roma": "テレビ",
+    "kanji": "",
+    "example": "television - tivi"
+  },
+  {
+    "hiragana": "てんき",
+    "kana": "テンキ",
+    "roma": "tenki",
+    "kanji": "天気",
+    "example": "weather - thời tiết"
+  },
+  {
+    "hiragana": "でんき",
+    "kana": "デンキ",
+    "roma": "denki",
+    "kanji": "電気",
+    "example": "electricity, electric light - điện, đèn"
+  },
+  {
+    "hiragana": "でんしゃ",
+    "kana": "デンシャ",
+    "roma": "denshiゃ",
+    "kanji": "電車",
+    "example": "electric train - tàu điện"
+  },
+  {
+    "hiragana": "でんわ",
+    "kana": "デンワ",
+    "roma": "denwa",
+    "kanji": "電話",
+    "example": "telephone - điện thoại"
+  },
+  {
+    "hiragana": "と",
+    "kana": "ト",
+    "roma": "to",
+    "kanji": "戸",
+    "example": "Japanese style door - cửa kiểu Nhật"
+  },
+  {
+    "hiragana": "ドア",
+    "kana": "ドア",
+    "roma": "ドア",
+    "kanji": "",
+    "example": "Western style door - cửa"
+  },
+  {
+    "hiragana": "トイレ",
+    "kana": "トイレ",
+    "roma": "トイレ",
+    "kanji": "",
+    "example": "toilet - nhà vệ sinh"
+  },
+  {
+    "hiragana": "どう",
+    "kana": "ドウ",
+    "roma": "dou",
+    "kanji": "",
+    "example": "how, in what way - như thế nào"
+  },
+  {
+    "hiragana": "どうして",
+    "kana": "ドウシテ",
+    "roma": "doushite",
+    "kanji": "",
+    "example": "for what reason - tại sao"
+  },
+  {
+    "hiragana": "どうぞ",
+    "kana": "ドウゾ",
+    "roma": "douzo",
+    "kanji": "",
+    "example": "please - xin mời"
+  },
+  {
+    "hiragana": "どうぶつ",
+    "kana": "ドウブツ",
+    "roma": "doubutsu",
+    "kanji": "動物",
+    "example": "animal - động vật"
+  },
+  {
+    "hiragana": "どうも",
+    "kana": "ドウモ",
+    "roma": "doumo",
+    "kanji": "",
+    "example": "thanks - cảm ơn"
+  },
+  {
+    "hiragana": "とおい",
+    "kana": "トオイ",
+    "roma": "tooi",
+    "kanji": "遠い",
+    "example": "far - xa"
+  },
+  {
+    "hiragana": "とおか",
+    "kana": "トオカ",
+    "roma": "tooka",
+    "kanji": "十日",
+    "example": "ten days, the tenth day - mười ngày, ngày mồng mười"
+  },
+  {
+    "hiragana": "ときどき",
+    "kana": "トキドキ",
+    "roma": "tokidoki",
+    "kanji": "時々",
+    "example": "sometimes - thỉnh thoảng"
+  },
+  {
+    "hiragana": "とけい",
+    "kana": "トケイ",
+    "roma": "tokei",
+    "kanji": "時計",
+    "example": "watch, clock - đồng hồ"
+  },
+  {
+    "hiragana": "どこ",
+    "kana": "ドコ",
+    "roma": "doko",
+    "kanji": "",
+    "example": "where - ở đâu"
+  },
+  {
+    "hiragana": "ところ",
+    "kana": "トコロ",
+    "roma": "tokoro",
+    "kanji": "所",
+    "example": "place - nơi chốn"
+  },
+  {
+    "hiragana": "とし",
+    "kana": "トシ",
+    "roma": "toshi",
+    "kanji": "年",
+    "example": "year - năm"
+  },
+  {
+    "hiragana": "としょかん",
+    "kana": "トショカン",
+    "roma": "toshiょkan",
+    "kanji": "図書館",
+    "example": "library - thư viện"
+  },
+  {
+    "hiragana": "どちら",
+    "kana": "ドチラ",
+    "roma": "dochira",
+    "kanji": "",
+    "example": "which of two - cái nào (trong hai)"
+  },
+  {
+    "hiragana": "どっち",
+    "kana": "ドッチ",
+    "roma": "doっchi",
+    "kanji": "",
+    "example": "which - cái nào"
+  },
+  {
+    "hiragana": "とても",
+    "kana": "トテモ",
+    "roma": "totemo",
+    "kanji": "",
+    "example": "very - rất"
+  },
+  {
+    "hiragana": "どなた",
+    "kana": "ドナタ",
+    "roma": "donata",
+    "kanji": "",
+    "example": "who - ai (kính ngữ)"
+  },
+  {
+    "hiragana": "となり",
+    "kana": "トナリ",
+    "roma": "tonari",
+    "kanji": "隣",
+    "example": "next door to - bên cạnh"
+  },
+  {
+    "hiragana": "どの",
+    "kana": "ドノ",
+    "roma": "dono",
+    "kanji": "",
+    "example": "which - nào"
+  },
+  {
+    "hiragana": "とぶ",
+    "kana": "トブ",
+    "roma": "tobu",
+    "kanji": "飛ぶ",
+    "example": "to fly, to hop - bay, nhảy"
+  },
+  {
+    "hiragana": "とまる",
+    "kana": "トマル",
+    "roma": "tomaru",
+    "kanji": "止まる",
+    "example": "to come to a halt - dừng lại"
+  },
+  {
+    "hiragana": "ともだち",
+    "kana": "トモダチ",
+    "roma": "tomodachi",
+    "kanji": "友達",
+    "example": "friend - bạn bè"
+  },
+  {
+    "hiragana": "どようび",
+    "kana": "ドヨウビ",
+    "roma": "doyoubi",
+    "kanji": "土曜日",
+    "example": "Saturday - thứ bảy"
+  },
+  {
+    "hiragana": "とり",
+    "kana": "トリ",
+    "roma": "tori",
+    "kanji": "鳥",
+    "example": "bird - chim"
+  },
+  {
+    "hiragana": "とりにく",
+    "kana": "トリニク",
+    "roma": "toriniku",
+    "kanji": "とり肉",
+    "example": "chicken meat - thịt gà"
+  },
+  {
+    "hiragana": "とる1",
+    "kana": "トル1",
+    "roma": "toru1",
+    "kanji": "取る",
+    "example": "to take something - lấy"
+  },
+  {
+    "hiragana": "とる2",
+    "kana": "トル2",
+    "roma": "toru2",
+    "kanji": "撮る",
+    "example": "to take a photo or record a film - chụp ảnh, quay phim"
+  },
+  {
+    "hiragana": "どれ",
+    "kana": "ドレ",
+    "roma": "dore",
+    "kanji": "",
+    "example": "which (of three or more) - cái nào (trong nhiều cái)"
+  },
+  {
+    "hiragana": "なか",
+    "kana": "ナカ",
+    "roma": "naka",
+    "kanji": "中",
+    "example": "inside - bên trong"
+  },
+  {
+    "hiragana": "ながい",
+    "kana": "ナガイ",
+    "roma": "nagai",
+    "kanji": "長い",
+    "example": "long - dài"
+  },
+  {
+    "hiragana": "なつ",
+    "kana": "ナツ",
+    "roma": "natsu",
+    "kanji": "夏",
+    "example": "summer - mùa hè"
+  },
+  {
+    "hiragana": "なつやすみ",
+    "kana": "ナツヤスミ",
+    "roma": "natsuyasumi",
+    "kanji": "夏休み",
+    "example": "summer holiday - kỳ nghỉ hè"
+  },
+  {
+    "hiragana": "ななつ",
+    "kana": "ナナツ",
+    "roma": "nanatsu",
+    "kanji": "七つ",
+    "example": "seven - bảy (số đếm)"
+  },
+  {
+    "hiragana": "なん/なに",
+    "kana": "ナン/ナニ",
+    "roma": "nan/nani",
+    "kanji": "何",
+    "example": "what - cái gì"
+  },
+  {
+    "hiragana": "なのか",
+    "kana": "ナノカ",
+    "roma": "nanoka",
+    "kanji": "七日",
+    "example": "seven days, seventh day - bảy ngày, ngày mồng bảy"
+  },
+  {
+    "hiragana": "なまえ",
+    "kana": "ナマエ",
+    "roma": "namae",
+    "kanji": "名前",
+    "example": "name - tên"
+  },
+  {
+    "hiragana": "ならう",
+    "kana": "ナラウ",
+    "roma": "narau",
+    "kanji": "習う",
+    "example": "to learn - học"
+  },
+  {
+    "hiragana": "ならぶ",
+    "kana": "ナラブ",
+    "roma": "narabu",
+    "kanji": "並ぶ",
+    "example": "to line up, stand in a line - xếp hàng"
+  },
+  {
+    "hiragana": "に",
+    "kana": "ニ",
+    "roma": "ni",
+    "kanji": "二",
+    "example": "two - hai"
+  },
+  {
+    "hiragana": "にぎやか",
+    "kana": "ニギヤカ",
+    "roma": "nigiyaka",
+    "kanji": "",
+    "example": "lively - náo nhiệt"
+  },
+  {
+    "hiragana": "にく",
+    "kana": "ニク",
+    "roma": "niku",
+    "kanji": "肉",
+    "example": "meat - thịt"
+  },
+  {
+    "hiragana": "にし",
+    "kana": "ニシ",
+    "roma": "nishi",
+    "kanji": "西",
+    "example": "west - phía tây"
+  },
+  {
+    "hiragana": "にちようび",
+    "kana": "ニチヨウビ",
+    "roma": "nichiyoubi",
+    "kanji": "日曜日",
+    "example": "Sunday - chủ nhật"
+  },
+  {
+    "hiragana": "にもつ",
+    "kana": "ニモツ",
+    "roma": "nimotsu",
+    "kanji": "荷物",
+    "example": "luggage - hành lý"
+  },
+  {
+    "hiragana": "ニュース",
+    "kana": "ニュース",
+    "roma": "ニュース",
+    "kanji": "",
+    "example": "news - tin tức"
+  },
+  {
+    "hiragana": "にわ",
+    "kana": "ニワ",
+    "roma": "niwa",
+    "kanji": "庭",
+    "example": "garden - khu vườn"
+  },
+  {
+    "hiragana": "ぬぐ",
+    "kana": "ヌグ",
+    "roma": "nugu",
+    "kanji": "脱ぐ",
+    "example": "to take off clothes - cởi (quần áo)"
+  },
+  {
+    "hiragana": "ぬるい",
+    "kana": "ヌルイ",
+    "roma": "nurui",
+    "kanji": "温い",
+    "example": "lukewarm - ấm ấm, nguội"
+  },
+  {
+    "hiragana": "ねこ",
+    "kana": "ネコ",
+    "roma": "neko",
+    "kanji": "猫",
+    "example": "cat - mèo"
+  },
+  {
+    "hiragana": "ねる",
+    "kana": "ネル",
+    "roma": "neru",
+    "kanji": "寝る",
+    "example": "to go to bed, to sleep - ngủ"
+  },
+  {
+    "hiragana": "ねん",
+    "kana": "ネン",
+    "roma": "nen",
+    "kanji": "年",
+    "example": "year - năm"
+  },
+  {
+    "hiragana": "ノート",
+    "kana": "ノート",
+    "roma": "ノート",
+    "kanji": "",
+    "example": "notebook, exercise book - vở"
+  },
+  {
+    "hiragana": "のぼる",
+    "kana": "ノボル",
+    "roma": "noboru",
+    "kanji": "登る",
+    "example": "to climb - leo, trèo"
+  },
+  {
+    "hiragana": "のみもの",
+    "kana": "ノミモノ",
+    "roma": "nomimono",
+    "kanji": "飲み物",
+    "example": "a drink - đồ uống"
+  },
+  {
+    "hiragana": "のむ",
+    "kana": "ノム",
+    "roma": "nomu",
+    "kanji": "飲む",
+    "example": "to drink - uống"
+  },
+  {
+    "hiragana": "のる",
+    "kana": "ノル",
+    "roma": "noru",
+    "kanji": "乗る",
+    "example": "to get on - lên xe, đi (phương tiện)"
+  },
+  {
+    "hiragana": "はい",
+    "kana": "ハイ",
+    "roma": "hai",
+    "kanji": "",
+    "example": "yes - vâng, đúng"
+  },
+  {
+    "hiragana": "はいざら",
+    "kana": "ハイザラ",
+    "roma": "haizara",
+    "kanji": "灰皿",
+    "example": "ashtray - gạt tàn"
+  },
+  {
+    "hiragana": "はいる",
+    "kana": "ハイル",
+    "roma": "hairu",
+    "kanji": "入る",
+    "example": "to enter - vào"
+  },
+  {
+    "hiragana": "はがき",
+    "kana": "ハガキ",
+    "roma": "hagaki",
+    "kanji": "葉書",
+    "example": "postcard - bưu thiếp"
+  },
+  {
+    "hiragana": "はく",
+    "kana": "ハク",
+    "roma": "haku",
+    "kanji": "",
+    "example": "to wear, to put on trousers - mặc (quần, giày)"
+  },
+  {
+    "hiragana": "はこ",
+    "kana": "ハコ",
+    "roma": "hako",
+    "kanji": "箱",
+    "example": "box - cái hộp"
+  },
+  {
+    "hiragana": "はし",
+    "kana": "ハシ",
+    "roma": "hashi",
+    "kanji": "橋",
+    "example": "bridge - cây cầu"
+  },
+  {
+    "hiragana": "はし2",
+    "kana": "ハシ2",
+    "roma": "hashi2",
+    "kanji": "箸",
+    "example": "chopsticks - đũa"
+  },
+  {
+    "hiragana": "はじまる",
+    "kana": "ハジマル",
+    "roma": "hajimaru",
+    "kanji": "始まる",
+    "example": "to begin - bắt đầu"
+  },
+  {
+    "hiragana": "はじめ",
+    "kana": "ハジメ",
+    "roma": "hajime",
+    "kanji": "初め",
+    "example": "beginning - sự bắt đầu"
+  },
+  {
+    "hiragana": "はじめて",
+    "kana": "ハジメテ",
+    "roma": "hajimete",
+    "kanji": "",
+    "example": "for the first time - lần đầu tiên"
+  },
+  {
+    "hiragana": "はしる",
+    "kana": "ハシル",
+    "roma": "hashiru",
+    "kanji": "走る",
+    "example": "to run - chạy"
+  },
+  {
+    "hiragana": "バス",
+    "kana": "バス",
+    "roma": "バス",
+    "kanji": "",
+    "example": "bus - xe buýt"
+  },
+  {
+    "hiragana": "バター",
+    "kana": "バター",
+    "roma": "バター",
+    "kanji": "",
+    "example": "butter - bơ"
+  },
+  {
+    "hiragana": "はたち",
+    "kana": "ハタチ",
+    "roma": "hatachi",
+    "kanji": "二十歳",
+    "example": "20 years old, 20th year - 20 tuổi"
+  },
+  {
+    "hiragana": "はたらく",
+    "kana": "ハタラク",
+    "roma": "hataraku",
+    "kanji": "働く",
+    "example": "to work - làm việc"
+  },
+  {
+    "hiragana": "はち",
+    "kana": "ハチ",
+    "roma": "hachi",
+    "kanji": "八",
+    "example": "eight - tám"
+  },
+  {
+    "hiragana": "はつか",
+    "kana": "ハツカ",
+    "roma": "hatsuka",
+    "kanji": "二十日",
+    "example": "20 days, 20th day - 20 ngày, ngày 20"
+  },
+  {
+    "hiragana": "はな",
+    "kana": "ハナ",
+    "roma": "hana",
+    "kanji": "花",
+    "example": "flower - hoa"
+  },
+  {
+    "hiragana": "はな2",
+    "kana": "ハナ2",
+    "roma": "hana2",
+    "kanji": "鼻",
+    "example": "nose - mũi"
+  },
+  {
+    "hiragana": "はなし",
+    "kana": "ハナシ",
+    "roma": "hanashi",
+    "kanji": "話",
+    "example": "talk, story - câu chuyện, lời nói"
+  },
+  {
+    "hiragana": "はなす",
+    "kana": "ハナス",
+    "roma": "hanasu",
+    "kanji": "話す",
+    "example": "to speak - nói chuyện"
+  },
+  {
+    "hiragana": "はやい1",
+    "kana": "ハヤイ1",
+    "roma": "hayai1",
+    "kanji": "早い",
+    "example": "early - sớm"
+  },
+  {
+    "hiragana": "はやい2",
+    "kana": "ハヤイ2",
+    "roma": "hayai2",
+    "kanji": "速い",
+    "example": "quick - nhanh"
+  },
+  {
+    "hiragana": "はる",
+    "kana": "ハル",
+    "roma": "haru",
+    "kanji": "春",
+    "example": "spring - mùa xuân"
+  },
+  {
+    "hiragana": "はる2",
+    "kana": "ハル2",
+    "roma": "haru2",
+    "kanji": "貼る",
+    "example": "to stick - dán, dính"
+  },
+  {
+    "hiragana": "はれ",
+    "kana": "ハレ",
+    "roma": "hare",
+    "kanji": "晴れ",
+    "example": "clear weather - trời quang"
+  },
+  {
+    "hiragana": "はれる",
+    "kana": "ハレル",
+    "roma": "hareru",
+    "kanji": "晴れる",
+    "example": "to be sunny - trời nắng"
+  },
+  {
+    "hiragana": "ばん",
+    "kana": "バン",
+    "roma": "ban",
+    "kanji": "晩",
+    "example": "evening - buổi tối"
+  },
+  {
+    "hiragana": "パン",
+    "kana": "パン",
+    "roma": "パン",
+    "kanji": "",
+    "example": "bread - bánh mì"
+  },
+  {
+    "hiragana": "はん",
+    "kana": "ハン",
+    "roma": "han",
+    "kanji": "半",
+    "example": "half - một nửa"
+  },
+  {
+    "hiragana": "ばんごう",
+    "kana": "バンゴウ",
+    "roma": "bangou",
+    "kanji": "番号",
+    "example": "number - số"
+  },
+  {
+    "hiragana": "ばんごはん",
+    "kana": "バンゴハン",
+    "roma": "bangohan",
+    "kanji": "晩御飯",
+    "example": "dinner - bữa tối"
+  },
+  {
+    "hiragana": "はんぶん",
+    "kana": "ハンブン",
+    "roma": "hanbun",
+    "kanji": "半分",
+    "example": "half - một nửa"
+  },
+  {
+    "hiragana": "ひがし",
+    "kana": "ヒガシ",
+    "roma": "higashi",
+    "kanji": "東",
+    "example": "east - phía đông"
+  },
+  {
+    "hiragana": "ひく",
+    "kana": "ヒク",
+    "roma": "hiku",
+    "kanji": "引く",
+    "example": "to pull - kéo"
+  },
+  {
+    "hiragana": "ひく2",
+    "kana": "ヒク2",
+    "roma": "hiku2",
+    "kanji": "弾く",
+    "example": "to play an instrument - chơi (nhạc cụ)"
+  },
+  {
+    "hiragana": "ひくい",
+    "kana": "ヒクイ",
+    "roma": "hikui",
+    "kanji": "低い",
+    "example": "short, low - thấp"
+  },
+  {
+    "hiragana": "ひこうき",
+    "kana": "ヒコウキ",
+    "roma": "hikouki",
+    "kanji": "飛行機",
+    "example": "airplane - máy bay"
+  },
+  {
+    "hiragana": "ひだり",
+    "kana": "ヒダリ",
+    "roma": "hidari",
+    "kanji": "左",
+    "example": "left side - bên trái"
+  },
+  {
+    "hiragana": "ひと",
+    "kana": "ヒト",
+    "roma": "hito",
+    "kanji": "人",
+    "example": "person - người"
+  },
+  {
+    "hiragana": "ひとつ",
+    "kana": "ヒトツ",
+    "roma": "hitotsu",
+    "kanji": "一つ",
+    "example": "one - một (số đếm)"
+  },
+  {
+    "hiragana": "ひとつき",
+    "kana": "ヒトツキ",
+    "roma": "hitotsuki",
+    "kanji": "一月",
+    "example": "one month - một tháng"
+  },
+  {
+    "hiragana": "ひとり",
+    "kana": "ヒトリ",
+    "roma": "hitori",
+    "kanji": "一人",
+    "example": "one person - một người"
+  },
+  {
+    "hiragana": "ひま",
+    "kana": "ヒマ",
+    "roma": "hima",
+    "kanji": "",
+    "example": "free time - rảnh rỗi"
+  },
+  {
+    "hiragana": "ひゃく",
+    "kana": "ヒャク",
+    "roma": "hiゃku",
+    "kanji": "百",
+    "example": "hundred - một trăm"
+  },
+  {
+    "hiragana": "びょういん",
+    "kana": "ビョウイン",
+    "roma": "biょuin",
+    "kanji": "病院",
+    "example": "hospital - bệnh viện"
+  },
+  {
+    "hiragana": "びょうき",
+    "kana": "ビョウキ",
+    "roma": "biょuki",
+    "kanji": "病気",
+    "example": "illness - bệnh tật"
+  },
+  {
+    "hiragana": "ひらがな",
+    "kana": "ヒラガナ",
+    "roma": "hiragana",
+    "kanji": "",
+    "example": "hiragana - chữ hiragana"
+  },
+  {
+    "hiragana": "ひる",
+    "kana": "ヒル",
+    "roma": "hiru",
+    "kanji": "昼",
+    "example": "noon, daytime - buổi trưa, ban ngày"
+  },
+  {
+    "hiragana": "ひるごはん",
+    "kana": "ヒルゴハン",
+    "roma": "hirugohan",
+    "kanji": "昼ご飯",
+    "example": "midday meal - bữa trưa"
+  },
+  {
+    "hiragana": "ひろい",
+    "kana": "ヒロイ",
+    "roma": "hiroi",
+    "kanji": "広い",
+    "example": "spacious - rộng"
+  },
+  {
+    "hiragana": "フィルム",
+    "kana": "フィルム",
+    "roma": "フィルム",
+    "kanji": "",
+    "example": "film - cuộn phim"
+  },
+  {
+    "hiragana": "ふうとう",
+    "kana": "フウトウ",
+    "roma": "fuutou",
+    "kanji": "封筒",
+    "example": "envelope - phong bì"
+  },
+  {
+    "hiragana": "プール",
+    "kana": "プール",
+    "roma": "プール",
+    "kanji": "",
+    "example": "swimming pool - hồ bơi"
+  },
+  {
+    "hiragana": "フォーク",
+    "kana": "フォーク",
+    "roma": "フォーク",
+    "kanji": "",
+    "example": "fork - nĩa"
+  },
+  {
+    "hiragana": "ふく",
+    "kana": "フク",
+    "roma": "fuku",
+    "kanji": "服",
+    "example": "clothes - quần áo"
+  },
+  {
+    "hiragana": "ふたつ",
+    "kana": "フタツ",
+    "roma": "futatsu",
+    "kanji": "二つ",
+    "example": "two - hai (số đếm)"
+  },
+  {
+    "hiragana": "ぶたにく",
+    "kana": "ブタニク",
+    "roma": "butaniku",
+    "kanji": "ぶた肉",
+    "example": "pork - thịt lợn"
+  },
+  {
+    "hiragana": "ふたり",
+    "kana": "フタリ",
+    "roma": "futari",
+    "kanji": "二人",
+    "example": "two people - hai người"
+  },
+  {
+    "hiragana": "ぶっか",
+    "kana": "ブッカ",
+    "roma": "buっka",
+    "kanji": "物価",
+    "example": "prices - vật giá"
+  },
+  {
+    "hiragana": "ぶん",
+    "kana": "ブン",
+    "roma": "bun",
+    "kanji": "文",
+    "example": "sentence - câu văn"
+  },
+  {
+    "hiragana": "ぶんしょう",
+    "kana": "ブンショウ",
+    "roma": "bunshiょu",
+    "kanji": "文章",
+    "example": "sentence, text - văn bản"
+  },
+  {
+    "hiragana": "ページ",
+    "kana": "ページ",
+    "roma": "ページ",
+    "kanji": "",
+    "example": "page - trang"
+  },
+  {
+    "hiragana": "へた",
+    "kana": "ヘタ",
+    "roma": "heta",
+    "kanji": "下手",
+    "example": "unskillful - kém, vụng về"
+  },
+  {
+    "hiragana": "ベッド",
+    "kana": "ベッド",
+    "roma": "ベッド",
+    "kanji": "",
+    "example": "bed - giường"
+  },
+  {
+    "hiragana": "へや",
+    "kana": "ヘヤ",
+    "roma": "heya",
+    "kanji": "部屋",
+    "example": "room - căn phòng"
+  },
+  {
+    "hiragana": "へん",
+    "kana": "ヘン",
+    "roma": "hen",
+    "kanji": "辺",
+    "example": "area, vicinity - khu vực"
+  },
+  {
+    "hiragana": "ペン",
+    "kana": "ペン",
+    "roma": "ペン",
+    "kanji": "",
+    "example": "pen - bút"
+  },
+  {
+    "hiragana": "ぼうし",
+    "kana": "ボウシ",
+    "roma": "boushi",
+    "kanji": "帽子",
+    "example": "hat - mũ"
+  },
+  {
+    "hiragana": "ほか",
+    "kana": "ホカ",
+    "roma": "hoka",
+    "kanji": "他",
+    "example": "other - khác"
+  },
+  {
+    "hiragana": "ポケット",
+    "kana": "ポケット",
+    "roma": "ポケット",
+    "kanji": "",
+    "example": "pocket - túi (quần/áo)"
+  },
+  {
+    "hiragana": "ほしい",
+    "kana": "ホシイ",
+    "roma": "hoshii",
+    "kanji": "",
+    "example": "to want - muốn"
+  },
+  {
+    "hiragana": "ポスト",
+    "kana": "ポスト",
+    "roma": "ポスト",
+    "kanji": "",
+    "example": "post - hòm thư"
+  },
+  {
+    "hiragana": "ほそい",
+    "kana": "ホソイ",
+    "roma": "hosoi",
+    "kanji": "細い",
+    "example": "thin - mảnh, thon"
+  },
+  {
+    "hiragana": "ホテル",
+    "kana": "ホテル",
+    "roma": "ホテル",
+    "kanji": "",
+    "example": "hotel - khách sạn"
+  },
+  {
+    "hiragana": "ほん",
+    "kana": "ホン",
+    "roma": "hon",
+    "kanji": "本",
+    "example": "book - sách"
+  },
+  {
+    "hiragana": "ぼんさい",
+    "kana": "ボンサイ",
+    "roma": "bonsai",
+    "kanji": "盆栽",
+    "example": "miniature tree - cây cảnh bonsai"
+  },
+  {
+    "hiragana": "ほんだな",
+    "kana": "ホンダナ",
+    "roma": "hondana",
+    "kanji": "本棚",
+    "example": "bookshelf - giá sách"
+  },
+  {
+    "hiragana": "ほんとう",
+    "kana": "ホントウ",
+    "roma": "hontou",
+    "kanji": "本当",
+    "example": "truth, reality - thật, đúng"
+  },
+  {
+    "hiragana": "ほんや",
+    "kana": "ホンヤ",
+    "roma": "honya",
+    "kanji": "本屋",
+    "example": "bookshop - hiệu sách"
+  },
+  {
+    "hiragana": "まいあさ",
+    "kana": "マイアサ",
+    "roma": "maiasa",
+    "kanji": "毎朝",
+    "example": "every morning - mỗi sáng"
+  },
+  {
+    "hiragana": "まいしゅう",
+    "kana": "マイシュウ",
+    "roma": "maishiゅu",
+    "kanji": "毎週",
+    "example": "every week - mỗi tuần"
+  },
+  {
+    "hiragana": "まいつき/まいげつ",
+    "kana": "マイツキ/マイゲツ",
+    "roma": "maitsuki/maigetsu",
+    "kanji": "毎月",
+    "example": "every month - mỗi tháng"
+  },
+  {
+    "hiragana": "まいとし/まいねん",
+    "kana": "マイトシ/マイネン",
+    "roma": "maitoshi/mainen",
+    "kanji": "毎年",
+    "example": "every year - mỗi năm"
+  },
+  {
+    "hiragana": "まいにち",
+    "kana": "マイニチ",
+    "roma": "mainichi",
+    "kanji": "毎日",
+    "example": "every day - mỗi ngày"
+  },
+  {
+    "hiragana": "まいばん",
+    "kana": "マイバン",
+    "roma": "maiban",
+    "kanji": "毎晩",
+    "example": "every night - mỗi tối"
+  },
+  {
+    "hiragana": "まえ",
+    "kana": "マエ",
+    "roma": "mae",
+    "kanji": "前",
+    "example": "before, in front - trước, phía trước"
+  },
+  {
+    "hiragana": "まがる",
+    "kana": "マガル",
+    "roma": "magaru",
+    "kanji": "曲がる",
+    "example": "to turn, to bend - rẽ, quẹo"
+  },
+  {
+    "hiragana": "まずい",
+    "kana": "マズイ",
+    "roma": "mazui",
+    "kanji": "",
+    "example": "unpleasant - dở, khó chịu"
+  },
+  {
+    "hiragana": "また",
+    "kana": "マタ",
+    "roma": "mata",
+    "kanji": "",
+    "example": "again, and - lại, và"
+  },
+  {
+    "hiragana": "まだ",
+    "kana": "マダ",
+    "roma": "mada",
+    "kanji": "",
+    "example": "yet, still - vẫn, chưa"
+  },
+  {
+    "hiragana": "まち",
+    "kana": "マチ",
+    "roma": "machi",
+    "kanji": "町",
+    "example": "town, city - thị trấn, thành phố"
+  },
+  {
+    "hiragana": "まつ",
+    "kana": "マツ",
+    "roma": "matsu",
+    "kanji": "待つ",
+    "example": "to wait - chờ đợi"
+  },
+  {
+    "hiragana": "まど",
+    "kana": "マド",
+    "roma": "mado",
+    "kanji": "窓",
+    "example": "window - cửa sổ"
+  },
+  {
+    "hiragana": "まるい",
+    "kana": "マルイ",
+    "roma": "marui",
+    "kanji": "丸い",
+    "example": "round, circular - tròn"
+  },
+  {
+    "hiragana": "まん",
+    "kana": "マン",
+    "roma": "man",
+    "kanji": "万",
+    "example": "ten thousand - mười nghìn, vạn"
+  },
+  {
+    "hiragana": "まんねんひつ",
+    "kana": "マンネンヒツ",
+    "roma": "mannenhitsu",
+    "kanji": "万年筆",
+    "example": "fountain pen - bút máy"
+  },
+  {
+    "hiragana": "みがく",
+    "kana": "ミガク",
+    "roma": "migaku",
+    "kanji": "磨く",
+    "example": "to brush (teeth), to polish - đánh (răng), mài"
+  },
+  {
+    "hiragana": "みぎ",
+    "kana": "ミギ",
+    "roma": "migi",
+    "kanji": "右",
+    "example": "right side - bên phải"
+  },
+  {
+    "hiragana": "みじかい",
+    "kana": "ミジカイ",
+    "roma": "mijikai",
+    "kanji": "短い",
+    "example": "short - ngắn"
+  },
+  {
+    "hiragana": "みず",
+    "kana": "ミズ",
+    "roma": "mizu",
+    "kanji": "水",
+    "example": "water - nước"
+  },
+  {
+    "hiragana": "みせ",
+    "kana": "ミセ",
+    "roma": "mise",
+    "kanji": "店",
+    "example": "shop - cửa hàng"
+  },
+  {
+    "hiragana": "みせる",
+    "kana": "ミセル",
+    "roma": "miseru",
+    "kanji": "見せる",
+    "example": "to show - cho xem"
+  },
+  {
+    "hiragana": "みち",
+    "kana": "ミチ",
+    "roma": "michi",
+    "kanji": "道",
+    "example": "street - đường đi"
+  },
+  {
+    "hiragana": "みっか",
+    "kana": "ミッカ",
+    "roma": "miっka",
+    "kanji": "三日",
+    "example": "third day of month, three days - ngày mùng 3, ba ngày"
+  },
+  {
+    "hiragana": "みっつ",
+    "kana": "ミッツ",
+    "roma": "miっtsu",
+    "kanji": "三つ",
+    "example": "three - ba (số đếm)"
+  },
+  {
+    "hiragana": "みどり",
+    "kana": "ミドリ",
+    "roma": "midori",
+    "kanji": "緑",
+    "example": "green - màu xanh lá"
+  },
+  {
+    "hiragana": "みなさん",
+    "kana": "ミナサン",
+    "roma": "minasan",
+    "kanji": "皆さん",
+    "example": "everyone - mọi người"
+  },
+  {
+    "hiragana": "みなみ",
+    "kana": "ミナミ",
+    "roma": "minami",
+    "kanji": "南",
+    "example": "south - phía nam"
+  },
+  {
+    "hiragana": "みみ",
+    "kana": "ミミ",
+    "roma": "mimi",
+    "kanji": "耳",
+    "example": "ear - tai"
+  },
+  {
+    "hiragana": "みる",
+    "kana": "ミル",
+    "roma": "miru",
+    "kanji": "見る",
+    "example": "to see - nhìn, xem"
+  },
+  {
+    "hiragana": "むいか",
+    "kana": "ムイカ",
+    "roma": "muika",
+    "kanji": "六日",
+    "example": "six days, sixth day - sáu ngày, ngày mùng sáu"
+  },
+  {
+    "hiragana": "むこう",
+    "kana": "ムコウ",
+    "roma": "mukou",
+    "kanji": "向こう",
+    "example": "over there - bên kia, phía đối diện"
+  },
+  {
+    "hiragana": "むずかしい",
+    "kana": "ムズカシイ",
+    "roma": "muzukashii",
+    "kanji": "難しい",
+    "example": "difficult - khó"
+  },
+  {
+    "hiragana": "むっつ",
+    "kana": "ムッツ",
+    "roma": "muっtsu",
+    "kanji": "六つ",
+    "example": "six - sáu (số đếm)"
+  },
+  {
+    "hiragana": "むら",
+    "kana": "ムラ",
+    "roma": "mura",
+    "kanji": "村",
+    "example": "village - làng"
+  },
+  {
+    "hiragana": "め",
+    "kana": "メ",
+    "roma": "me",
+    "kanji": "目",
+    "example": "eye - mắt"
+  },
+  {
+    "hiragana": "メートル",
+    "kana": "メートル",
+    "roma": "メートル",
+    "kanji": "",
+    "example": "metre - mét"
+  },
+  {
+    "hiragana": "めがね",
+    "kana": "メガネ",
+    "roma": "megane",
+    "kanji": "眼鏡",
+    "example": "glasses - kính mắt"
+  },
+  {
+    "hiragana": "めっちゃ",
+    "kana": "メッチャ",
+    "roma": "meっchiゃ",
+    "kanji": "",
+    "example": "very (slang) - rất (tiếng lóng)"
+  },
+  {
+    "hiragana": "もう",
+    "kana": "モウ",
+    "roma": "mou",
+    "kanji": "",
+    "example": "already - đã, rồi"
+  },
+  {
+    "hiragana": "もういちど",
+    "kana": "モウイチド",
+    "roma": "mouichido",
+    "kanji": "もう一度",
+    "example": "once more - một lần nữa"
+  },
+  {
+    "hiragana": "もくようび",
+    "kana": "モクヨウビ",
+    "roma": "mokuyoubi",
+    "kanji": "木曜日",
+    "example": "Thursday - thứ năm"
+  },
+  {
+    "hiragana": "もしもし",
+    "kana": "モシモシ",
+    "roma": "moshimoshi",
+    "kanji": "",
+    "example": "hello (on phone) - a lô"
+  },
+  {
+    "hiragana": "もちつき",
+    "kana": "モチツキ",
+    "roma": "mochitsuki",
+    "kanji": "餅つき",
+    "example": "rice-cake pounding - giã bánh dày"
+  },
+  {
+    "hiragana": "もつ",
+    "kana": "モツ",
+    "roma": "motsu",
+    "kanji": "持つ",
+    "example": "to hold - cầm, mang"
+  },
+  {
+    "hiragana": "もっと",
+    "kana": "モット",
+    "roma": "moっto",
+    "kanji": "",
+    "example": "more - nhiều hơn"
+  },
+  {
+    "hiragana": "もの",
+    "kana": "モノ",
+    "roma": "mono",
+    "kanji": "物",
+    "example": "thing - đồ vật"
+  },
+  {
+    "hiragana": "もん",
+    "kana": "モン",
+    "roma": "mon",
+    "kanji": "門",
+    "example": "gate - cổng"
+  },
+  {
+    "hiragana": "もんだい",
+    "kana": "モンダイ",
+    "roma": "mondai",
+    "kanji": "問題",
+    "example": "problem, question - vấn đề, câu hỏi"
+  },
+  {
+    "hiragana": "やおや",
+    "kana": "ヤオヤ",
+    "roma": "yaoya",
+    "kanji": "八百屋",
+    "example": "greengrocer - cửa hàng rau"
+  },
+  {
+    "hiragana": "やさい",
+    "kana": "ヤサイ",
+    "roma": "yasai",
+    "kanji": "野菜",
+    "example": "vegetable - rau"
+  },
+  {
+    "hiragana": "やさしい",
+    "kana": "ヤサシイ",
+    "roma": "yasashii",
+    "kanji": "易しい",
+    "example": "easy, simple - dễ dàng"
+  },
+  {
+    "hiragana": "やすい",
+    "kana": "ヤスイ",
+    "roma": "yasui",
+    "kanji": "安い",
+    "example": "cheap - rẻ"
+  },
+  {
+    "hiragana": "やすみ",
+    "kana": "ヤスミ",
+    "roma": "yasumi",
+    "kanji": "休み",
+    "example": "rest, holiday - nghỉ ngơi, ngày nghỉ"
+  },
+  {
+    "hiragana": "やすむ",
+    "kana": "ヤスム",
+    "roma": "yasumu",
+    "kanji": "休む",
+    "example": "to rest - nghỉ"
+  },
+  {
+    "hiragana": "やま",
+    "kana": "ヤマ",
+    "roma": "yama",
+    "kanji": "山",
+    "example": "mountain - núi"
+  },
+  {
+    "hiragana": "やる",
+    "kana": "ヤル",
+    "roma": "yaru",
+    "kanji": "",
+    "example": "to do - làm"
+  },
+  {
+    "hiragana": "ゆうがた",
+    "kana": "ユウガタ",
+    "roma": "yuugata",
+    "kanji": "夕方",
+    "example": "evening - chiều tối"
+  },
+  {
+    "hiragana": "ゆうべ",
+    "kana": "ユウベ",
+    "roma": "yuube",
+    "kanji": "夕べ",
+    "example": "last night - tối qua"
+  },
+  {
+    "hiragana": "ゆうめい",
+    "kana": "ユウメイ",
+    "roma": "yuumei",
+    "kanji": "有名",
+    "example": "famous - nổi tiếng"
+  },
+  {
+    "hiragana": "ゆき",
+    "kana": "ユキ",
+    "roma": "yuki",
+    "kanji": "雪",
+    "example": "snow - tuyết"
+  },
+  {
+    "hiragana": "ゆっくり",
+    "kana": "ユックリ",
+    "roma": "yuっkuri",
+    "kanji": "",
+    "example": "slowly - chậm rãi"
+  },
+  {
+    "hiragana": "よっか",
+    "kana": "ヨッカ",
+    "roma": "yoっka",
+    "kanji": "四日",
+    "example": "four days, fourth day - bốn ngày, ngày mùng bốn"
+  },
+  {
+    "hiragana": "よっつ",
+    "kana": "ヨッツ",
+    "roma": "yoっtsu",
+    "kanji": "四つ",
+    "example": "four - bốn (số đếm)"
+  },
+  {
+    "hiragana": "よぶ",
+    "kana": "ヨブ",
+    "roma": "yobu",
+    "kanji": "呼ぶ",
+    "example": "to call - gọi"
+  },
+  {
+    "hiragana": "よむ",
+    "kana": "ヨム",
+    "roma": "yomu",
+    "kanji": "読む",
+    "example": "to read - đọc"
+  },
+  {
+    "hiragana": "よる",
+    "kana": "ヨル",
+    "roma": "yoru",
+    "kanji": "夜",
+    "example": "night - ban đêm"
+  },
+  {
+    "hiragana": "よわい",
+    "kana": "ヨワイ",
+    "roma": "yowai",
+    "kanji": "弱い",
+    "example": "weak - yếu"
+  },
+  {
+    "hiragana": "らいげつ",
+    "kana": "ライゲツ",
+    "roma": "raigetsu",
+    "kanji": "来月",
+    "example": "next month - tháng sau"
+  },
+  {
+    "hiragana": "らいしゅう",
+    "kana": "ライシュウ",
+    "roma": "raishiゅu",
+    "kanji": "来週",
+    "example": "next week - tuần sau"
+  },
+  {
+    "hiragana": "らいねん",
+    "kana": "ライネン",
+    "roma": "rainen",
+    "kanji": "来年",
+    "example": "next year - năm sau"
+  },
+  {
+    "hiragana": "りっぱ",
+    "kana": "リッパ",
+    "roma": "riっpa",
+    "kanji": "立派",
+    "example": "splendid - tuyệt vời"
+  },
+  {
+    "hiragana": "りゅうがくせい",
+    "kana": "リュウガクセイ",
+    "roma": "riゅugakusei",
+    "kanji": "留学生",
+    "example": "overseas student - du học sinh"
+  },
+  {
+    "hiragana": "りょうしん",
+    "kana": "リョウシン",
+    "roma": "riょushin",
+    "kanji": "両親",
+    "example": "parents - bố mẹ"
+  },
+  {
+    "hiragana": "りょうり",
+    "kana": "リョウリ",
+    "roma": "riょuri",
+    "kanji": "料理",
+    "example": "cooking, cuisine - nấu ăn, món ăn"
+  },
+  {
+    "hiragana": "りょこう",
+    "kana": "リョコウ",
+    "roma": "riょkou",
+    "kanji": "旅行",
+    "example": "travel - du lịch"
+  },
+  {
+    "hiragana": "りんご",
+    "kana": "リンゴ",
+    "roma": "ringo",
+    "kanji": "",
+    "example": "apple - táo"
+  },
+  {
+    "hiragana": "るす",
+    "kana": "ルス",
+    "roma": "rusu",
+    "kanji": "留守",
+    "example": "absence - vắng nhà"
+  },
+  {
+    "hiragana": "れい",
+    "kana": "レイ",
+    "roma": "rei",
+    "kanji": "零",
+    "example": "zero - số không"
+  },
+  {
+    "hiragana": "れいぞうこ",
+    "kana": "レイゾウコ",
+    "roma": "reizouko",
+    "kanji": "冷蔵庫",
+    "example": "refrigerator - tủ lạnh"
+  },
+  {
+    "hiragana": "レコード",
+    "kana": "レコード",
+    "roma": "レコード",
+    "kanji": "",
+    "example": "record - đĩa hát"
+  },
+  {
+    "hiragana": "レストラン",
+    "kana": "レストラン",
+    "roma": "レストラン",
+    "kanji": "",
+    "example": "restaurant - nhà hàng"
+  },
+  {
+    "hiragana": "れんしゅう",
+    "kana": "レンシュウ",
+    "roma": "renshiゅu",
+    "kanji": "練習",
+    "example": "practice - luyện tập"
+  },
+  {
+    "hiragana": "ろうか",
+    "kana": "ロウカ",
+    "roma": "rouka",
+    "kanji": "廊下",
+    "example": "corridor - hành lang"
+  },
+  {
+    "hiragana": "ろく",
+    "kana": "ロク",
+    "roma": "roku",
+    "kanji": "六",
+    "example": "six - sáu"
+  },
+  {
+    "hiragana": "ワイシャツ",
+    "kana": "ワイシャツ",
+    "roma": "ワイシャツ",
+    "kanji": "",
+    "example": "shirt (white) - áo sơ mi"
+  },
+  {
+    "hiragana": "わかい",
+    "kana": "ワカイ",
+    "roma": "wakai",
+    "kanji": "若い",
+    "example": "young - trẻ"
+  },
+  {
+    "hiragana": "わかる",
+    "kana": "ワカル",
+    "roma": "wakaru",
+    "kanji": "",
+    "example": "to understand - hiểu"
+  },
+  {
+    "hiragana": "わすれる",
+    "kana": "ワスレル",
+    "roma": "wasureru",
+    "kanji": "忘れる",
+    "example": "to forget - quên"
+  },
+  {
+    "hiragana": "わたくし",
+    "kana": "ワタクシ",
+    "roma": "watakushi",
+    "kanji": "",
+    "example": "I (formal) - tôi (lịch sự)"
+  },
+  {
+    "hiragana": "わたし",
+    "kana": "ワタシ",
+    "roma": "watashi",
+    "kanji": "",
+    "example": "I - tôi"
+  },
+  {
+    "hiragana": "わたる",
+    "kana": "ワタル",
+    "roma": "wataru",
+    "kanji": "渡る",
+    "example": "to cross - băng qua"
+  },
+  {
+    "hiragana": "わるい",
+    "kana": "ワルイ",
+    "roma": "warui",
+    "kanji": "悪い",
+    "example": "bad - xấu, tệ"
+  },
+  {
+    "hiragana": "を",
+    "kana": "ヲ",
+    "roma": "wo",
+    "kanji": "",
+    "example": "(particle) object marker - trợ từ chỉ tân ngữ"
+  },
+  {
+    "hiragana": "ん",
+    "kana": "ン",
+    "roma": "n",
+    "kanji": "",
+    "example": "syllabic n - âm ん"
+  }
+]
