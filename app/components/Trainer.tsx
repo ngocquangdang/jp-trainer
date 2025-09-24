@@ -94,6 +94,28 @@ const Trainer = () => {
     )
   }
 
+
+  const findNextIndex = useCallback((): number | null => {
+    if (words.length === 0) return null
+    const candidates = words
+      .map((_, idx) => idx)
+      .filter((idx) => (shownCounts[idx] ?? 0) < 2)
+
+    if (candidates.length === 0) return null
+    return candidates[getRandomIndex(candidates.length)]
+  }, [words, shownCounts])
+
+  const goToNextRandomWord = useCallback(() => {
+    const next = findNextIndex()
+    if (next === null) {
+      setError('Hoàn thành! Không còn từ nào để luyện nữa.')
+      return
+    }
+    setCurrentIndex(next)
+    setShownCounts((prev) => ({ ...prev, [next]: (prev[next] ?? 0) + 1 }))
+    setInputValue('')
+  }, [findNextIndex])
+
   // Countdown: reset and start when word or selection changes
   useEffect(() => {
     if (!currentWord) return
@@ -116,28 +138,7 @@ const Trainer = () => {
     return () => {
       if (timerRef.current) window.clearInterval(timerRef.current)
     }
-  }, [currentIndex, selectedSeconds, currentWord])
-
-  const findNextIndex = useCallback((): number | null => {
-    if (words.length === 0) return null
-    const candidates = words
-      .map((_, idx) => idx)
-      .filter((idx) => (shownCounts[idx] ?? 0) < 2)
-
-    if (candidates.length === 0) return null
-    return candidates[getRandomIndex(candidates.length)]
-  }, [words, shownCounts])
-
-  const goToNextRandomWord = useCallback(() => {
-    const next = findNextIndex()
-    if (next === null) {
-      setError('Hoàn thành! Không còn từ nào để luyện nữa.')
-      return
-    }
-    setCurrentIndex(next)
-    setShownCounts((prev) => ({ ...prev, [next]: (prev[next] ?? 0) + 1 }))
-    setInputValue('')
-  }, [findNextIndex])
+  }, [currentIndex, selectedSeconds, currentWord, goToNextRandomWord])
 
   const handleSubmit = () => {
     if (!currentWord) return

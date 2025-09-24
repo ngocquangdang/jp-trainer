@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import './globals.css'
 export const metadata = { title: 'Hiragana Trainer', description: 'N5 Vocabulary Trainer' }
 export default function RootLayout({ children }: { children: React.ReactNode }) {
