@@ -26,6 +26,7 @@ const Trainer = () => {
   const timerRef = useRef<number | null>(null)
   const [viewMode, setViewMode] = useState<'hiragana' | 'katakana'>('hiragana')
   const handleSelectViewMode = (mode: 'hiragana' | 'katakana') => setViewMode(mode)
+  // Test mode moved to separate route
 
   useEffect(() => {
     const data = (wordsData as WordItem[]) ?? []
@@ -165,6 +166,7 @@ const Trainer = () => {
     <main className="min-h-screen flex items-center justify-center bg-gray-50 p-4">
       <div className="w-full max-w-md bg-white rounded-xl shadow-sm border border-gray-200 p-6">
         <div className="flex flex-col items-center gap-4">
+          {/* Test feature moved to /test */}
           {/* Countdown selector */}
           <div className="w-full">
             <fieldset className="w-full" aria-label="Chọn thời gian tự chuyển">
