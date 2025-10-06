@@ -9,6 +9,7 @@ import {
   type KeyboardEvent,
 } from "react";
 import wordsData from "../../src/data/words.json";
+import AudioButton from "../components/AudioButton";
 
 type WordItem = {
   hiragana: string;
@@ -166,8 +167,11 @@ export default function TestPage() {
           })}
         </div>
 
-        <div className="text-7xl font-semibold tracking-wide text-gray-900 select-none w-full flex items-center justify-center mt-6">
-          {currentWord.hiragana} | {currentWord.kana}
+        <div className="flex items-center justify-center gap-4 mt-6">
+          <div className="text-7xl font-semibold tracking-wide text-gray-900 select-none">
+            {currentWord.hiragana} | {currentWord.kana}
+          </div>
+          <AudioButton text={currentWord.hiragana} size="lg" />
         </div>
 
         <input

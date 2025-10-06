@@ -9,6 +9,7 @@ import {
   type KeyboardEvent,
 } from "react";
 import wordsData from "../../src/data/words.json";
+import AudioButton from "./AudioButton";
 
 type WordItem = {
   hiragana: string;
@@ -59,14 +60,20 @@ const Trainer = () => {
 
     return (
       <>
-        <div
-          id={`panel-${mode}`}
-          role="heading"
-          aria-level={1}
-          className="text-7xl font-semibold tracking-wide text-gray-900 select-none w-full flex items-center justify-center"
-          aria-label={mode === "hiragana" ? "Ký tự hiragana" : "Ký tự katakana"}
-        >
-          {currentWord.hiragana} | {currentWord.kana}
+        <div className="flex items-center justify-center gap-4">
+          <div
+            id={`panel-${mode}`}
+            role="heading"
+            aria-level={1}
+            className="text-7xl font-semibold tracking-wide text-gray-900 select-none"
+            aria-label={mode === "hiragana" ? "Ký tự hiragana" : "Ký tự katakana"}
+          >
+            {currentWord.hiragana} | {currentWord.kana}
+          </div>
+          <AudioButton 
+            text={mode === "hiragana" ? currentWord.hiragana : currentWord.kana}
+            size="lg"
+          />
         </div>
 
         <input
