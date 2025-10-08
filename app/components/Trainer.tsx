@@ -35,15 +35,16 @@ const Trainer = () => {
   const [viewMode, setViewMode] = useState<"hiragana" | "katakana">("hiragana");
   const handleSelectViewMode = (mode: "hiragana" | "katakana") =>
     setViewMode(mode);
+  const [randomMode, setRandomMode] = useState<boolean>(false);
   // Test mode moved to separate route
 
   useEffect(() => {
     const data = (wordsData as WordItem[]) ?? [];
     if (data.length === 0) return;
     setWords(data);
-    const first = getRandomIndex(data.length);
-    setCurrentIndex(first);
-    setShownCounts({ [first]: 1 });
+    // Start from the first word in order by default (no random on home)
+    setCurrentIndex(0);
+    setShownCounts({ 0: 1 });
   }, []);
 
   useEffect(() => {
@@ -112,15 +113,25 @@ const Trainer = () => {
 
   const findNextIndex = useCallback((): number | null => {
     if (words.length === 0) return null;
-    const candidates = words
+    const remaining = words
       .map((_, idx) => idx)
       .filter((idx) => (shownCounts[idx] ?? 0) < 2);
+    if (remaining.length === 0) return null;
 
-    if (candidates.length === 0) return null;
-    return candidates[getRandomIndex(candidates.length)];
-  }, [words, shownCounts]);
+    if (randomMode) {
+      return remaining[getRandomIndex(remaining.length)];
+    }
 
-  const goToNextRandomWord = useCallback(() => {
+    // Sequential: pick the next index >= currentIndex + 1 with remaining quota; wrap around
+    const start = (currentIndex + 1) % words.length;
+    for (let offset = 0; offset < words.length; offset++) {
+      const idx = (start + offset) % words.length;
+      if ((shownCounts[idx] ?? 0) < 2) return idx;
+    }
+    return null;
+  }, [words, shownCounts, randomMode, currentIndex]);
+
+  const goToNextWord = useCallback(() => {
     const next = findNextIndex();
     if (next === null) {
       setError("Hoàn thành! Không còn từ nào để luyện nữa.");
@@ -143,7 +154,7 @@ const Trainer = () => {
         if (prev <= 1) {
           // time's up → auto advance
           window.clearInterval(timerRef.current || undefined);
-          goToNextRandomWord();
+          goToNextWord();
           return selectedSeconds; // will be reset by effect on index change
         }
         return prev - 1;
@@ -153,7 +164,7 @@ const Trainer = () => {
     return () => {
       if (timerRef.current) window.clearInterval(timerRef.current);
     };
-  }, [currentIndex, selectedSeconds, currentWord, goToNextRandomWord]);
+  }, [currentIndex, selectedSeconds, currentWord, goToNextWord]);
 
   const handleSubmit = () => {
     if (!currentWord) return;
@@ -161,7 +172,7 @@ const Trainer = () => {
       inputValue.trim().toLowerCase() === currentWord.roma.toLowerCase();
     if (!isCorrect) return setError("Sai! Vui lòng thử lại.");
 
-    goToNextRandomWord();
+    goToNextWord();
   };
 
   const handleKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
@@ -181,6 +192,28 @@ const Trainer = () => {
     <main className="min-h-screen flex items-center justify-center bg-gray-50 p-4">
       <div className="w-full max-w-md bg-white rounded-xl shadow-sm border border-gray-200 p-6">
         <div className="flex flex-col items-center gap-4">
+          {/* Random mode switch */}
+          <div className="w-full">
+            <label className="flex items-center justify-between rounded-lg border border-gray-200 p-3">
+              <span className="text-sm font-medium text-gray-700">Chế độ ngẫu nhiên</span>
+              <button
+                type="button"
+                role="switch"
+                aria-checked={randomMode}
+                onClick={() => setRandomMode((v) => !v)}
+                className={`relative inline-flex h-6 w-11 items-center rounded-full transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 ${
+                  randomMode ? "bg-green-600 focus:ring-green-500" : "bg-gray-300 focus:ring-gray-400"
+                }`}
+              >
+                <span
+                  className={`inline-block h-5 w-5 transform rounded-full bg-white transition-transform ${
+                    randomMode ? "translate-x-5" : "translate-x-1"
+                  }`}
+                />
+              </button>
+            </label>
+            <p className="mt-1 text-xs text-gray-500">{randomMode ? "Bật: chọn từ ngẫu nhiên" : "Tắt: học theo thứ tự trong file"}</p>
+          </div>
           {/* Test feature moved to /test */}
           {/* Countdown selector */}
           <div className="w-full">

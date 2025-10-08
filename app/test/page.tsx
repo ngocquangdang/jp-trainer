@@ -30,6 +30,8 @@ export default function TestPage() {
   const timerRef = useRef<number | null>(null);
   const [viewMode, setViewMode] = useState<"hiragana" | "katakana">("hiragana");
   const [finished, setFinished] = useState<boolean>(false);
+  const [totalQuestions, setTotalQuestions] = useState<number>(10);
+  const [totalSeconds, setTotalSeconds] = useState<number>(120);
   type TestResult = {
     idx: number;
     kana: string;
@@ -48,11 +50,16 @@ export default function TestPage() {
         const j = Math.floor(Math.random() * (i + 1));
         [indices[i], indices[j]] = [indices[j], indices[i]];
       }
-      const p = indices.slice(0, Math.min(10, indices.length));
+      const limit = Math.max(1, Math.min(totalQuestions, indices.length));
+      const p = indices.slice(0, limit);
       setPool(p);
+      setPos(0);
       setCurrentIndex(p[0]);
+      setScore(0);
+      setFinished(false);
+      setInputValue("");
     }
-  }, []);
+  }, [totalQuestions]);
 
   const currentWord = useMemo(() => {
     if (words.length === 0) return null;
@@ -63,9 +70,9 @@ export default function TestPage() {
     inputRef.current?.focus();
   }, [currentIndex]);
 
-  // 2-minute timer
+  // Timer
   useEffect(() => {
-    setRemaining(120);
+    setRemaining(totalSeconds);
     if (timerRef.current) window.clearInterval(timerRef.current);
     timerRef.current = window.setInterval(() => {
       setRemaining((prev) => {
@@ -80,7 +87,7 @@ export default function TestPage() {
     return () => {
       if (timerRef.current) window.clearInterval(timerRef.current);
     };
-  }, []);
+  }, [totalSeconds]);
 
   const advance = useCallback(() => {
     const nextPos = pos + 1;
@@ -133,6 +140,49 @@ export default function TestPage() {
           <div>Time: {remaining}s</div>
           <div>
             Q{pos + 1}/{pool.length}
+          </div>
+        </div>
+
+        {/* Controls: number of questions and total time */}
+        <div className="grid grid-cols-2 gap-3 mt-4">
+          <div className="flex flex-col gap-1">
+            <label htmlFor="num-questions" className="text-xs text-gray-600">
+              Số câu hỏi
+            </label>
+            <input
+              id="num-questions"
+              type="number"
+              inputMode="numeric"
+              min={1}
+              max={words.length || 999}
+              value={totalQuestions}
+              onChange={(e) => {
+                const v = parseInt(e.target.value || '0', 10)
+                if (Number.isNaN(v)) return
+                setTotalQuestions(Math.max(1, v))
+              }}
+              className="w-full rounded-lg border border-gray-300 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              aria-label="Số câu hỏi"
+            />
+          </div>
+          <div className="flex flex-col gap-1">
+            <label htmlFor="total-seconds" className="text-xs text-gray-600">
+              Thời gian (giây)
+            </label>
+            <input
+              id="total-seconds"
+              type="number"
+              inputMode="numeric"
+              min={10}
+              value={totalSeconds}
+              onChange={(e) => {
+                const v = parseInt(e.target.value || '0', 10)
+                if (Number.isNaN(v)) return
+                setTotalSeconds(Math.max(10, v))
+              }}
+              className="w-full rounded-lg border border-gray-300 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              aria-label="Tổng thời gian (giây)"
+            />
           </div>
         </div>
 
