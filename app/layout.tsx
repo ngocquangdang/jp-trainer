@@ -13,6 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <Link href="/" className="rounded-lg px-3 py-1.5 hover:bg-gray-100 text-gray-700">Practice</Link>
               <Link href="/test" className="rounded-lg px-3 py-1.5 hover:bg-gray-100 text-gray-700">Test</Link>
               <Link href="/vocab" className="rounded-lg px-3 py-1.5 hover:bg-gray-100 text-gray-700">Vocab</Link>
+              <Link href="/vocab-test" className="rounded-lg px-3 py-1.5 hover:bg-gray-100 text-gray-700">Vocab Test</Link>
             </nav>
           </div>
         </header>
