@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 
 type UseActiveTime = {
   activeSeconds: number;
@@ -13,36 +13,36 @@ export const useActiveTime = (): UseActiveTime => {
   const startMsRef = useRef<number | null>(null);
   const intervalRef = useRef<number | null>(null);
 
-  const updateNow = () => {
+  const updateNow = useCallback(() => {
     const start = startMsRef.current;
     if (start === null) return;
     const now = Date.now();
     const elapsed = accumulatedMsRef.current + (now - start);
     setActiveSeconds(Math.floor(elapsed / 1000));
-  };
+  }, []);
 
-  const clearTick = () => {
+  const clearTick = useCallback(() => {
     if (intervalRef.current) {
       window.clearInterval(intervalRef.current);
       intervalRef.current = null;
     }
-  };
+  }, []);
 
-  const pause = () => {
+  const pause = useCallback(() => {
     if (startMsRef.current === null) return;
     const now = Date.now();
     accumulatedMsRef.current += now - startMsRef.current;
     startMsRef.current = null;
     clearTick();
     updateNow();
-  };
+  }, [clearTick, updateNow]);
 
-  const resume = () => {
+  const resume = useCallback(() => {
     if (startMsRef.current !== null) return;
     startMsRef.current = Date.now();
     clearTick();
     intervalRef.current = window.setInterval(updateNow, 1000);
-  };
+  }, [clearTick, updateNow]);
 
   useEffect(() => {
     resume();
@@ -69,7 +69,7 @@ export const useActiveTime = (): UseActiveTime => {
       pause();
       clearTick();
     };
-  }, []);
+  }, [pause, resume, clearTick]);
 
   return { activeSeconds };
 };
