@@ -108,7 +108,7 @@ export default function VocabPage() {
                 <AudioButton text={item.key} size="lg" />
               </div>
 
-              <div className="grid grid-cols-3 gap-2">
+              <div className="flex items-center justify-between">
                 <button
                   className="rounded-lg bg-gray-100 hover:bg-gray-200 text-gray-800 px-3 py-2 text-sm font-medium"
                   onClick={handlePrev}

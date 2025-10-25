@@ -19,9 +19,10 @@ interface UseTextToSpeechReturn {
 export const useTextToSpeech = (options: UseTextToSpeechOptions = {}): UseTextToSpeechReturn => {
   const {
     lang = 'ja-JP',
-    rate = 0.8,
+    rate = 0.6,
     pitch = 1,
-    volume = 0.8
+    volume = 1,
+
   } = options
 
   const [isPlaying, setIsPlaying] = useState<boolean>(false)
