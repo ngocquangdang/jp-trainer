@@ -3,6 +3,7 @@
 import { useMemo, useState, useEffect } from "react";
 import raw from "../../src/data/VocabList_N5.json";
 import AudioButton from "../components/AudioButton";
+import { useArrowKeys } from "../hooks/useArrowKeys";
 
 type VocabDetail = {
   kanji?: string;
@@ -66,6 +67,9 @@ export default function VocabPage() {
     // setShowMeaning(false);
     setIndex(rand);
   };
+
+  // Global keyboard navigation: ArrowLeft/ArrowRight to move prev/next
+  useArrowKeys({ onLeft: handlePrev, onRight: handleNext });
 
   return (
     <main className="min-h-screen flex items-center justify-center bg-gray-50 p-4">
