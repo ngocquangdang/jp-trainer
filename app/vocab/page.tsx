@@ -32,7 +32,6 @@ const toList = (data: unknown): VocabItem[] => {
 export default function VocabPage() {
   const list = useMemo(() => toList(raw), []);
   const [index, setIndex] = useState<number>(0);
-  const [showMeaning, setShowMeaning] = useState<boolean>(false);
   const [query, setQuery] = useState<string>("");
 
   const filtered = useMemo(() => {
@@ -55,16 +54,16 @@ export default function VocabPage() {
   const hasNoResults = filtered.length === 0;
 
   const handlePrev = () => {
-    setShowMeaning(false);
+    // setShowMeaning(false);
     setIndex((i) => (i - 1 + filtered.length) % filtered.length);
   };
   const handleNext = () => {
-    setShowMeaning(false);
+    // setShowMeaning(false);
     setIndex((i) => (i + 1) % filtered.length);
   };
   const handleShuffle = () => {
     const rand = Math.floor(Math.random() * filtered.length);
-    setShowMeaning(false);
+    // setShowMeaning(false);
     setIndex(rand);
   };
 
@@ -82,7 +81,7 @@ export default function VocabPage() {
               aria-label="Ô tìm kiếm từ vựng"
             />
             <span className="text-xs text-gray-500 whitespace-nowrap">
-              {hasNoResults ? '0 / 0' : `${index + 1} / ${filtered.length}`}
+              {hasNoResults ? "0 / 0" : `${index + 1} / ${filtered.length}`}
             </span>
           </div>
 
@@ -117,13 +116,13 @@ export default function VocabPage() {
                 >
                   Trước
                 </button>
-                <button
+                {/* <button
                   className="rounded-lg bg-blue-600 hover:bg-blue-700 text-white px-3 py-2 text-sm font-medium"
                   onClick={() => setShowMeaning((s) => !s)}
                   aria-label="Hiện nghĩa"
                 >
                   {showMeaning ? "Ẩn nghĩa" : "Hiện nghĩa"}
-                </button>
+                </button> */}
                 <button
                   className="rounded-lg bg-gray-100 hover:bg-gray-200 text-gray-800 px-3 py-2 text-sm font-medium"
                   onClick={handleNext}
@@ -143,31 +142,29 @@ export default function VocabPage() {
                 </button>
               </div>
 
-              {showMeaning && (
-                <div className="rounded-lg border border-gray-200 bg-gray-50 p-4 text-sm text-gray-700">
-                  {item.detail.eng && (
-                    <div>
-                      <span className="font-medium">EN:</span> {item.detail.eng}
-                    </div>
-                  )}
-                  {item.detail.vni && (
-                    <div>
-                      <span className="font-medium">VI:</span> {item.detail.vni}
-                    </div>
-                  )}
-                  {item.detail.example && (
-                    <div className="mt-2">
-                      <div className="text-gray-800">{item.detail.example}</div>
-                      {item.detail.example_vni && (
-                        <div className="text-gray-600">
-                          {item.detail.example_vni}
-                        </div>
-                      )}
-                      <AudioButton text={item.detail.example} size="sm" />
-                    </div>
-                  )}
-                </div>
-              )}
+              <div className="rounded-lg border border-gray-200 bg-gray-50 p-4 text-sm text-gray-700">
+                {item.detail.eng && (
+                  <div>
+                    <span className="font-medium">EN:</span> {item.detail.eng}
+                  </div>
+                )}
+                {item.detail.vni && (
+                  <div>
+                    <span className="font-medium">VI:</span> {item.detail.vni}
+                  </div>
+                )}
+                {item.detail.example && (
+                  <div className="mt-2">
+                    <div className="text-gray-800">{item.detail.example}</div>
+                    {item.detail.example_vni && (
+                      <div className="text-gray-600">
+                        {item.detail.example_vni}
+                      </div>
+                    )}
+                    <AudioButton text={item.detail.example} size="sm" />
+                  </div>
+                )}
+              </div>
             </>
           )}
         </div>
